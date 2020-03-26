@@ -5,15 +5,16 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".ui.home.HomeFragment" >
+    tools:context=".ui.archive.ArchiveFragment" >
 
     <com.google.android.material.tabs.TabLayout
-        android:id="@+id/tab_layout_home"
+        android:id="@+id/tab_layout_archive"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        app:tabMode="scrollable" />
 
     <androidx.viewpager2.widget.ViewPager2
-        android:id="@+id/pager_home"
+        android:id="@+id/pager_archive"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1" />
