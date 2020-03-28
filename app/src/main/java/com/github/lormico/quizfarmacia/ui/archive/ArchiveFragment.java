@@ -8,9 +8,11 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
+import androidx.lifecycle.ViewModelProvider;
 import androidx.viewpager2.widget.ViewPager2;
 
 import com.github.lormico.quizfarmacia.R;
+import com.github.lormico.quizfarmacia.persistence.QuesitoViewModel;
 import com.google.android.material.tabs.TabLayout;
 import com.google.android.material.tabs.TabLayoutMediator;
 
@@ -21,16 +23,17 @@ import com.google.android.material.tabs.TabLayoutMediator;
  */
 public class ArchiveFragment extends Fragment {
 
-    ArchiveFragmentStateAdapter archiveFragmentStateAdapter;
-    ViewPager2 viewPager;
+    private TabLayout tabLayout;
+    private ViewPager2 viewPager;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_archive, container, false);
         // spostare tutto questo sotto in onViewCreated?
-        TabLayout tabLayout = (TabLayout) view.findViewById(R.id.tab_layout_archive);
+        tabLayout = (TabLayout) view.findViewById(R.id.tab_layout_archive);
 
-        archiveFragmentStateAdapter = new ArchiveFragmentStateAdapter(this);
+        // L'adapter fornisce i Fragment che andranno a popolare il ViewPager
+        ArchiveFragmentStateAdapter archiveFragmentStateAdapter = new ArchiveFragmentStateAdapter(this);
         viewPager = (ViewPager2) view.findViewById(R.id.pager_archive);
         viewPager.setAdapter(archiveFragmentStateAdapter);
         return view;
@@ -38,7 +41,9 @@ public class ArchiveFragment extends Fragment {
 
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
-        TabLayout tabLayout = view.findViewById(R.id.tab_layout_archive);
+        super.onViewCreated(view, savedInstanceState);
+
+        // Il Mediator collega il TabLayout al ViewPager
         new TabLayoutMediator(tabLayout, viewPager,
                 (tab, position) -> tab.setText("OBJECT " + (position + 1))
         ).attach();

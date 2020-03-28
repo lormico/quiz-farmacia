@@ -3,36 +3,95 @@ package com.github.lormico.quizfarmacia.persistence;
 import androidx.annotation.NonNull;
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;
-import androidx.room.PrimaryKey;
 
-@Entity(tableName = "Quesiti", primaryKeys = {"id_domanda", "materia"})
+@Entity(tableName = "quesiti", primaryKeys = {"id_domanda", "materia"})
 public class Quesito {
+
+    public Quesito(int idDomanda, @NonNull String materia, @NonNull String domanda,
+                   @NonNull String rispostaA, @NonNull String rispostaB, @NonNull String rispostaC,
+                   @NonNull String rispostaD, @NonNull String rispostaE, @NonNull String soluzione) {
+        this.idDomanda = idDomanda;
+        this.materia = materia;
+        this.domanda = domanda;
+        this.rispostaA = rispostaA;
+        this.rispostaB = rispostaB;
+        this.rispostaC = rispostaC;
+        this.rispostaD = rispostaD;
+        this.rispostaE = rispostaE;
+        this.soluzione = soluzione;
+    }
+
     @ColumnInfo(name = "id_domanda")
     @NonNull
-    public int idDomanda;
+    private int idDomanda;
 
     @ColumnInfo
     @NonNull
-    public String materia;
+    private String materia;
 
     @ColumnInfo
-    public String domanda;
+    @NonNull
+    private String domanda;
 
     @ColumnInfo(name = "risposta_a")
-    public String rispostaA;
+    @NonNull
+    private String rispostaA;
 
     @ColumnInfo(name = "risposta_b")
-    public String rispostaB;
+    @NonNull
+    private String rispostaB;
 
     @ColumnInfo(name = "risposta_c")
-    public String rispostaC;
+    @NonNull
+    private String rispostaC;
 
     @ColumnInfo(name = "risposta_d")
-    public String rispostaD;
+    @NonNull
+    private String rispostaD;
 
     @ColumnInfo(name = "risposta_e")
-    public String rispostaE;
+    @NonNull
+    private String rispostaE;
 
-    @ColumnInfo(name = "soluzione")
-    public String soluzione;
+    @ColumnInfo(name = "risposta_esatta")
+    @NonNull
+    private String soluzione;
+
+    public int getIdDomanda() {
+        return idDomanda;
+    }
+
+    @NonNull
+    public String getMateria() {
+        return materia;
+    }
+
+    @NonNull
+    public String getDomanda() {
+        return domanda;
+    }
+
+    public String getRispostaA() {
+        return rispostaA;
+    }
+
+    public String getRispostaB() {
+        return rispostaB;
+    }
+
+    public String getRispostaC() {
+        return rispostaC;
+    }
+
+    public String getRispostaD() {
+        return rispostaD;
+    }
+
+    public String getRispostaE() {
+        return rispostaE;
+    }
+
+    public String getSoluzione() {
+        return soluzione;
+    }
 }
