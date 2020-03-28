@@ -16,6 +16,8 @@ import com.github.lormico.quizfarmacia.persistence.QuesitoViewModel;
 import com.google.android.material.tabs.TabLayout;
 import com.google.android.material.tabs.TabLayoutMediator;
 
+import java.util.List;
+
 /**
  * Classe per gestire la schermata principale: dovrò visualizzare
  * tutti i quesiti, suddivisi in schede a seconda della materia,
@@ -43,9 +45,15 @@ public class ArchiveFragment extends Fragment {
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
+        /* TODO avere questo anche nel FragmentStateAdapter è ridondante? È meglio definirlo
+           solo da una parte? */
+        QuesitoViewModel viewModel = new ViewModelProvider(requireActivity())
+                .get(QuesitoViewModel.class);
+        List<String> subjectList = viewModel.getSubjectList();
+
         // Il Mediator collega il TabLayout al ViewPager
         new TabLayoutMediator(tabLayout, viewPager,
-                (tab, position) -> tab.setText("OBJECT " + (position + 1))
+                (tab, position) -> tab.setText(subjectList.get(position))
         ).attach();
     }
 }
