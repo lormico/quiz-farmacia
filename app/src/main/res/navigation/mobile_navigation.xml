@@ -12,14 +12,9 @@
         tools:layout="@layout/fragment_archive" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.github.lormico.quizfarmacia.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_quiz"
+        android:name="com.github.lormico.quizfarmacia.ui.quiz.QuizFragment"
+        android:label="@string/menu_quiz"
+        tools:layout="@layout/fragment_quiz" />
 
-    <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.github.lormico.quizfarmacia.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
 </navigation>

@@ -1,4 +1,4 @@
-package com.github.lormico.quizfarmacia.ui.slideshow;
+package com.github.lormico.quizfarmacia.ui.quiz;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -14,17 +14,17 @@ import androidx.lifecycle.ViewModelProviders;
 
 import com.github.lormico.quizfarmacia.R;
 
-public class SlideshowFragment extends Fragment {
+public class QuizFragment extends Fragment {
 
-    private SlideshowViewModel slideshowViewModel;
+    private QuizViewModel quizViewModel;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        slideshowViewModel =
-                ViewModelProviders.of(this).get(SlideshowViewModel.class);
-        View root = inflater.inflate(R.layout.fragment_slideshow, container, false);
-        final TextView textView = root.findViewById(R.id.text_slideshow);
-        slideshowViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
+        quizViewModel =
+                ViewModelProviders.of(this).get(QuizViewModel.class);
+        View root = inflater.inflate(R.layout.fragment_quiz, container, false);
+        final TextView textView = root.findViewById(R.id.text_quiz);
+        quizViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
             @Override
             public void onChanged(@Nullable String s) {
                 textView.setText(s);
