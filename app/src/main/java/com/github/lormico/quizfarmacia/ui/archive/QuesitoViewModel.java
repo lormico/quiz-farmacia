@@ -1,20 +1,21 @@
-package com.github.lormico.quizfarmacia.persistence;
+package com.github.lormico.quizfarmacia.ui.archive;
 
 import android.app.Application;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 
+import com.github.lormico.quizfarmacia.persistence.Quesito;
+import com.github.lormico.quizfarmacia.persistence.QuesitoRepository;
+
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 /**
  * Classe che fa da tramite fra il Repository e l'interfaccia utente.
- * TODO spostare nel pacchetto ui.archive?
  */
-public class QuesitoViewModel extends AndroidViewModel {
+class QuesitoViewModel extends AndroidViewModel {
 
     private QuesitoRepository mRepository;
     private List<String> mSubjectList;

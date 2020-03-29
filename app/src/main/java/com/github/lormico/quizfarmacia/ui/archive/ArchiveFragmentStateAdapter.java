@@ -8,7 +8,6 @@ import androidx.lifecycle.ViewModelProvider;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
 import com.github.lormico.quizfarmacia.persistence.Quesito;
-import com.github.lormico.quizfarmacia.persistence.QuesitoViewModel;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -12,7 +12,6 @@ import androidx.lifecycle.ViewModelProvider;
 import androidx.viewpager2.widget.ViewPager2;
 
 import com.github.lormico.quizfarmacia.R;
-import com.github.lormico.quizfarmacia.persistence.QuesitoViewModel;
 import com.google.android.material.tabs.TabLayout;
 import com.google.android.material.tabs.TabLayoutMediator;
 
@@ -27,16 +26,19 @@ public class ArchiveFragment extends Fragment {
 
     private TabLayout tabLayout;
     private ViewPager2 viewPager;
+    private QuesitoViewModel viewModel;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_archive, container, false);
+        viewModel = new ViewModelProvider(requireActivity()).get(QuesitoViewModel.class);
+
         // spostare tutto questo sotto in onViewCreated?
-        tabLayout = (TabLayout) view.findViewById(R.id.tab_layout_archive);
+        tabLayout = view.findViewById(R.id.tab_layout_archive);
 
         // L'adapter fornisce i Fragment che andranno a popolare il ViewPager
         ArchiveFragmentStateAdapter archiveFragmentStateAdapter = new ArchiveFragmentStateAdapter(this);
-        viewPager = (ViewPager2) view.findViewById(R.id.pager_archive);
+        viewPager = view.findViewById(R.id.pager_archive);
         viewPager.setAdapter(archiveFragmentStateAdapter);
         return view;
     }
@@ -45,10 +47,6 @@ public class ArchiveFragment extends Fragment {
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
-        /* TODO avere questo anche nel FragmentStateAdapter è ridondante? È meglio definirlo
-           solo da una parte? */
-        QuesitoViewModel viewModel = new ViewModelProvider(requireActivity())
-                .get(QuesitoViewModel.class);
         List<String> subjectList = viewModel.getSubjectList();
 
         // Il Mediator collega il TabLayout al ViewPager
