@@ -5,8 +5,8 @@ import android.app.Application;
 import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 
-import com.github.lormico.quizfarmacia.persistence.Quesito;
-import com.github.lormico.quizfarmacia.persistence.QuesitoRepository;
+import com.github.lormico.quizfarmacia.persistence.Question;
+import com.github.lormico.quizfarmacia.persistence.QuestionRepository;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,15 +15,15 @@ import java.util.Map;
 /**
  * Classe che fa da tramite fra il Repository e l'interfaccia utente.
  */
-class QuesitoViewModel extends AndroidViewModel {
+public class QuestionViewModel extends AndroidViewModel {
 
-    private QuesitoRepository mRepository;
+    private QuestionRepository mRepository;
     private List<String> mSubjectList;
-    private Map<String, ArrayList<Quesito>> mQuestionsBySubjectMap;
+    private Map<String, ArrayList<Question>> mQuestionsBySubjectMap;
 
-    public QuesitoViewModel(@NonNull Application application) {
+    public QuestionViewModel(@NonNull Application application) {
         super(application);
-        mRepository = new QuesitoRepository(application);
+        mRepository = new QuestionRepository(application);
         mSubjectList = mRepository.getAllSubjects();
         mQuestionsBySubjectMap = mRepository.getQuestionsBySubjectMap();
     }
@@ -32,7 +32,7 @@ class QuesitoViewModel extends AndroidViewModel {
         return mSubjectList;
     }
 
-    public Map<String, ArrayList<Quesito>> getQuestionsBySubjectMap() {
+    public Map<String, ArrayList<Question>> getQuestionsBySubjectMap() {
         return mQuestionsBySubjectMap;
     }
 }

@@ -7,7 +7,7 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
-import com.github.lormico.quizfarmacia.persistence.Quesito;
+import com.github.lormico.quizfarmacia.persistence.Question;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,7 +21,7 @@ import java.util.Map;
 public class ArchiveFragmentStateAdapter extends FragmentStateAdapter {
 
     private List<String> mSubjects;
-    private Map<String, ArrayList<Quesito>> mQuestionsBySubjectMap;
+    private Map<String, ArrayList<Question>> mQuestionsBySubjectMap;
 
     /**
      * Costruttore che oltre al comportamento della superclasse carica
@@ -31,8 +31,8 @@ public class ArchiveFragmentStateAdapter extends FragmentStateAdapter {
      */
     public ArchiveFragmentStateAdapter(@NonNull Fragment fragment) {
         super(fragment);
-        QuesitoViewModel viewModel = new ViewModelProvider(fragment.requireActivity())
-                .get(QuesitoViewModel.class);
+        QuestionViewModel viewModel = new ViewModelProvider(fragment.requireActivity())
+                .get(QuestionViewModel.class);
         mSubjects = viewModel.getSubjectList();
         mQuestionsBySubjectMap = viewModel.getQuestionsBySubjectMap();
     }
@@ -49,7 +49,7 @@ public class ArchiveFragmentStateAdapter extends FragmentStateAdapter {
         Fragment fragment = new SubjectFragment();
 
         String subject = mSubjects.get(position);
-        ArrayList<Quesito> questions = mQuestionsBySubjectMap.get(subject);
+        ArrayList<Question> questions = mQuestionsBySubjectMap.get(subject);
 
         Bundle args = new Bundle();
         args.putSerializable(SubjectFragment.QUESTIONS, questions);

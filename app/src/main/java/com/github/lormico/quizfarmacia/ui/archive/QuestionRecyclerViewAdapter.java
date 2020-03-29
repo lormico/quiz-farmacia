@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.github.lormico.quizfarmacia.R;
 import com.github.lormico.quizfarmacia.Util;
-import com.github.lormico.quizfarmacia.persistence.Quesito;
+import com.github.lormico.quizfarmacia.persistence.Question;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -21,7 +21,7 @@ import java.util.ArrayList;
  */
 public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRecyclerViewAdapter.ViewHolder> {
 
-    private ArrayList<Quesito> dataset;
+    private ArrayList<Question> dataset;
 
     static class ViewHolder extends RecyclerView.ViewHolder {
         public View listItemView;
@@ -32,7 +32,7 @@ public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRe
     }
 
     public QuestionRecyclerViewAdapter(Serializable questions) {
-        dataset = (ArrayList<Quesito>) questions;
+        dataset = (ArrayList<Question>) questions;
     }
 
     @Override
@@ -45,18 +45,18 @@ public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRe
 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
-        Quesito question = dataset.get(position);
+        Question question = dataset.get(position);
 
         TextView questionText = holder.listItemView.findViewById(R.id.list_item_question_text);
-        questionText.setText(question.getDomanda());
+        questionText.setText(question.getQuestion());
 
         TextView solutionText = holder.listItemView.findViewById(R.id.list_item_question_solution);
-        String solutionString = question.getSoluzione() + ". " +
+        String solutionString = question.getSolution() + ". " +
                 Util.getSolutionString(question);
         solutionText.setText(solutionString);
 
         TextView idText = holder.listItemView.findViewById(R.id.list_item_question_id);
-        idText.setText("#" + question.getIdDomanda());
+        idText.setText("#" + question.getQuestionId());
 
     }
 

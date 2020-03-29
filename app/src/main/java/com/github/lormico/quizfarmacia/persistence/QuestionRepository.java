@@ -11,20 +11,20 @@ import java.util.Map;
  * Repository per accedere in modo "pulito" alla persistenza.
  * Nota che non dovrei MAI chiamare direttamente il DAO.
  */
-public class QuesitoRepository {
+public class QuestionRepository {
 
-    private QuesitoDAO mQuesitoDAO;
+    private QuestionDAO mQuestionDAO;
     private List<String> mAllSubjects;
-    private Map<String, ArrayList<Quesito>> mQuestionsBySubjectMap;
+    private Map<String, ArrayList<Question>> mQuestionsBySubjectMap;
 
-    public QuesitoRepository(Application application) {
-        QuesitoDatabase db = QuesitoDatabase.getDatabase(application);
-        mQuesitoDAO = db.quesitoDAO();
-        mAllSubjects = mQuesitoDAO.getAllSubjects();
+    public QuestionRepository(Application application) {
+        QuestionDatabase db = QuestionDatabase.getDatabase(application);
+        mQuestionDAO = db.questionDAO();
+        mAllSubjects = mQuestionDAO.getAllSubjects();
         mQuestionsBySubjectMap = new HashMap<>();
         for (String subject : mAllSubjects) {
-            List<Quesito> result = mQuesitoDAO.loadAllBySubject(subject);
-            ArrayList<Quesito> questionArrayList = new ArrayList<>(result.size());
+            List<Question> result = mQuestionDAO.loadAllBySubject(subject);
+            ArrayList<Question> questionArrayList = new ArrayList<>(result.size());
             questionArrayList.addAll(result);
             mQuestionsBySubjectMap.put(subject, questionArrayList);
         }
@@ -34,7 +34,7 @@ public class QuesitoRepository {
         return mAllSubjects;
     }
 
-    public Map<String, ArrayList<Quesito>> getQuestionsBySubjectMap() {
+    public Map<String, ArrayList<Question>> getQuestionsBySubjectMap() {
         return mQuestionsBySubjectMap;
     }
 }

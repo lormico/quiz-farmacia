@@ -9,22 +9,22 @@ import androidx.room.RoomDatabase;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-@Database(entities = {Quesito.class}, version = 1, exportSchema = false)
-public abstract class QuesitoDatabase extends RoomDatabase {
-    public abstract QuesitoDAO quesitoDAO();
+@Database(entities = {Question.class}, version = 1, exportSchema = false)
+public abstract class QuestionDatabase extends RoomDatabase {
+    public abstract QuestionDAO questionDAO();
 
-    private static volatile QuesitoDatabase INSTANCE;
+    private static volatile QuestionDatabase INSTANCE;
     private static final int NUMBER_OF_THREADS = 1;
     // TODO a che cavolo mi serve????
     static final ExecutorService databaseWriteExecutor =
             Executors.newFixedThreadPool(NUMBER_OF_THREADS);
 
-    static QuesitoDatabase getDatabase(final Context context) {
+    static QuestionDatabase getDatabase(final Context context) {
         if (INSTANCE == null) {
-            synchronized (QuesitoDatabase.class) {
+            synchronized (QuestionDatabase.class) {
                 if (INSTANCE == null) {
                     INSTANCE = Room.databaseBuilder(context.getApplicationContext(),
-                            QuesitoDatabase.class, "Questions.db")
+                            QuestionDatabase.class, "Questions.db")
                             .createFromAsset("databases/quesiti.sqlite")
                             .allowMainThreadQueries()
                             .build();

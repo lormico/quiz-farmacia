@@ -6,12 +6,12 @@ import androidx.room.Query;
 import java.util.List;
 
 @Dao
-public interface QuesitoDAO {
+public interface QuestionDAO {
     @Query("SELECT * FROM quesiti")
-    List<Quesito> getAll();
+    List<Question> getAll();
 
     @Query("SELECT * FROM quesiti WHERE materia = :subject")
-    List<Quesito> loadAllBySubject(String subject);
+    List<Question> loadAllBySubject(String subject);
 
     @Query("SELECT DISTINCT materia FROM quesiti")
     List<String> getAllSubjects();

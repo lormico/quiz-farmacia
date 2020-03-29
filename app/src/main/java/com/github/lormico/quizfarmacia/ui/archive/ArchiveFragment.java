@@ -26,12 +26,12 @@ public class ArchiveFragment extends Fragment {
 
     private TabLayout tabLayout;
     private ViewPager2 viewPager;
-    private QuesitoViewModel viewModel;
+    private QuestionViewModel viewModel;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_archive, container, false);
-        viewModel = new ViewModelProvider(requireActivity()).get(QuesitoViewModel.class);
+        viewModel = new ViewModelProvider(requireActivity()).get(QuestionViewModel.class);
 
         // spostare tutto questo sotto in onViewCreated?
         tabLayout = view.findViewById(R.id.tab_layout_archive);
