@@ -9,7 +9,10 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.github.lormico.quizfarmacia.R;
+import com.github.lormico.quizfarmacia.Util;
 import com.github.lormico.quizfarmacia.persistence.Quesito;
+
+import org.w3c.dom.Text;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -44,8 +47,19 @@ public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRe
 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
+        Quesito question = dataset.get(position);
+
         TextView questionText = (TextView) holder.listItemView.findViewById(R.id.list_item_question_text);
-        questionText.setText(dataset.get(position).getDomanda());
+        questionText.setText(question.getDomanda());
+
+        TextView solutionText = (TextView) holder.listItemView.findViewById(R.id.list_item_question_solution);
+        String solutionString = question.getSoluzione() + ". " +
+                Util.getSolutionString(question);
+        solutionText.setText(solutionString);
+
+        TextView idText = (TextView) holder.listItemView.findViewById(R.id.list_item_question_id);
+        idText.setText("#" + question.getIdDomanda());
+
     }
 
     @Override
