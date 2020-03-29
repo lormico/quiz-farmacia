@@ -1,5 +1,6 @@
 package com.github.lormico.quizfarmacia.ui.archive;
 
+import android.graphics.Color;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -9,8 +10,6 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.github.lormico.quizfarmacia.R;
-import com.github.lormico.quizfarmacia.Util;
-import com.github.lormico.quizfarmacia.persistence.Question;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -21,18 +20,58 @@ import java.util.ArrayList;
  */
 public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRecyclerViewAdapter.ViewHolder> {
 
-    private ArrayList<Question> dataset;
+    private ArrayList<QuestionViewModel.QuestionItem> dataset;
 
     static class ViewHolder extends RecyclerView.ViewHolder {
-        public View listItemView;
-        public ViewHolder(View v) {
-            super(v);
-            listItemView = v;
+
+        private TextView questionText;
+        private TextView questionId;
+        private TextView answerA;
+        private TextView answerB;
+        private TextView answerC;
+        private TextView answerD;
+        private TextView answerE;
+
+        private View subItem;
+
+        ViewHolder(View itemView) {
+            super(itemView);
+
+            questionText = itemView.findViewById(R.id.list_item_question_text);
+            questionId = itemView.findViewById(R.id.list_item_question_id);
+            answerA = itemView.findViewById(R.id.list_item_question_answer_a);
+            answerB = itemView.findViewById(R.id.list_item_question_answer_b);
+            answerC = itemView.findViewById(R.id.list_item_question_answer_c);
+            answerD = itemView.findViewById(R.id.list_item_question_answer_d);
+            answerE = itemView.findViewById(R.id.list_item_question_answer_e);
+            subItem = itemView.findViewById(R.id.list_item_question_collapsible_item);
+        }
+
+        private void bind(QuestionViewModel.QuestionItem question) {
+            boolean expanded = question.isExpanded();
+            subItem.setVisibility(expanded ? View.VISIBLE : View.GONE);
+
+            questionText.setText(question.getQuestion());
+            questionId.setText("#" + question.getQuestionId());
+            answerA.setText("A. " + question.getAnswerA());
+            answerB.setText("B. " + question.getAnswerB());
+            answerC.setText("C. " + question.getAnswerC());
+            answerD.setText("D. " + question.getAnswerD());
+            answerE.setText("E. " + question.getAnswerE());
+
+            int correctColor = Color.parseColor("#1FAA00");
+            int incorrectColor = Color.parseColor("#8A8A8A");
+            String solution = question.getSolution();
+            answerA.setTextColor("A".equals(solution) ? correctColor : incorrectColor);
+            answerB.setTextColor("B".equals(solution) ? correctColor : incorrectColor);
+            answerC.setTextColor("C".equals(solution) ? correctColor : incorrectColor);
+            answerD.setTextColor("D".equals(solution) ? correctColor : incorrectColor);
+            answerE.setTextColor("E".equals(solution) ? correctColor : incorrectColor);
         }
     }
 
     public QuestionRecyclerViewAdapter(Serializable questions) {
-        dataset = (ArrayList<Question>) questions;
+        dataset = (ArrayList<QuestionViewModel.QuestionItem>) questions;
     }
 
     @Override
@@ -45,19 +84,14 @@ public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRe
 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
-        Question question = dataset.get(position);
+        QuestionViewModel.QuestionItem question = dataset.get(position);
+        holder.bind(question);
 
-        TextView questionText = holder.listItemView.findViewById(R.id.list_item_question_text);
-        questionText.setText(question.getQuestion());
-
-        TextView solutionText = holder.listItemView.findViewById(R.id.list_item_question_solution);
-        String solutionString = question.getSolution() + ". " +
-                Util.getSolutionString(question);
-        solutionText.setText(solutionString);
-
-        TextView idText = holder.listItemView.findViewById(R.id.list_item_question_id);
-        idText.setText("#" + question.getQuestionId());
-
+        holder.itemView.setOnClickListener(v -> {
+            boolean expanded = question.isExpanded();
+            question.setExpanded(!expanded);
+            notifyItemChanged(position);
+        });
     }
 
     @Override
@@ -65,3 +99,5 @@ public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRe
         return dataset.size();
     }
 }
+
+
