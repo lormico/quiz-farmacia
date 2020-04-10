@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:paddingStart="16dp"
+    android:paddingTop="16dp"
+    android:paddingEnd="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".ui.quiz.QuestionFragment">
+
+    <TextView
+        android:id="@+id/quiz_question_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder_text_long"
+        android:textSize="@dimen/archive_question_text_size" />
+
+    <RadioGroup
+        android:id="@+id/quiz_answer_group"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="16dp">
+        <RadioButton android:id="@+id/quiz_answer_a"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/placeholder_text"/>
+        <RadioButton android:id="@+id/quiz_answer_b"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/placeholder_text"/>
+        <RadioButton android:id="@+id/quiz_answer_c"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/placeholder_text"/>
+        <RadioButton android:id="@+id/quiz_answer_d"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/placeholder_text"/>
+        <RadioButton android:id="@+id/quiz_answer_e"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/placeholder_text"/>
+    </RadioGroup>
+
+</LinearLayout>

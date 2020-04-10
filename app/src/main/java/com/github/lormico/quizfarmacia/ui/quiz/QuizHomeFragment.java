@@ -4,32 +4,36 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
+import android.widget.Button;
 
 import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
-import androidx.lifecycle.Observer;
-import androidx.lifecycle.ViewModelProviders;
+import androidx.lifecycle.ViewModelProvider;
+import androidx.navigation.Navigation;
 
 import com.github.lormico.quizfarmacia.R;
 
 public class QuizHomeFragment extends Fragment {
 
-    private QuizViewModel quizViewModel;
+    private QuizViewModel viewModel;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        quizViewModel =
-                ViewModelProviders.of(this).get(QuizViewModel.class);
-        View root = inflater.inflate(R.layout.fragment_quiz_home, container, false);
-        final TextView textView = root.findViewById(R.id.text_quiz_home);
-        quizViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
+        View view = inflater.inflate(R.layout.fragment_quiz_home, container, false);
+        viewModel = new ViewModelProvider(requireActivity()).get(QuizViewModel.class);
+
+        final Button button = view.findViewById(R.id.quiz_start_button);
+/*        viewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
             @Override
             public void onChanged(@Nullable String s) {
-                textView.setText(s);
+                button.setText(s);
             }
+        });*/
+
+        button.setOnClickListener(v -> {
+            Navigation.findNavController(view).navigate(R.id.nav_quiz_container);
         });
-        return root;
+
+        return view;
     }
 }

@@ -10,6 +10,8 @@
     <string name="menu_archive">Archivio Quesiti</string>
     <string name="menu_quiz">Quiz</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="start_quiz">Avvia Quiz</string>
+
+    <string name="placeholder_text_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in placerat leo. Aenean pellentesque est a ornare gravida. Curabitur pretium tincidunt nunc eget feugiat. Donec in tincidunt lectus. Nullam in mauris ut sapien venenatis accumsan. Praesent lorem nibh, mattis sit.</string>
     <string name="placeholder_text">Placeholder Text</string>
 </resources>
