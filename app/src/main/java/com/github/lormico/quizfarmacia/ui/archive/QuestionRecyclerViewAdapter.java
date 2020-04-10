@@ -20,7 +20,7 @@ import java.util.ArrayList;
  */
 public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRecyclerViewAdapter.ViewHolder> {
 
-    private ArrayList<QuestionViewModel.QuestionItem> dataset;
+    private ArrayList<ArchiveViewModel.QuestionItem> dataset;
 
     static class ViewHolder extends RecyclerView.ViewHolder {
 
@@ -47,7 +47,7 @@ public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRe
             subItem = itemView.findViewById(R.id.list_item_question_collapsible_item);
         }
 
-        private void bind(QuestionViewModel.QuestionItem question) {
+        private void bind(ArchiveViewModel.QuestionItem question) {
             boolean expanded = question.isExpanded();
             subItem.setVisibility(expanded ? View.VISIBLE : View.GONE);
 
@@ -71,7 +71,7 @@ public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRe
     }
 
     public QuestionRecyclerViewAdapter(Serializable questions) {
-        dataset = (ArrayList<QuestionViewModel.QuestionItem>) questions;
+        dataset = (ArrayList<ArchiveViewModel.QuestionItem>) questions;
     }
 
     @Override
@@ -84,7 +84,7 @@ public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRe
 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
-        QuestionViewModel.QuestionItem question = dataset.get(position);
+        ArchiveViewModel.QuestionItem question = dataset.get(position);
         holder.bind(question);
 
         holder.itemView.setOnClickListener(v -> {

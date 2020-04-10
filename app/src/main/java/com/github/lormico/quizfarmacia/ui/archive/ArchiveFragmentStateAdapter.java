@@ -19,7 +19,7 @@ import java.util.Map;
 public class ArchiveFragmentStateAdapter extends FragmentStateAdapter {
 
     private List<String> mSubjects;
-    private Map<String, ArrayList<QuestionViewModel.QuestionItem>> mQuestionsBySubjectMap;
+    private Map<String, ArrayList<ArchiveViewModel.QuestionItem>> mQuestionsBySubjectMap;
 
     /**
      * Costruttore che oltre al comportamento della superclasse carica
@@ -29,8 +29,8 @@ public class ArchiveFragmentStateAdapter extends FragmentStateAdapter {
      */
     public ArchiveFragmentStateAdapter(@NonNull Fragment fragment) {
         super(fragment);
-        QuestionViewModel viewModel = new ViewModelProvider(fragment.requireActivity())
-                .get(QuestionViewModel.class);
+        ArchiveViewModel viewModel = new ViewModelProvider(fragment.requireActivity())
+                .get(ArchiveViewModel.class);
         mSubjects = viewModel.getSubjectList();
         mQuestionsBySubjectMap = viewModel.getQuestionsBySubjectMap();
     }
@@ -47,7 +47,7 @@ public class ArchiveFragmentStateAdapter extends FragmentStateAdapter {
         Fragment fragment = new SubjectFragment();
 
         String subject = mSubjects.get(position);
-        ArrayList<QuestionViewModel.QuestionItem> questions = mQuestionsBySubjectMap.get(subject);
+        ArrayList<ArchiveViewModel.QuestionItem> questions = mQuestionsBySubjectMap.get(subject);
 
         Bundle args = new Bundle();
         args.putSerializable(SubjectFragment.QUESTIONS, questions);

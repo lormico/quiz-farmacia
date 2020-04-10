@@ -4,10 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.quiz.QuizFragment">
+    tools:context=".ui.quiz.QuizHomeFragment">
 
     <TextView
-        android:id="@+id/text_quiz"
+        android:id="@+id/text_quiz_home"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"

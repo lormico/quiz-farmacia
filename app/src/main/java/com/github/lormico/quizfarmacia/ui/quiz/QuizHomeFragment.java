@@ -14,7 +14,7 @@ import androidx.lifecycle.ViewModelProviders;
 
 import com.github.lormico.quizfarmacia.R;
 
-public class QuizFragment extends Fragment {
+public class QuizHomeFragment extends Fragment {
 
     private QuizViewModel quizViewModel;
 
@@ -22,8 +22,8 @@ public class QuizFragment extends Fragment {
                              ViewGroup container, Bundle savedInstanceState) {
         quizViewModel =
                 ViewModelProviders.of(this).get(QuizViewModel.class);
-        View root = inflater.inflate(R.layout.fragment_quiz, container, false);
-        final TextView textView = root.findViewById(R.id.text_quiz);
+        View root = inflater.inflate(R.layout.fragment_quiz_home, container, false);
+        final TextView textView = root.findViewById(R.id.text_quiz_home);
         quizViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
             @Override
             public void onChanged(@Nullable String s) {

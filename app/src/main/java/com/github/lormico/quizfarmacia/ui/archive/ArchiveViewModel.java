@@ -16,7 +16,7 @@ import java.util.Map;
 /**
  * Classe che fa da tramite fra il Repository e l'interfaccia utente.
  */
-public class QuestionViewModel extends AndroidViewModel {
+public class ArchiveViewModel extends AndroidViewModel {
 
     /**
      * Classe estesa da Question solamente per aggiungere l'attributo
@@ -43,7 +43,7 @@ public class QuestionViewModel extends AndroidViewModel {
     private List<String> mSubjectList;
     private Map<String, ArrayList<QuestionItem>> mQuestionsBySubjectMap;
 
-    public QuestionViewModel(@NonNull Application application) {
+    public ArchiveViewModel(@NonNull Application application) {
         super(application);
         mRepository = new QuestionRepository(application);
         mSubjectList = mRepository.getAllSubjects();
