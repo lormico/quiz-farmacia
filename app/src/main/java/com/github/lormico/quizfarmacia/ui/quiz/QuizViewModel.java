@@ -26,6 +26,10 @@ public class QuizViewModel extends AndroidViewModel {
         mAnsweredQuestions = new ArrayList<>();
     }
 
+    public Question getQuestion(String subject, int questionId) {
+        return mRepository.getQuestion(subject, questionId);
+    }
+
     public List<Question> generateRandomizedQuestions(Map<String, String> subjectNumbersMap) {
         mAnsweredQuestions.clear();
 
@@ -45,7 +49,7 @@ public class QuizViewModel extends AndroidViewModel {
         List<Question> randomizedQuestions = new ArrayList<>();
         for (Integer id : randomQuestionIds) {
             randomizedQuestions.add(questionList.get(id));
-            mAnsweredQuestions.add(new AnsweredQuestion(subject, id, -1));
+            mAnsweredQuestions.add(new AnsweredQuestion(subject, id + 1, -1));
         }
 
         return randomizedQuestions;

@@ -37,4 +37,8 @@ public class QuestionRepository {
     public Map<String, ArrayList<Question>> getQuestionsBySubjectMap() {
         return mQuestionsBySubjectMap;
     }
+
+    public Question getQuestion(String subject, int questionId) {
+        return mQuestionDAO.getFromPrimaryKeys(subject, questionId);
+    }
 }

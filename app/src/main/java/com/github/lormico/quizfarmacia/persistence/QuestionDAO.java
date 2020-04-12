@@ -15,4 +15,7 @@ public interface QuestionDAO {
 
     @Query("SELECT DISTINCT materia FROM quesiti")
     List<String> getAllSubjects();
+
+    @Query("SELECT * FROM quesiti WHERE materia = :subject AND id_domanda = :questionId")
+    Question getFromPrimaryKeys(String subject, int questionId);
 }

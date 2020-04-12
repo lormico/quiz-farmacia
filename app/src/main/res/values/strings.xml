@@ -15,6 +15,11 @@
     <string name="header_quiz_results">Risultati Quiz</string>
     <string name="start_quiz">Avvia Quiz</string>
 
+    <string name="quiz_results_score">Hai ottenuto un punteggio di %1$.2f punti!</string>
+    <string name="quiz_results_num_ok">Domande risposte correttamente: %1$d</string>
+    <string name="quiz_results_num_failed">Domande risposte erroneamente: %1$d</string>
+    <string name="quiz_results_num_unanswered">Domande senza risposta: %1$d</string>
+
     <string name="placeholder_text_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in placerat leo. Aenean pellentesque est a ornare gravida. Curabitur pretium tincidunt nunc eget feugiat. Donec in tincidunt lectus. Nullam in mauris ut sapien venenatis accumsan. Praesent lorem nibh, mattis sit.</string>
     <string name="placeholder_text">Placeholder Text</string>
 

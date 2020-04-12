@@ -45,6 +45,18 @@ public class AnsweredQuestion implements Parcelable {
         }
     };
 
+    public String getSubject() {
+        return subject;
+    }
+
+    public int getQuestionId() {
+        return questionId;
+    }
+
+    public int getAnswer() {
+        return answer;
+    }
+
     public void setAnswer(int answer) {
         this.answer = answer;
     }
