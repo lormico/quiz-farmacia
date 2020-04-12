@@ -6,7 +6,6 @@ import android.os.Bundle;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
-import androidx.preference.PreferenceFragmentCompat;
 import androidx.preference.PreferenceManager;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
@@ -40,7 +39,7 @@ public class QuizFragmentStateAdapter extends FragmentStateAdapter {
                 sharedPreferences.getString("num_questions_physics", "0"));
         subjectNumbersMap.put("Matematica",
                 sharedPreferences.getString("num_questions_maths", "0"));
-        mQuestions = viewModel.getRandomizedQuestions(subjectNumbersMap);
+        mQuestions = viewModel.generateRandomizedQuestions(subjectNumbersMap);
     }
 
     @NonNull
@@ -50,6 +49,7 @@ public class QuizFragmentStateAdapter extends FragmentStateAdapter {
         Question question = mQuestions.get(position);
 
         Bundle args = new Bundle();
+        args.putInt(QuestionFragment.POSITION, position);
         args.putString(QuestionFragment.QUESTION, question.getQuestion());
         args.putSerializable(QuestionFragment.ANSWERS, new ArrayList<>(Arrays.asList(
                 question.getAnswerA(),
@@ -58,7 +58,7 @@ public class QuizFragmentStateAdapter extends FragmentStateAdapter {
                 question.getAnswerD(),
                 question.getAnswerE()
         )));
-        args.putInt(QuestionFragment.SOLUTION, question.getSolution().charAt(0) - 65);
+//        args.putInt(QuestionFragment.SOLUTION, question.getSolution().charAt(0) - 65);
         fragment.setArguments(args);
         return fragment;
     }

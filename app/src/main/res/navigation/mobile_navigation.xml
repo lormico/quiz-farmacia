@@ -14,8 +14,8 @@
     <fragment
         android:id="@+id/nav_quiz_home"
         android:name="com.github.lormico.quizfarmacia.ui.quiz.QuizHomeFragment"
-        android:label="@string/menu_quiz"
-        tools:layout="@layout/fragment_quiz_home" >
+        android:label="@string/header_quiz_home"
+        tools:layout="@layout/fragment_quiz_home">
         <action
             android:id="@+id/action_nav_quiz_to_quizContainerFragment"
             app:destination="@id/nav_quiz_container" />
@@ -24,6 +24,19 @@
     <fragment
         android:id="@+id/nav_quiz_container"
         android:name="com.github.lormico.quizfarmacia.ui.quiz.QuizContainerFragment"
-        android:label="QuizContainerFragment" />
+        android:label="@string/header_quiz_container">
+        <action
+            android:id="@+id/end_quiz"
+            app:destination="@id/nav_quiz_result" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_quiz_result"
+        android:name="com.github.lormico.quizfarmacia.ui.quiz.QuizResultFragment"
+        android:label="@string/header_quiz_results"
+        tools:layout="@layout/fragment_quiz_result" >
+        <argument
+            android:name="answeredQuestions"
+            app:argType="com.github.lormico.quizfarmacia.ui.quiz.AnsweredQuestion[]" />
+    </fragment>
 
 </navigation>

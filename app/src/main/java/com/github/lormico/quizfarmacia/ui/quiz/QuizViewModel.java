@@ -16,37 +16,46 @@ import java.util.Map;
 public class QuizViewModel extends AndroidViewModel {
 
     private QuestionRepository mRepository;
-//    private MutableLiveData<String> mText;
     private Map<String, ArrayList<Question>> mQuestionsBySubjectMap;
+    private List<AnsweredQuestion> mAnsweredQuestions;
 
     public QuizViewModel(@NonNull Application application) {
         super(application);
         mRepository = new QuestionRepository(application);
         mQuestionsBySubjectMap = mRepository.getQuestionsBySubjectMap();
-/*        mText = new MutableLiveData<>();
-        mText.setValue("This is quiz home fragment");*/
+        mAnsweredQuestions = new ArrayList<>();
     }
 
-    public List<Question> getRandomizedQuestions(Map<String, String> subjectNumbersMap) {
+    public List<Question> generateRandomizedQuestions(Map<String, String> subjectNumbersMap) {
+        mAnsweredQuestions.clear();
 
         // TODO non sono ordinate!
         List<Question> randomizedQuestions = new ArrayList<>();
         for (Map.Entry<String, String> entry: subjectNumbersMap.entrySet()) {
             randomizedQuestions.addAll(
-                    getRandomizedQuestionsWithConditions(entry.getKey(), Integer.valueOf(entry.getValue())));
+                    generateRandomizedQuestionsWithConditions(entry.getKey(), Integer.valueOf(entry.getValue())));
         }
 
         return randomizedQuestions;
     }
 
-    private List<Question> getRandomizedQuestionsWithConditions(String subject, int n) {
+    private List<Question> generateRandomizedQuestionsWithConditions(String subject, int n) {
         List<Question> questionList = mQuestionsBySubjectMap.get(subject);
         List<Integer> randomQuestionIds = Util.getUniqueRandomNumbers(questionList.size(), n);
         List<Question> randomizedQuestions = new ArrayList<>();
-        for (Integer i : randomQuestionIds) {
-            randomizedQuestions.add(questionList.get(i));
+        for (Integer id : randomQuestionIds) {
+            randomizedQuestions.add(questionList.get(id));
+            mAnsweredQuestions.add(new AnsweredQuestion(subject, id, -1));
         }
 
         return randomizedQuestions;
+    }
+
+    public void setAnswer(Integer position, int answer) {
+        mAnsweredQuestions.get(position).setAnswer(answer);
+    }
+
+    public List<AnsweredQuestion> getAnsweredQuestions() {
+        return mAnsweredQuestions;
     }
 }
