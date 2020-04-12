@@ -10,6 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.github.lormico.quizfarmacia.R;
+import com.github.lormico.quizfarmacia.persistence.Question;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -20,7 +21,7 @@ import java.util.ArrayList;
  */
 public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRecyclerViewAdapter.ViewHolder> {
 
-    private ArrayList<ArchiveViewModel.QuestionItem> dataset;
+    private ArrayList<Question> dataset;
 
     static class ViewHolder extends RecyclerView.ViewHolder {
 
@@ -47,7 +48,7 @@ public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRe
             subItem = itemView.findViewById(R.id.list_item_question_collapsible_item);
         }
 
-        private void bind(ArchiveViewModel.QuestionItem question) {
+        private void bind(Question question) {
             boolean expanded = question.isExpanded();
             subItem.setVisibility(expanded ? View.VISIBLE : View.GONE);
 
@@ -71,7 +72,7 @@ public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRe
     }
 
     public QuestionRecyclerViewAdapter(Serializable questions) {
-        dataset = (ArrayList<ArchiveViewModel.QuestionItem>) questions;
+        dataset = (ArrayList<Question>) questions;
     }
 
     @Override
@@ -84,7 +85,7 @@ public class QuestionRecyclerViewAdapter extends RecyclerView.Adapter<QuestionRe
 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
-        ArchiveViewModel.QuestionItem question = dataset.get(position);
+        Question question = dataset.get(position);
         holder.bind(question);
 
         holder.itemView.setOnClickListener(v -> {

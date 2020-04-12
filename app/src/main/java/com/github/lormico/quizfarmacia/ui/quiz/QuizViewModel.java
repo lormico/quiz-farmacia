@@ -17,7 +17,7 @@ public class QuizViewModel extends AndroidViewModel {
 
     private QuestionRepository mRepository;
 //    private MutableLiveData<String> mText;
-private Map<String, ArrayList<Question>> mQuestionsBySubjectMap;
+    private Map<String, ArrayList<Question>> mQuestionsBySubjectMap;
 
     public QuizViewModel(@NonNull Application application) {
         super(application);

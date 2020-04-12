@@ -3,11 +3,14 @@ package com.github.lormico.quizfarmacia.persistence;
 import androidx.annotation.NonNull;
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;
+import androidx.room.Ignore;
+
+import java.io.Serializable;
 
 @Entity(tableName = "quesiti", primaryKeys = {"id_domanda", "materia"})
-public class Question {
+public class Question implements Serializable {
 
-    public Question(int questionId, @NonNull String subject, @NonNull String question,
+    public Question(@NonNull int questionId, @NonNull String subject, @NonNull String question,
                     @NonNull String answerA, @NonNull String answerB, @NonNull String answerC,
                     @NonNull String answerD, @NonNull String answerE, @NonNull String solution) {
         this.questionId = questionId;
@@ -57,6 +60,11 @@ public class Question {
     @NonNull
     private String solution;
 
+    /* property useful to the Archive section */
+    @Ignore
+    private boolean expanded;
+
+    @NonNull
     public int getQuestionId() {
         return questionId;
     }
@@ -94,4 +102,13 @@ public class Question {
     public String getSolution() {
         return solution;
     }
+
+    public boolean isExpanded() {
+        return expanded;
+    }
+
+    public void setExpanded(boolean expanded) {
+        this.expanded = expanded;
+    }
+
 }
