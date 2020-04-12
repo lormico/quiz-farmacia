@@ -27,13 +27,14 @@ public class QuizViewModel extends AndroidViewModel {
         mText.setValue("This is quiz home fragment");*/
     }
 
-    public List<Question> getRandomizedQuestions() {
+    public List<Question> getRandomizedQuestions(Map<String, String> subjectNumbersMap) {
+
+        // TODO non sono ordinate!
         List<Question> randomizedQuestions = new ArrayList<>();
-        randomizedQuestions.addAll(getRandomizedQuestionsWithConditions("Biologia", 25));
-        randomizedQuestions.addAll(getRandomizedQuestionsWithConditions("Chimica Generale ed Inorganica", 17));
-        randomizedQuestions.addAll(getRandomizedQuestionsWithConditions("Chimica Organica", 8));
-        randomizedQuestions.addAll(getRandomizedQuestionsWithConditions("Fisica", 15));
-        randomizedQuestions.addAll(getRandomizedQuestionsWithConditions("Matematica", 15));
+        for (Map.Entry<String, String> entry: subjectNumbersMap.entrySet()) {
+            randomizedQuestions.addAll(
+                    getRandomizedQuestionsWithConditions(entry.getKey(), Integer.valueOf(entry.getValue())));
+        }
 
         return randomizedQuestions;
     }

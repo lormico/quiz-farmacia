@@ -14,4 +14,10 @@
 
     <string name="placeholder_text_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in placerat leo. Aenean pellentesque est a ornare gravida. Curabitur pretium tincidunt nunc eget feugiat. Donec in tincidunt lectus. Nullam in mauris ut sapien venenatis accumsan. Praesent lorem nibh, mattis sit.</string>
     <string name="placeholder_text">Placeholder Text</string>
+
+    <string name="settings_num_questions_biology">Domande di Biologia</string>
+    <string name="settings_num_questions_general_chemistry">Domande di Chimica Generale e Inorganica</string>
+    <string name="settings_num_questions_organic_chemistry">Domande di Chimica Organica</string>
+    <string name="settings_num_questions_physics">Domande di Fisica</string>
+    <string name="settings_num_questions_maths">Domande di Matematica</string>
 </resources>

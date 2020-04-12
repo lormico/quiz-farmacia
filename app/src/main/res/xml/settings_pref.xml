@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:defaultValue="25"
+        android:key="num_questions_biology"
+        android:title="@string/settings_num_questions_biology"
+        android:inputType="numberDecimal"
+        android:digits="0123456789" />
+    <EditTextPreference
+        android:defaultValue="17"
+        android:key="num_questions_general_chemistry"
+        android:title="@string/settings_num_questions_general_chemistry"
+        android:inputType="numberDecimal"
+        android:digits="0123456789" />
+    <EditTextPreference
+        android:defaultValue="8"
+        android:key="num_questions_organic_chemistry"
+        android:title="@string/settings_num_questions_organic_chemistry"
+        android:inputType="numberDecimal"
+        android:digits="0123456789" />
+    <EditTextPreference
+        android:defaultValue="15"
+        android:key="num_questions_physics"
+        android:title="@string/settings_num_questions_physics"
+        android:inputType="numberDecimal"
+        android:digits="0123456789" />
+    <EditTextPreference
+        android:defaultValue="15"
+        android:key="num_questions_maths"
+        android:title="@string/settings_num_questions_maths"
+        android:inputType="numberDecimal"
+        android:digits="0123456789" />
+</PreferenceScreen>

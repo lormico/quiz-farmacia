@@ -1,14 +1,15 @@
 package com.github.lormico.quizfarmacia.persistence;
 
+import android.os.Parcel;
+import android.os.Parcelable;
+
 import androidx.annotation.NonNull;
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;
 import androidx.room.Ignore;
 
-import java.io.Serializable;
-
 @Entity(tableName = "quesiti", primaryKeys = {"id_domanda", "materia"})
-public class Question implements Serializable {
+public class Question implements Parcelable {
 
     public Question(@NonNull int questionId, @NonNull String subject, @NonNull String question,
                     @NonNull String answerA, @NonNull String answerB, @NonNull String answerC,
@@ -64,6 +65,31 @@ public class Question implements Serializable {
     @Ignore
     private boolean expanded;
 
+    protected Question(Parcel in) {
+        questionId = in.readInt();
+        subject = in.readString();
+        question = in.readString();
+        answerA = in.readString();
+        answerB = in.readString();
+        answerC = in.readString();
+        answerD = in.readString();
+        answerE = in.readString();
+        solution = in.readString();
+        expanded = in.readByte() != 0;
+    }
+
+    public static final Creator<Question> CREATOR = new Creator<Question>() {
+        @Override
+        public Question createFromParcel(Parcel in) {
+            return new Question(in);
+        }
+
+        @Override
+        public Question[] newArray(int size) {
+            return new Question[size];
+        }
+    };
+
     @NonNull
     public int getQuestionId() {
         return questionId;
@@ -111,4 +137,22 @@ public class Question implements Serializable {
         this.expanded = expanded;
     }
 
+    @Override
+    public int describeContents() {
+        return hashCode();
+    }
+
+    @Override
+    public void writeToParcel(Parcel dest, int flags) {
+        dest.writeInt(questionId);
+        dest.writeString(subject);
+        dest.writeString(question);
+        dest.writeString(answerA);
+        dest.writeString(answerB);
+        dest.writeString(answerC);
+        dest.writeString(answerD);
+        dest.writeString(answerE);
+        dest.writeString(solution);
+        dest.writeByte((byte) (expanded ? 1 : 0));
+    }
 }
