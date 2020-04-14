@@ -50,6 +50,8 @@ public class QuizFragmentStateAdapter extends FragmentStateAdapter {
 
         Bundle args = new Bundle();
         args.putInt(QuestionFragment.POSITION, position);
+        args.putString(QuestionFragment.SUBJECT, question.getSubject());
+        args.putInt(QuestionFragment.QUESTION_ID, question.getQuestionId());
         args.putString(QuestionFragment.QUESTION, question.getQuestion());
         args.putSerializable(QuestionFragment.ANSWERS, new ArrayList<>(Arrays.asList(
                 question.getAnswerA(),
