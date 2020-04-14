@@ -49,7 +49,8 @@ X(A) riserva di energia chimica
 (B) attivatore-trasportatore di proteine
 (C) attivatore di qualsiasi tipo di enzima
 (D) riserva di fosfati organici ed inorganici
-(E) quesito senza soluzione univoca o correttaPer sito attivo si intende: A
+(E) quesito senza soluzione univoca o corretta
+Per sito attivo si intende: A
 X(A) la parte di un enzima che interagisce con il substrato
 (B) il punto di attacco di una fibra del fuso mitotico sul cromosoma
 (C) il punto di inizio della duplicazione del DNA
@@ -103,7 +104,8 @@ X(A) T,A e C,G
 (B) T,U e C,G
 (C) U,A e T,A
 (D) G,A e T,U
-(E) quesito senza soluzione univoca o correttaIl DNA è presente prevalentemente: A
+(E) quesito senza soluzione univoca o corretta
+Il DNA è presente prevalentemente: A
 X(A) nel nucleo
 (B) nel cervello
 (C) nell'eritrocita
@@ -156,7 +158,8 @@ X(A) amminoacidi
 (B) nucleotidi
 (C) acidi grassi
 (D) idrocarburi
-(E) quesito senza soluzione univoca o correttaNelle proteine, la struttura primaria è definita: C
+(E) quesito senza soluzione univoca o corretta
+Nelle proteine, la struttura primaria è definita: C
 (A) dai legami a idrogeno
 (B) dalla composizione in amminoacidi
 X(C) dalla sequenza degli amminoacidi
@@ -210,7 +213,8 @@ Le basi azotate presenti nell'acido ribonucleico sono: D
 (B) adenina - guanina - timina - citosina
 (C) adenina - guanina - pirimidina - citosina
 X(D) adenina - guanina - uracile - citosina
-(E) quesito senza soluzione univoca o correttaI legami che definiscono la struttura primaria delle proteine sono: B
+(E) quesito senza soluzione univoca o corretta
+I legami che definiscono la struttura primaria delle proteine sono: B
 (A) adipici
 X(B) peptidici
 (C) idrogeno
@@ -263,7 +267,8 @@ Un legame che si instaura tra due molecole di acqua, con una debole forza, viene
 (B) legame idrofobico
 X(C) legame idrogeno
 (D) ponte di Varolio
-(E) quesito senza soluzione univoca o correttaL'acqua è una molecola: C
+(E) quesito senza soluzione univoca o corretta
+L'acqua è una molecola: C
 (A) dotata di poca forza coesiva
 (B) apolare
 X(C) con una regione elettropositiva ed una elettronegativa
@@ -316,7 +321,8 @@ X(A) nucleotidi
 (B) acidi grassi
 (C) enzimi
 (D) glicidi
-(E) quesito senza soluzione univoca o correttaQuando due o più elementi si combinano tra loro si formano: C
+(E) quesito senza soluzione univoca o corretta
+Quando due o più elementi si combinano tra loro si formano: C
 (A) atomi
 (B) protoni
 X(C) composti chimici
@@ -369,7 +375,8 @@ Quali sono i fondamentali composti organici della materia vivente? D
 (B) Carbonio e idrogeno
 (C) Lipidi e nucleotidi
 X(D) Glucidi, lipidi, protidi e nucleotidi
-(E) quesito senza soluzione univoca o correttaL'acido desossiribonucleico è: C
+(E) quesito senza soluzione univoca o corretta
+L'acido desossiribonucleico è: C
 (A) l'RNA
 (B) l'acido ascorbico
 X(C) il DNA
@@ -423,7 +430,8 @@ modificate? E
 (B) Emoglobine
 (C) Proteine strutturali
 (D) Actina e miosina
-X(E) quesito senza soluzione univoca o correttaLa mioglobina è: C
+X(E) quesito senza soluzione univoca o corretta
+La mioglobina è: C
 (A) una proteina strutturale
 (B) una proteina enzimatica
 X(C) una proteina muscolare
@@ -476,7 +484,8 @@ Un polinucleotide che presenta il ribosio nei singoli monomeri, è: E
 (B) il DNA
 (C) la timina
 (D) un aminoacido
-X(E) quesito senza soluzione univoca o correttaII monosaccaride più comune nelle cellule viventi è: D
+X(E) quesito senza soluzione univoca o corretta
+II monosaccaride più comune nelle cellule viventi è: D
 (A) il fruttosio
 (B) il maltosio
 (C) l'amido
@@ -529,7 +538,8 @@ Quale di queste affermazioni riguardante gli enzimi è vera? B
 X(B) Ognuno di essi catalizza un determinato tipo di reazione
 (C) Sono sostanze di natura lipidica
 (D) L'enzima viene trasformato dalla reazione che catalizza
-(E) quesito senza soluzione univoca o correttaLa cellulosa: C
+(E) quesito senza soluzione univoca o corretta
+La cellulosa: C
 (A) è un monosaccaride
 (B) è un disaccaride
 X(C) è un polisaccaride che l'uomo non riesce a scindere per mancanza di enzimi
@@ -582,7 +592,8 @@ Le proteine sono: E
 (B) atomi
 (C) composti pirrolici
 (D) composti inorganici
-X(E) quesito senza soluzione univoca o correttaII fabbisogno calorico giornaliero medio di una donna adulta è: B
+X(E) quesito senza soluzione univoca o corretta
+II fabbisogno calorico giornaliero medio di una donna adulta è: B
 (A) 1000Kcal
 X(B) 2000 Kcal
 (C) 3000 Kcal
@@ -635,7 +646,8 @@ I ribosomi sono attaccati: D
 (B) ai lisosomi
 (C) all'apparato del Golgi
 X(D) al reticolo endopilasmatico rugoso
-(E) quesito senza soluzione univoca o correttaI mitocondri sono: A
+(E) quesito senza soluzione univoca o corretta
+I mitocondri sono: A
 X(A) organuli citoplasmatici
 (B) strutture dell'apparato meiotico
 (C) strutture di giunzione Q
@@ -690,7 +702,8 @@ I mitocondri sono importanti: C
 (B) nella sintesi proteica
 X(C) nella respirazione cellulare
 (D) nella secrezione cellulare
-(E) quesito senza soluzione univoca o correttaL'apparato del Golgi: E
+(E) quesito senza soluzione univoca o corretta
+L'apparato del Golgi: E
 (A) fu scoperto nel 1950
 (B) è associato all'attività secretoria della cellula procariotica
 (C) è una struttura del nucleo
@@ -746,7 +759,8 @@ X(A) mitocondri e lisosomi
 (B) citoplasma e nucleo
 (C) cromosomi
 (D) nucleo e cromosomi
-(E) quesito senza soluzione univoca o correttaII reticolo endoplasmatico liscio ha la seguente funzione: C
+(E) quesito senza soluzione univoca o corretta
+II reticolo endoplasmatico liscio ha la seguente funzione: C
 (A) sintesi delle proteine
 (B) sostegno
 X(C) metabolismo lipidico
@@ -844,7 +858,8 @@ Nelle cellule eucariotiche: C
 (B) avvengono solo processi anaerobici
 X(C) avvengono processi sia aerobici (prevalentemente) che anaerobici
 (D) avviene sempre la fotosintesi
-(E) quesito senza soluzione univoca o correttaFagocitosi: D
+(E) quesito senza soluzione univoca o corretta
+Fagocitosi: D
 (A) capacità delle piante di reagire alla forza di gravita con movimenti di crescita
 (B) organo capace di fabbricare i globuli rossi del sangue
 (C) eliminazione di sostanze non utilizzabili dall'organismo
@@ -895,7 +910,8 @@ Le pieghe della membrana interna dei mitocondri sono dette: E
 (B) invaginazioni
 (C) fenestrature
 (D) reticoli
-X(E) quesito senza soluzione univoca o correttaI ribosomi sono coinvolti nella biosintesi di: C
+X(E) quesito senza soluzione univoca o corretta
+I ribosomi sono coinvolti nella biosintesi di: C
 (A) RNA ribosomiale
 (B) DNA
 X(C) proteine
@@ -950,7 +966,8 @@ X(B) il meccanismo attraverso il quale una cellula eucariotica secerne all'ester
 impacchettati in vescicole
 (C) la capacità delle piante di reagire alla luce con movimenti di crescita
 (D) la capacità di alcune molecole di riemettere luce se irradiate
-(E) quesito senza soluzione univoca o correttaI ribosomi sono: B
+(E) quesito senza soluzione univoca o corretta
+I ribosomi sono: B
 (A) particelle presenti nel nucleo
 X(B) particelle presenti nel citoplasma, costituite da RNA e proteine
 (C) particelle presenti nel citoplasma e costituite soltanto da RNA
@@ -1003,7 +1020,8 @@ I mitocondri sono presenti: B
 X(B) solo nelle cellule eucariotiche
 (C) solo nelle cellule procariotiche
 (D) in alcune cellule eucariotiche, ma in tutte le cellule procariotiche
-(E) quesito senza soluzione univoca o correttaLa parte esterna della cellula vegetale si chiama: D
+(E) quesito senza soluzione univoca o corretta
+La parte esterna della cellula vegetale si chiama: D
 (A) membrana plasmatica
 (B) membrana cellulare
 (C) parenchima
@@ -1057,7 +1075,8 @@ X(A) le cellule si specializzano in modo da svolgere ognuna una determinata funz
 (B) ogni cellula svolge tutte le funzioni
 (C) le cellule non svolgono nessuna funzione
 (D) le cellule hanno solo funzione digestiva
-(E) quesito senza soluzione univoca o correttaI lisosomi contengono: B
+(E) quesito senza soluzione univoca o corretta
+I lisosomi contengono: B
 (A) lipidi di riserva
 X(B) enzimi idrolitici
 (C) DNA
@@ -1110,7 +1129,8 @@ Nel nucleo il materiale genetico è localizzato: E
 (B) nel citoplasma
 (C) nella membrana plasmatica
 (D) nel nucleolo
-X(E) quesito senza soluzione univoca o correttaI ribosomi presiedono: E
+X(E) quesito senza soluzione univoca o corretta
+I ribosomi presiedono: E
 (A) alla duplicazione
 (B) alla trascrizione
 (C) alle mutazioni
@@ -1165,7 +1185,8 @@ X(A) una sostanza colorabile presente nel nucleo delle cellule
 (B) una sostanza che determina il colore della pelle
 (C) il mediatore chimico nella trasmissione dell'impulso nervoso
 (D) un enzima che agisce nella utilizzazione degli zuccheri
-(E) quesito senza soluzione univoca o correttaII reticolo endoplasmatico è: D
+(E) quesito senza soluzione univoca o corretta
+II reticolo endoplasmatico è: D
 (A) la sede della sintesi proteica
 (B) la sede della respirazione cellulare
 (C) un artefatto della tecnica istologica, visibile all'interno del citoplasma
@@ -1327,7 +1348,8 @@ Perché la fotosintesi è essenziale per la vita? C
 (B) Perché è l'unica via di utilizzo del glucosio
 X(C) Perché avviene nelle piante e fornisce energia in una forma utilizzabile da tutti gli organismi viventi
 (D) Perché produce CO2 e H2O
-(E) quesito senza soluzione univoca o correttaI due processi più importanti nel ciclo dell'Ossigeno sono: E
+(E) quesito senza soluzione univoca o corretta
+I due processi più importanti nel ciclo dell'Ossigeno sono: E
 (A) evaporazione e precipitazione
 (B) respirazione ed evaporazione
 (C) ossidazione e riduzione
@@ -1381,7 +1403,8 @@ La fotosintesi ha luogo: D
 (B) nei lisosomi
 (C) in tutto il citoplasma della cellula vegetale
 X(D) nei cloroplasti
-(E) quesito senza soluzione univoca o correttaLa fotosintesi comprende: C
+(E) quesito senza soluzione univoca o corretta
+La fotosintesi comprende: C
 (A) solo reazioni luminose
 (B) solo reazioni al buio
 X(C) reazioni alla luce e reazioni al buio
@@ -1435,7 +1458,8 @@ Per trasporto attivo si intende quello per cui: C
 (B) una sostanza non riesce ad attraversare la membrana plasmatica anche con dispendio di energia
 X(C) una sostanza attraversa la membrana plasmatica con dispendio di energia
 (D) una sostanza, quando attraversa la membrana plasmatica, produce energia
-(E) quesito senza soluzione univoca o correttaLe macromolecole biologiche vengono demolite: D
+(E) quesito senza soluzione univoca o corretta
+Le macromolecole biologiche vengono demolite: D
 (A) non digeribili
 (B) per dare origine ad anidride carbonica
 (C) in presenza di emoglobina
@@ -1484,7 +1508,8 @@ X(A) fornire energia
 (B) fornire substrati metabolici
 (C) formare acidi nucleici
 (D) catalizzare diverse reazioni
-(E) quesito senza soluzione univoca o correttaLa fermentazione è: C
+(E) quesito senza soluzione univoca o corretta
+La fermentazione è: C
 (A) sinonimo di respirazione aerobica
 (B) un processo che avviene solo nelle piante
 X(C) l'incompleta demolizione delle molecole di sostanze nutritizie, specialmente zuccheri, in assenza di
@@ -1539,7 +1564,8 @@ Nell'uomo il prodotto finale della fermentazione anaerobica è: E
 (B) acetil-CoA
 (C) alcool etilico
 (D) acido acetico
-X(E) quesito senza soluzione univoca o correttaL'organo deputato alla respirazione è: A
+X(E) quesito senza soluzione univoca o corretta
+L'organo deputato alla respirazione è: A
 X(A) il polmone
 (B) il pneumocita
 (C) laringe
@@ -1641,7 +1667,8 @@ X(A) in processi anaerobici
 (B) in processi aerobici
 (C) con una resa energetica alta
 (D) nel ciclo di Calvin
-(E) quesito senza soluzione univoca o correttaLa cosiddetta reazione oscura e quella luminosa fanno parte: C
+(E) quesito senza soluzione univoca o corretta
+La cosiddetta reazione oscura e quella luminosa fanno parte: C
 (A) di un processo visivo
 (B) della respirazione cellulare
 X(C) della fotosintesi
@@ -1749,7 +1776,8 @@ I cromosomi si dispongono all'equatore della cellula durante: D
 (B) l'anafase
 (C) la telofase
 X(D) la metafase
-(E) quesito senza soluzione univoca o correttaLe cellule germinali divengono aploidi appena terminato il processo di: C
+(E) quesito senza soluzione univoca o corretta
+Le cellule germinali divengono aploidi appena terminato il processo di: C
 (A) fecondazione
 (B) anfimissia
 X(C) meiosi
@@ -1802,7 +1830,8 @@ La divisione riduzionale è: B
 X(B) la prima della meiosi
 (C) la seconda della meiosi
 (D) caratteristica di organismi unicellulari
-(E) quesito senza soluzione univoca o correttaLe cellule somatiche si dividono mediante: C
+(E) quesito senza soluzione univoca o corretta
+Le cellule somatiche si dividono mediante: C
 (A) meiosi
 (B) meiosi e mitosi
 X(C) mitosi
@@ -1856,7 +1885,8 @@ La sequenza di basi che determina il patrimonio genetico appartiene: E
 (B) ribosomi
 (C) all'RNA transfer
 (D) al nucleolo
-X(E) quesito senza soluzione univoca o correttaI codoni sono: A
+X(E) quesito senza soluzione univoca o corretta
+I codoni sono: A
 X(A) varie combinazioni di tre nucleotidi dell'RNA messaggero
 (B) varie combinazioni di disposizione delle proteine nella membrana
 (C) parte di un virus isolato di recente
@@ -1905,7 +1935,8 @@ e una successione di amminoacidi nella molecola proteica
 (B) tutte le possibili combinazioni di basi del RNA messaggero
 (C) determinanti dei caratteri genetici, localizzati nei cromosomi
 (D) insieme dei caratteri ereditari di un organismo
-(E) quesito senza soluzione univoca o correttaII codice genetico: A
+(E) quesito senza soluzione univoca o corretta
+II codice genetico: A
 X(A) permette di tradurre il linguaggio a quattro lettere del DNA (le 4 basi azotate) nel linguaggio a venti
 lettere delle proteine (20 aminoacidi)
 (B) permette di tradurre il linguaggio a sette lettere del DNA (le 7 basi azotate) nel linguaggio a venti
@@ -1961,7 +1992,8 @@ X(A) codone
 (B) anticodone
 (C) condilo
 (D) coronarie
-(E) quesito senza soluzione univoca o correttaII codice genetico è formato: E
+(E) quesito senza soluzione univoca o corretta
+II codice genetico è formato: E
 (A) da catene di zuccheri
 (B) da 3 acidi nucleici
 (C) dalla tripla elica del DNA
@@ -2011,7 +2043,8 @@ Le parole del codice genetico sono costituite da combinazioni di: E
 (B) due nucleotidi
 (C) tre nucleosidi
 (D) sette nucleotidi
-X(E) quesito senza soluzione univoca o correttaII codice genetico è strutturato in: C
+X(E) quesito senza soluzione univoca o corretta
+II codice genetico è strutturato in: C
 (A) sequenze di due nucleotidi
 (B) sequenze di tre amminoacidi
 X(C) sequenze di tre nucleotidi
@@ -2062,7 +2095,8 @@ X(A) anticodone
 (B) codone
 (C) apolidi
 (D) aneuploidi
-(E) quesito senza soluzione univoca o correttaDurante la trascrizione viene copiata: C
+(E) quesito senza soluzione univoca o corretta
+Durante la trascrizione viene copiata: C
 (A) tutta la molecola di mRNA
 (B) l'elica di tRNA
 X(C) la molecola di DNA
@@ -2117,7 +2151,8 @@ I caratteri genetici: B
 X(B) possono o meno esplicarsi nel fenotipo anche in rapporto all'ambiente
 (C) non influenzano mai il fenotipo
 (D) sono solo quei caratteri che non incidono sulla sopravvivenza
-(E) quesito senza soluzione univoca o correttaLe diverse varianti dello stesso gene si chiamano: E
+(E) quesito senza soluzione univoca o corretta
+Le diverse varianti dello stesso gene si chiamano: E
 (A) antigeni
 (B) genotipi
 (C) cromosomi
@@ -2173,7 +2208,8 @@ Le macromolecole vettrici dell'informazione ereditaria sono: E
 (B) le proteine
 (C) i glucidi
 (D) gli enzimi
-X(E) quesito senza soluzione univoca o correttaI geni: A
+X(E) quesito senza soluzione univoca o corretta
+I geni: A
 X(A) determinano le caratteristiche strutturali e funzionali di ciascun individuo
 (B) determinano soltanto le caratteristiche strutturali di ciascun individuo
 (C) determinano soltanto le caratteristiche funzionali di ciascun individuo
@@ -2228,7 +2264,8 @@ Per aploide si intende: C
 (B) il numero di cromosomi presente in tutte le cellule
 X(C) la metà di un corredo cromosomico normale caratteristico di una specie
 (D) un numero di cromosomi corrispondente a 2n
-(E) quesito senza soluzione univoca o correttaLa condizione caratterizzata dalla presenza di un corredo di cromosomi pari a n è detta: E
+(E) quesito senza soluzione univoca o corretta
+La condizione caratterizzata dalla presenza di un corredo di cromosomi pari a n è detta: E
 (A) coniugazione
 (B) diploidia
 (C) allelismo
@@ -2282,7 +2319,8 @@ contenente il materiale genetico in forma altamente condensata, si definisce: C
 (B) codone
 X(C) cromosoma
 (D) virus
-(E) quesito senza soluzione univoca o correttaI cromosomi X e Y sono: D
+(E) quesito senza soluzione univoca o corretta
+I cromosomi X e Y sono: D
 (A) consanguinei
 (B) cromatidi
 (C) inesistenti nell'uomo
@@ -2332,7 +2370,8 @@ Una porzione della molecola di DNA che costituisce un'unità funzionale è detta
 (B) codone
 (C) genotipo
 (D) genetica
-X(E) quesito senza soluzione univoca o correttaII corredo cromosomico base di ogni individuo di qualsiasi specie, si definisce: C
+X(E) quesito senza soluzione univoca o corretta
+II corredo cromosomico base di ogni individuo di qualsiasi specie, si definisce: C
 (A) germinale
 (B) enoteca
 X(C) genoma
@@ -2384,7 +2423,8 @@ X(B) termine usato per indicare una cellula o un organismo che contiene la metà
 cromosomi caratteristici di una specie
 (C) organo sacciforme contenente le spore
 (D) insieme degli organi maschili di un fiore
-(E) quesito senza soluzione univoca o correttaUn carattere portato dal cromosoma X, è un: D
+(E) quesito senza soluzione univoca o corretta
+Un carattere portato dal cromosoma X, è un: D
 (A) carattere individuale
 (B) carattere influenzato dal sesso
 (C) carattere autosomico
@@ -2537,7 +2577,8 @@ carattere ereditario, è detta: E
 (B) gonadi
 (C) genotipo
 (D) cromatidi
-X(E) quesito senza soluzione univoca o correttaLa costituzione genetica di un organismo o di un virus è detta: E
+X(E) quesito senza soluzione univoca o corretta
+La costituzione genetica di un organismo o di un virus è detta: E
 (A) nucleolo
 (B) fibroma
 (C) fenotipo
@@ -2591,7 +2632,8 @@ Le mutazioni avvenute durante la gametogenesi sono importanti dal punto di vista
 X(B) perché possono essere trasmesse ai discendenti
 (C) perché provocano la sterilità dell'individuo
 (D) perché incrementano la riproduttività
-(E) quesito senza soluzione univoca o correttaI geni sono: E
+(E) quesito senza soluzione univoca o corretta
+I geni sono: E
 (A) le particelle elementari dell'intelletto
 (B) i siti attivi di un enzima
 (C) i prodotti della segregazione meiotica
@@ -2644,7 +2686,8 @@ X(A) si verificano spontaneamente e possono essere prodotte sperimentalmente
 (B) non si verificano spontaneamente, ma possono essere prodotte sperimentalmente
 (C) sono cambiamenti di DNA, che sono sempre trasmessi alla discendenza
 (D) sono cambiamenti di RNA, che spesso vengono trasmessi alla discendenza
-(E) quesito senza soluzione univoca o correttaIn genetica gli alleli sono: B
+(E) quesito senza soluzione univoca o corretta
+In genetica gli alleli sono: B
 (A) due organismi con diverso corredo genetico
 X(B) forme alternative dello stesso gene, che occupano loci corrispondenti su cromosomi omologhi
 (C) due cromosomi, divisi uno in una cellula ed uno in un'altra
@@ -2697,7 +2740,8 @@ X(A) un portatore di alleli differenti per un dato carattere
 (B) un organismo autotrofo
 (C) un uovo fecondato
 (D) un organismo eterotrofo
-(E) quesito senza soluzione univoca o correttaII numero di cromosomi presenti in un gamete maturo è: E
+(E) quesito senza soluzione univoca o corretta
+II numero di cromosomi presenti in un gamete maturo è: E
 (A) diploide
 (B) 2n
 (C) poliploide
@@ -2752,7 +2796,8 @@ X(A) metà dei figli avrà il gruppo A e metà il gruppo B, indipendentemente da
 (B) tutti i figli avranno il gruppo A
 (C) tutte le figlie avranno il gruppo B
 (D) tutti i figli avranno il gruppo zero (00), e tutte le figlie avranno il gruppo B
-(E) quesito senza soluzione univoca o correttaLa trisomia del cromosoma 21 determina: D
+(E) quesito senza soluzione univoca o corretta
+La trisomia del cromosoma 21 determina: D
 (A) la sindrome di Turner
 (B) la sindrome di cri du chat
 (C) la sindrome di Klinefelter
@@ -2862,7 +2907,8 @@ II corredo cromosomico aploide tipico della specie umana è di: B
 X(B) 23 cromosomi
 (C) 22 cromosomi
 (D) 20 cromosomi
-(E) quesito senza soluzione univoca o correttaI geni sono: A
+(E) quesito senza soluzione univoca o corretta
+I geni sono: A
 X(A) particelle submicroscopiche responsabili della trasmissione dei caratteri ereditari
 (B) costituiti da segmenti di RNA
 (C) presenti nei mitocondri
@@ -2915,7 +2961,8 @@ Gli spermatozoi umani contengono: D
 (B) 46 cromosomi
 (C) 22 cromosomi
 X(D) 23 cromosomi
-(E) quesito senza soluzione univoca o correttaPer cariotipo intendiamo: B
+(E) quesito senza soluzione univoca o corretta
+Per cariotipo intendiamo: B
 (A) il numero esatto di denti di un organismo
 X(B) il numero totale dei cromosomi di un organismo ordinato in coppie omologhe
 (C) il numero totale dei mitocondri nell'uomo
@@ -2969,7 +3016,8 @@ X(A) due geni alternativi che occupano loci corrispondenti su cromosomi omologhi
 (B) due organismi con uguale corredo cromosomico
 (C) i mèmbri di una coppia di gemelli biovulari
 (D) ormone che regola il metabolismo degli zuccheri
-(E) quesito senza soluzione univoca o correttaLa sede dei geni è rappresentata: E
+(E) quesito senza soluzione univoca o corretta
+La sede dei geni è rappresentata: E
 (A) dalla membrana plasmatica
 (B) dai mitocondri
 (C) dal reticolo endoplasmatico rugoso
@@ -3022,7 +3070,8 @@ X(A) tratti di DNA che possono codificare per particolari polipeptidi
 (B) glicidi specifici degli organismi
 (C) un tipo particolare di virus
 (D) fìlamenti di RNA plasmatici
-(E) quesito senza soluzione univoca o correttaLe cellule germinali umane mature contengono: D
+(E) quesito senza soluzione univoca o corretta
+Le cellule germinali umane mature contengono: D
 (A) 48 cromosomi
 (B) 22 cromosomi
 (C) 46 cromosomi
@@ -3076,7 +3125,8 @@ X(A) uguale in tutti gli individui di una stessa specie
 (B) diverso in individui di una stessa specie
 (C) diverso in organi diversi di uno stesso individuo
 (D) uguale in tutte le specie di uno stesso ordine
-(E) quesito senza soluzione univoca o correttaQuanti geni possiede un uomo? B
+(E) quesito senza soluzione univoca o corretta
+Quanti geni possiede un uomo? B
 (A) Due
 X(B) Decine di migliaia
 (C) Cento
@@ -3125,7 +3175,8 @@ chiamano: E
 (B) recessivi
 (C) aploidi
 (D) dominanti
-X(E) quesito senza soluzione univoca o correttaII processo attraverso il quale in un gene ha luogo un cambiamento ereditabile, è detto: C
+X(E) quesito senza soluzione univoca o corretta
+II processo attraverso il quale in un gene ha luogo un cambiamento ereditabile, è detto: C
 (A) delezione
 (B) nick traslation
 X(C) mutazione
@@ -3174,7 +3225,8 @@ E' diploide: E
 (B) l'uovo
 (C) l'ovulo
 (D) il polocita
-X(E) quesito senza soluzione univoca o correttaI cromosomi sessuali sono presenti: E
+X(E) quesito senza soluzione univoca o corretta
+I cromosomi sessuali sono presenti: E
 (A) solo nello spermatozoo
 (B) solo nei gameti
 (C) solo nelle cellule germinali
@@ -3223,7 +3275,8 @@ incrociandosi danno luogo a prole fertile, appartengono: E
 (B) alla stessa famiglia
 (C) allo stesso gruppo
 (D) allo stesso phylium
-X(E) quesito senza soluzione univoca o correttaI vasi sono: E
+X(E) quesito senza soluzione univoca o corretta
+I vasi sono: E
 (A) strutture di scambio energetico
 (B) sotto controllo nervoso volontario
 (C) senza controllo nervoso e ormonale
@@ -3276,7 +3329,8 @@ La diastole è: B
 X(B) la fase di rilasciamento del cuore
 (C) la pressione massima nelle arterie
 (D) la fase inspiratoria alveolare
-(E) quesito senza soluzione univoca o correttaLa sistole è: C
+(E) quesito senza soluzione univoca o corretta
+La sistole è: C
 (A) la fase di rilasciamento del cuore
 (B) la fase di riempimento dei ventricoli
 X(C) la fase di contrazione del cuore
@@ -3329,7 +3383,8 @@ Un organismo in anossia è: D
 (B) di colorito rosso vivo
 (C) capace di vivere a lungo
 X(D) in assenza di ossigeno
-(E) quesito senza soluzione univoca o correttaII cuore: C
+(E) quesito senza soluzione univoca o corretta
+II cuore: C
 (A) contiene solo sangue non ossigenato
 (B) si trova nell'ipocondrio sinistro
 X(C) è formato da un muscolo con caratteristiche intermedie tra quello liscio e quello striato
@@ -3382,7 +3437,8 @@ X(A) dalle vene polmonari
 (B) dalla vena cava superiore
 (C) dalla vena cava inferiore
 (D) poco ossigenato
-(E) quesito senza soluzione univoca o correttaAll'atrio destro arriva sangue: B
+(E) quesito senza soluzione univoca o corretta
+All'atrio destro arriva sangue: B
 (A) dal ventricolo destro
 X(B) dalle vene cave superiore ed inferiore
 (C) dalle vene polmonari
@@ -3429,7 +3485,8 @@ Fisiologicamente un uomo ha circa ..... battiti cardiaci al minuto: B
 X(B) 70
 (C) 120
 (D) 100
-(E) quesito senza soluzione univoca o correttaGlicemia, calcemia e tutti i nomi che terminano in -emia indicano: C
+(E) quesito senza soluzione univoca o corretta
+Glicemia, calcemia e tutti i nomi che terminano in -emia indicano: C
 (A) la concentrazione di sostanze nell'urina
 (B) la concentrazione di sostanze in tutti i liquidi organici
 X(C) la concentrazione di sostanze nel sangue
@@ -3482,7 +3539,8 @@ L'attività cardiaca è misurata tramite: E
 (B) l'elettroencefalogramma
 (C) la R.M.N.
 (D) lo sfigmomanometro
-X(E) quesito senza soluzione univoca o correttaIl cieco è un tratto: D
+X(E) quesito senza soluzione univoca o corretta
+Il cieco è un tratto: D
 (A) dello stomaco
 (B) dell'intestino tenue
 (C) dell'apparato genitale
@@ -3535,7 +3593,8 @@ L'ultimo tratto dell'intestino si chiama: C
 (B) cieco
 X(C) retto
 (D) colon
-(E) quesito senza soluzione univoca o correttaL'intestino si divide in: C
+(E) quesito senza soluzione univoca o corretta
+L'intestino si divide in: C
 (A) digiuno e ileo
 (B) tenue e tenue mesenteriale
 X(C) tenue e crasso
@@ -3588,7 +3647,8 @@ La digestione consiste di processi: C
 (B) solo meccanici
 X(C) meccanici, chimici, soprattutto enzimatici
 (D) fisici
-(E) quesito senza soluzione univoca o correttaIl cibo che viene deglutito è detto: B
+(E) quesito senza soluzione univoca o corretta
+Il cibo che viene deglutito è detto: B
 (A) chimo
 X(B) bolo
 (C) chilo
@@ -3641,7 +3701,8 @@ Per una normale contrazione, i muscoli necessitano: E
 (B) albumina
 (C) OH -
 (D) fosfati
-X(E) quesito senza soluzione univoca o correttaUna proprietà delle cellule muscolari è: A
+X(E) quesito senza soluzione univoca o corretta
+Una proprietà delle cellule muscolari è: A
 X(A) l'eccitabilità
 (B) la colorabilità
 (C) la spontaneità dell'eccitamento
@@ -3696,7 +3757,8 @@ L'omero è: E
 (B) un muscolo dell'arto superiore
 (C) un osso della spalla
 (D) un osso dell'avambraccio
-X(E) quesito senza soluzione univoca o correttaNella coscia si trovano: B
+X(E) quesito senza soluzione univoca o corretta
+Nella coscia si trovano: B
 (A) il bicipite anteriormente e il quadricipite posteriormente
 X(B) il bicipite posteriormente e il quadricipite anteriormente
 (C) solo il quadricipite anteriormente
@@ -3749,7 +3811,8 @@ X(A) si allontani dal tronco
 (B) si avvicini al tronco
 (C) si fletta
 (D) si sposti verso avanti
-(E) quesito senza soluzione univoca o correttaNon è un osso: B
+(E) quesito senza soluzione univoca o corretta
+Non è un osso: B
 (A) il femore
 X(B) il piloro
 (C) il radio
@@ -3803,7 +3866,8 @@ X(A) faringe-laringe-trachea-bronchi
 (B) faringe-trachea-laringe-bronchi
 (C) laringe-faringe-trachea-bronchi
 (D) faringe-esofago-laringe-trachea
-(E) quesito senza soluzione univoca o correttaI bronchi: C
+(E) quesito senza soluzione univoca o corretta
+I bronchi: C
 (A) fanno parte dell'apparato digerente
 (B) fanno parte dell'apparato urinario
 X(C) compongono le ultime vie aeree
@@ -4011,7 +4075,8 @@ anche quando il soggetto è guarito. In questo caso si parla di immunità: E
 (B) passiva, acquisita
 (C) passiva
 (D) artificiale
-X(E) quesito senza soluzione univoca o correttaGli anticorpi sono: E
+X(E) quesito senza soluzione univoca o corretta
+Gli anticorpi sono: E
 (A) ormoni
 (B) vitamine
 (C) grani
@@ -4064,7 +4129,8 @@ La retina è: B
 X(B) lo strato più interno del globo oculare
 (C) lo strato più esterno del globo oculare
 (D) lo strato del globo oculare meno sensibile alla luce
-(E) quesito senza soluzione univoca o correttaII disco pigmentato che dà colore all'occhio è detto: E
+(E) quesito senza soluzione univoca o corretta
+II disco pigmentato che dà colore all'occhio è detto: E
 (A) pupilla
 (B) coroide
 (C) retina
@@ -4117,7 +4183,8 @@ L'eritema è: B
 X(B) una condizione cutanea patologica
 (C) un'ustione
 (D) una patologia retinica
-(E) quesito senza soluzione univoca o correttaLe fibrillazioni sono: . B
+(E) quesito senza soluzione univoca o corretta
+Le fibrillazioni sono: . B
 (A) contrazioni anomale del muscolo scheletrico
 X(B) alterazioni patologiche del ritmo cardiaco
 (C) alterazioni fisiologiche del ritmo cardiaco
@@ -4171,7 +4238,8 @@ La condizione per cui gli oggetti lontani sono visti meglio dei vicini è defini
 (B) cataratta
 (C) astigmatismo
 X(D) ipermetropia
-(E) quesito senza soluzione univoca o correttaNella miopia: C
+(E) quesito senza soluzione univoca o corretta
+Nella miopia: C
 (A) il bulbo oculare è più corto
 (B) si vedono male gli oggetti vicini
 X(C) si vedono male gli oggetti lontani
@@ -4224,7 +4292,8 @@ In una infezione latente: D
 (B) il virus è subito distrutto
 (C) il batterio si riproduce all'interno della cellula e la distrugge
 X(D) il virus vive all'interno della cellula in modo silente
-(E) quesito senza soluzione univoca o correttaLe metastasi sono: C
+(E) quesito senza soluzione univoca o corretta
+Le metastasi sono: C
 (A) fenomeni fisiologici
 (B) tumori primitivi
 X(C) impianti tumorali in organi diversi da quello sede del tumore primario
@@ -4277,7 +4346,8 @@ La sifilide è una malattia a trasmissione: E
 (B) ematica
 (C) vettoriale
 (D) inalatoria
-X(E) quesito senza soluzione univoca o correttaUn tipo di epatite trasmessa principalmente per via trasfusionale è: B
+X(E) quesito senza soluzione univoca o corretta
+Un tipo di epatite trasmessa principalmente per via trasfusionale è: B
 (A) l'epatite F
 X(B) l'epatite C
 (C) l'epatite A
@@ -4330,7 +4400,8 @@ L'anafilassi è: E
 (B) una patologia renale
 (C) una reazione motoria
 (D) una condizione fisiologica
-X(E) quesito senza soluzione univoca o correttaL'angina pectoris è una patologia a carico: E
+X(E) quesito senza soluzione univoca o corretta
+L'angina pectoris è una patologia a carico: E
 (A) dello sterno
 (B) del rene
 (C) delle articolazioni
@@ -4383,7 +4454,8 @@ L'acne giovanile: C
 (B) non esiste, l'acne è solo adulta
 X(C) è causata, tra l'altro, da batteri
 (D) può trasformarsi in tumore della cute
-(E) quesito senza soluzione univoca o correttaCon una pressione sanguigna di 95/170, un individuo è detto; A
+(E) quesito senza soluzione univoca o corretta
+Con una pressione sanguigna di 95/170, un individuo è detto; A
 X(A) iperteso
 (B) anemico
 (C) ipoteso
@@ -4491,7 +4563,8 @@ ombelicale, si chiama: E
 (B) corion
 (C) dotto di Aranzio
 (D) foro di Botallo
-X(E) quesito senza soluzione univoca o correttaI cromosomi contenuti nello zigote umano sono: C
+X(E) quesito senza soluzione univoca o corretta
+I cromosomi contenuti nello zigote umano sono: C
 (A) 22
 (B) 50
 X(C) 46
@@ -4546,7 +4619,8 @@ Avvenuta la fusione di gameti, lo zigote conterrà: E
 (B) 23 cromosomi
 (C) due nuclei apolidi
 (D) 46 coppie di cromosomi
-X(E) quesito senza soluzione univoca o correttaII frutto deriva: A
+X(E) quesito senza soluzione univoca o corretta
+II frutto deriva: A
 X(A) dall'ingrossamento delle pareti dell'ovario
 (B) dal tipo di polline che va a fecondare l'ovulo
 (C) dal numero di cotiledoni presenti nel seme
@@ -4601,7 +4675,8 @@ X(A) l'ereditarietà dei caratteri acquisiti
 (B) la selezione naturale
 (C) la lotta per la sopravvivenza
 (D) la selezione causata da catastrofi geologiche
-(E) quesito senza soluzione univoca o correttaUn ecosistema è: C
+(E) quesito senza soluzione univoca o corretta
+Un ecosistema è: C
 (A) l'insieme dell'uomo e del suo ambiente
 (B) l'insieme dei microrganismi e delle piante
 X(C) l'insieme di esseri viventi e non, collegati da una comune rete alimentare
@@ -4649,7 +4724,8 @@ X(A) phyla
 (B) ordini
 (C) classi
 (D) generi
-(E) quesito senza soluzione univoca o correttaCosa si intende per nicchia ecologica? A
+(E) quesito senza soluzione univoca o corretta
+Cosa si intende per nicchia ecologica? A
 X(A) II ruolo svolto da un organismo nella comunità, comprendendovi il suo habitat, il suo modo di
 procurarsi il cibo, e così via
 (B) L'ambiente di vita con caratteri fisici, chimici e biologici variabili nel tempo e instabili tra loro
@@ -4704,7 +4780,8 @@ X(A) mutazione
 (B) convergenza
 (C) selezione naturale
 (D) mitosi
-(E) quesito senza soluzione univoca o correttaDarwin riteneva che l'evoluzione avvenisse attraverso: B
+(E) quesito senza soluzione univoca o corretta
+Darwin riteneva che l'evoluzione avvenisse attraverso: B
 (A) l'ereditarietà dei caratteri acquisiti
 X(B) la selezione naturale
 (C) l'ereditarietà delle mutazioni
@@ -4759,7 +4836,8 @@ Un unico tipo di acido nucleico, DNA o RNA, è contenuto: C
 (B) solo nei batteri
 X(C) nei virus
 (D) in tutte le cellule eucariotiche
-(E) quesito senza soluzione univoca o correttaI protozoi sono: E
+(E) quesito senza soluzione univoca o corretta
+I protozoi sono: E
 (A) alghe verdi
 (B) organismi pluricellulari
 (C) organuli cellulari
@@ -4812,7 +4890,8 @@ Fanno parte del regno delle monera: D
 (B) batteri e plasmodi
 (C) platelminti
 X(D) batteri e alghe azzurre
-(E) quesito senza soluzione univoca o correttaI procarioti contengono: E
+(E) quesito senza soluzione univoca o corretta
+I procarioti contengono: E
 (A) DNA
 (B) RNA
 (C) tonofilamenti
@@ -4867,7 +4946,8 @@ I procarioti sono: C
 (B) protozoi
 X(C) batteri e cianoficee
 (D) piante
-X(E) quesito senza soluzione univoca o correttaSecondo la classificazione di Linneo i regni sono divisibili in; A
+X(E) quesito senza soluzione univoca o corretta
+Secondo la classificazione di Linneo i regni sono divisibili in; A
 X(A) phyla
 (B) ordini
 (C) classi
@@ -4921,7 +5001,8 @@ X(A) essere privi degli organuli cellulari, ad eccezione dei ribosomi
 (B) contenere soltanto RNA
 (C) contenere soltanto DNA
 (D) presentare una membrana limitante tra il cromosoma e il restante protoplasma
-(E) quesito senza soluzione univoca o correttaI procarioti sono: A
+(E) quesito senza soluzione univoca o corretta
+I procarioti sono: A
 X(A) organismi la cui unica cellula non è divisa in compartimenti separati da membrane
 (B) organismi pluricellulari con un nucleo ben delimitato
 (C) organismi molto complessi
@@ -4975,7 +5056,8 @@ La riproduzione agamica è: C
 (B) caratteristica dell'uomo
 X(C) un processo di riproduzione senza l'intervento delle cellule sessuali
 (D) la riproduzione tramite l'atto sessuale
-(E) quesito senza soluzione univoca o correttaAi procarioti appartengono: A
+(E) quesito senza soluzione univoca o corretta
+Ai procarioti appartengono: A
 X(A) batteri e Cianoficee
 (B) protozoi
 (C) mammiferi superiori
@@ -5029,7 +5111,8 @@ Gli eucarioti sono; B
 X(B) organismi costituiti da cellule in cui si ha un nucleo ben distinto
 (C) organismi pluricellulari con il nucleo non delimitato
 (D) batteri
-(E) quesito senza soluzione univoca o correttaLe piante sono organismi: E
+(E) quesito senza soluzione univoca o corretta
+Le piante sono organismi: E
 (A) parassiti
 (B) eterotrofi
 (C) eterotermi
@@ -5083,7 +5166,8 @@ II vantaggio della riproduzione sessuata: D
 (B) è minore di quello della riproduzione asessuata
 (C) consiste nel fatto che essa avviene più frequentemente della riproduzione asessuata
 X(D) consiste nel fatto che essa incrementa la variabilità genetica degli organismi
-(E) quesito senza soluzione univoca o correttaUna caratteristica della riproduzione sessuata è: C
+(E) quesito senza soluzione univoca o corretta
+Una caratteristica della riproduzione sessuata è: C
 (A) di poter avvenire tra due specie differenti
 (B) di dare origine ad individui sempre uguali
 X(C) di incrementare la variabilità genetica degli organismi
@@ -5137,7 +5221,8 @@ X(A) organismi unicellulari privi di nucleo
 (B) organismi pluricellulari privi di nucleo
 (C) privi di RNA
 (D) privi di DNA
-(E) quesito senza soluzione univoca o correttaI procarioti: A
+(E) quesito senza soluzione univoca o corretta
+I procarioti: A
 X(A) sono privi di membrana nucleare
 (B) possiedono la membrana nucleare
 (C) presentano ribosomi 80S
@@ -5190,7 +5275,8 @@ I cloroplasti si trovano: E
 (B) in tutte le cellule
 (C) nei funghi
 (D) in nessuna cellula
-X(E) quesito senza soluzione univoca o correttaNelle cellule vegetali l'RNA viene sintetizzato: A
+X(E) quesito senza soluzione univoca o corretta
+Nelle cellule vegetali l'RNA viene sintetizzato: A
 X(A) per la maggior parte nel nucleo
 (B) solo nei mitocondri
 (C) solo nei cloroplasti
@@ -5243,7 +5329,8 @@ La cellula vegetale, esternamente alla membrana plasmatica, presenta: B
 X(B) la parete cellulare
 (C) la capsula
 (D) la capside
-(E) quesito senza soluzione univoca o correttaLo stame è: A
+(E) quesito senza soluzione univoca o corretta
+Lo stame è: A
 X(A) l'organo maschile del fiore portante le sacche polliniche
 (B) una propaggine della foglia
 (C) l'unità riproduttiva formata tramite meiosi
@@ -5351,7 +5438,8 @@ Nel fiore delle Angiosperme l'insieme dei petali costituisce: E
 (B) il ricettacolo
 (C) i tepali
 (D) l'androceo
-X(E) quesito senza soluzione univoca o correttaL'impollinazione anemofila viene effettuata grazie: A
+X(E) quesito senza soluzione univoca o corretta
+L'impollinazione anemofila viene effettuata grazie: A
 X(A) al vento
 (B) agli insetti
 (C) all'acqua
@@ -5459,7 +5547,8 @@ X(A) hanno sia vita acquatica che terrestre
 (B) hanno solo vita acquatica
 (C) hanno quattro paia di zampe
 (D) hanno solo vita terrestre
-(E) quesito senza soluzione univoca o correttaGli animali si caratterizzano per la capacità di: C
+(E) quesito senza soluzione univoca o corretta
+Gli animali si caratterizzano per la capacità di: C
 (A) organicare carbonio e azoto
 (B) servirsi della clorofilla per fabbricare il nutrimento di cui hanno bisogno
 X(C) muoversi da un posto all'altro alla ricerca di cibo, inghiottirlo e digerirlo all'interno del corpo
@@ -5513,7 +5602,8 @@ X(A) a sangue caldo
 (B) a sangue freddo
 (C) eterotermi
 (D) autotrofi
-(E) quesito senza soluzione univoca o correttaGli animali a sangue caldo sono detti: E
+(E) quesito senza soluzione univoca o corretta
+Gli animali a sangue caldo sono detti: E
 (A) eterotermi
 (B) eterotrofi
 (C) ermafroditi
@@ -5567,7 +5657,8 @@ Quale dei cinque sensi è molto sviluppato negli uccelli? D
 (B) II gusto
 (C) II tatto
 X(D) La vista
-(E) quesito senza soluzione univoca o correttaLa salamandra appartiene alla classe dei: C
+(E) quesito senza soluzione univoca o corretta
+La salamandra appartiene alla classe dei: C
 (A) mammiferi
 (B) rettili acquatici
 X(C) anfibi
@@ -5621,7 +5712,8 @@ Gli anellidi vengono pure detti: D
 (B) vermi piatti
 (C) vermi uncinati
 X(D) vermi segmentati
-(E) quesito senza soluzione univoca o correttaGli animali che vivono fissi sul fondo marino, formano: B
+(E) quesito senza soluzione univoca o corretta
+Gli animali che vivono fissi sul fondo marino, formano: B
 (A) il plancton
 X(B) il bentos
 (C) il necton
@@ -5675,7 +5767,8 @@ Si definiscono ovipari: C
 nutrito dalla madre
 X(C) animali le cui femmine depongono le uova
 (D) tutti gli animali a riproduzione sessuale
-(E) quesito senza soluzione univoca o correttaQuale tra questi animali non possiede la colonna vertebrale? D
+(E) quesito senza soluzione univoca o corretta
+Quale tra questi animali non possiede la colonna vertebrale? D
 (A) L'opossum
 (B) lampreda
 (C) La razza
@@ -5729,7 +5822,8 @@ La penetrazione di un virus o di una sua parte all'interno di una cellula è chi
 (B) tumore
 X(C) infezione
 (D) viremia
-(E) quesito senza soluzione univoca o correttaUna catena alimentare inizia con: E
+(E) quesito senza soluzione univoca o corretta
+Una catena alimentare inizia con: E
 (A) uomo
 (B) batteri
 (C) animali
@@ -5783,7 +5877,8 @@ Nella catena alimentare, gli organismi autotrofì: C
 (B) si trovano all'ultima tappa
 X(C) si trovano alla prima tappa
 (D) sono gli insetti
-(E) quesito senza soluzione univoca o correttaGli antibiotici: C
+(E) quesito senza soluzione univoca o corretta
+Gli antibiotici: C
 (A) combattono infezioni virali
 (B) sono microrganismi ostili ai sistemi biologici
 X(C) combattono infezioni batteriche e sono anche prodotti da microrganismi
@@ -5836,7 +5931,8 @@ Un feromone è: C
 (B) un ormone dell'uomo
 X(C) una sostanza secreta da un animale capace di influenzare il comportamento dei conspecifici
 (D) un organulo citoplasmatico
-(E) quesito senza soluzione univoca o correttaIndicare quale dei seguenti organismi è autotrofo: E
+(E) quesito senza soluzione univoca o corretta
+Indicare quale dei seguenti organismi è autotrofo: E
 (A) uomo
 (B) lievito
 (C) virus
@@ -5998,7 +6094,8 @@ L'evento che porta alla formazione dello zigote è la: D
 (B) meiosi
 (C) gametogenesi
 X(D) fecondazione
-(E) quesito senza soluzione univoca o correttaSono invertebrati: E
+(E) quesito senza soluzione univoca o corretta
+Sono invertebrati: E
 (A) anguille
 (B) rane
 (C) serpenti
@@ -6051,7 +6148,8 @@ Che cos'è una mutazione? B
 X(B) un cambiamento della sequenza del DNA
 (C) un cambiamento della sequenza del RNA
 (D) capacità di adattamento nell'ambiente
-(E) quesito senza soluzione univoca o correttaIn che cosa consiste una vaccinazione? A
+(E) quesito senza soluzione univoca o corretta
+In che cosa consiste una vaccinazione? A
 X(A) stimolazione alla produzione di anticorpi
 (B) somministrazione di anticorpi
 (C) somministrazione di antIgeni
@@ -6106,7 +6204,8 @@ X(A) nell'esame dei primi organismi fossili
 (B) nella simulazione delle condizioni che si ritiene esistessero ai primordi della vita sulla Terra
 (C) nel confronto morfologico tra gli organismi presenti ai nostri giorni
 (D) nel confronto tra le sequenze di DNA di organismi presenti ai nostri giorni
-(E) quesito senza soluzione univoca o correttaQuanti cromosomi sono presenti nel nucleo dello spermatozoo o dell'ovulo umano? C
+(E) quesito senza soluzione univoca o corretta
+Quanti cromosomi sono presenti nel nucleo dello spermatozoo o dell'ovulo umano? C
 (A) 40
 (B) 46
 X(C) 23
@@ -6214,7 +6313,8 @@ Che cos'è il differenziamento? C
 (B) una fase della meiosi
 X(C) un processo di diversificazione morfologica
 (D) una fase di riposo cellulare
-(E) quesito senza soluzione univoca o correttaQuale tipo di energia utilizzano le cellule animali per lo svolgimento delle loro funzioni? A
+(E) quesito senza soluzione univoca o corretta
+Quale tipo di energia utilizzano le cellule animali per lo svolgimento delle loro funzioni? A
 X(A) chimica
 (B) termica
 (C) meccanica
@@ -6264,7 +6364,8 @@ La cellula vegetale si distingue da quella animale per la presenza di: B
 X(B) parete cellulare
 (C) mitocondri
 (D) nucleo
-(E) quesito senza soluzione univoca o correttaLe sostanze non biodegradabili alterano i naturali cicli biogeochimici: C
+(E) quesito senza soluzione univoca o corretta
+Le sostanze non biodegradabili alterano i naturali cicli biogeochimici: C
 (A) perché gli animali non possono decomporle
 (B) perché le piante non possono decomporle
 X(C) perché i microrganismi non possono decomporle
@@ -6317,7 +6418,8 @@ Cosa sono i cetacei? D
 (B) celenterati
 (C) uccelli
 X(D) mammiferi
-(E) quesito senza soluzione univoca o correttaDa cos'è formato il materiale genetico dei virus? C
+(E) quesito senza soluzione univoca o corretta
+Da cos'è formato il materiale genetico dei virus? C
 (A) solo DNA
 (B) solo RNA
 X(C) da DNA o da RNA
@@ -6371,7 +6473,8 @@ La deficienza di vitamina D provoca nel bambino? B
 X(B) rachitismo
 (C) ipertensione
 (D) isotensione
-(E) quesito senza soluzione univoca o correttaUna cellula uovo differisce da uno spermatozoo in quanto la cellula uovo: E
+(E) quesito senza soluzione univoca o corretta
+Una cellula uovo differisce da uno spermatozoo in quanto la cellula uovo: E
 (A) possiede mitocondri
 (B) non possiede citoplasma
 (C) possiede un corredo aploide di cromosomi
@@ -6425,7 +6528,8 @@ L'aria è una miscela gassosa, da cos'è composta? B
 X(B) ossigeno 20%, azoto 79% ed altri gas
 (C) ossigeno 50%, azoto 50%
 (D) ossigeno 40%, azoto 30% ed altri gas
-(E) quesito senza soluzione univoca o correttaQuando respirano le piante? A
+(E) quesito senza soluzione univoca o corretta
+Quando respirano le piante? A
 X(A) sia di giorno che di notte
 (B) di giorno
 (C) di notte
@@ -6476,7 +6580,8 @@ X(A) antigeni
 (B) anticorpi
 (C) antibiotici
 (D) antinfiammatori
-(E) quesito senza soluzione univoca o correttaNel fegato il glucosio può essere convertito in: D
+(E) quesito senza soluzione univoca o corretta
+Nel fegato il glucosio può essere convertito in: D
 (A) aminoacidi
 (B) grassi
 (C) proteine
@@ -6529,7 +6634,8 @@ Il composto biochimico più abbondante in assoluto nella biosfera è: D
 (B) l'emoglobina
 (C) il DNA
 X(D) la cellulosa
-(E) quesito senza soluzione univoca o correttaI mammiferi: A
+(E) quesito senza soluzione univoca o corretta
+I mammiferi: A
 X(A) hanno respirazione polmonare
 (B) sono capaci di fotosintesi
 (C) sono eterotermi
@@ -6582,7 +6688,8 @@ Dove si sviluppa l'embrione umano? D
 (B) vagina
 (C) tube di Eustachio
 X(D) nello spessore della parete uterina
-(E) quesito senza soluzione univoca o correttaCon quale meccanismo avviene la fecondazione? E
+(E) quesito senza soluzione univoca o corretta
+Con quale meccanismo avviene la fecondazione? E
 (A) mediante fusione con molti spermatozoi
 (B) mediante fusione con pochi spermatozoi
 (C) mediante fusione con un solo spermatozoo
@@ -6635,7 +6742,8 @@ Che cos'è l'ermafroditismo? E
 (B) lo sviluppo di uovo senza fusione dei nuclei
 (C) lo sviluppo di uovo in due individui di sesso diversi
 (D) lo sviluppo di uovo senza che sia stato fecondato
-X(E) quesito senza soluzione univoca o correttaGli ormoni sono composti che hanno le seguenti funzioni: E
+X(E) quesito senza soluzione univoca o corretta
+Gli ormoni sono composti che hanno le seguenti funzioni: E
 (A) sono prodotti di trasformazione delle proteine
 (B) vengono introdotti con gli alimenti e servono al controllo dei processi di assimilazione
 (C) sono tutti i regolatori della funzione riproduttiva e quindi sono presenti solo durante l'età feconda
@@ -6688,7 +6796,8 @@ X(A) riserva
 (B) trasporto
 (C) struttura
 (D) nutrizione immediata
-(E) quesito senza soluzione univoca o correttaIn generale il contenuto totale di acqua in un organismo animale: B
+(E) quesito senza soluzione univoca o corretta
+In generale il contenuto totale di acqua in un organismo animale: B
 (A) oscilla notevolmente e regolarmente durante il corso della vita
 X(B) diminuisce dai primi stadi di sviluppo fino alla senescenza
 (C) non varia durante tutta la vita
@@ -6773,7 +6882,8 @@ X(A) è un metallo
 (B) è un gas nobile
 (C) ha un basso peso atomico
 (D) è una lega
-(E) quesito senza soluzione univoca o correttaL'elemento Kr (Krypton): C
+(E) quesito senza soluzione univoca o corretta
+L'elemento Kr (Krypton): C
 (A) è un metallo
 (B) è molto reattivo
 X(C) è un gas nobile
@@ -6826,7 +6936,8 @@ X(A) pari a 10 -3 moli
 (B) pari a 10 3 moli
 (C) 1000 moli
 (D) non esiste
-(E) quesito senza soluzione univoca o correttaIl numero quantico di spin può assumere valori: A
+(E) quesito senza soluzione univoca o corretta
+Il numero quantico di spin può assumere valori: A
 X(A) ± 1/2
 (B) +1/2, 0,-1/2
 (C) 0, n-l
@@ -6879,7 +6990,8 @@ Cos'è l'elettronegatività? C
 (B) La capacità di non essere influenzati dal campo elettrico
 X(C) La tendenza ad attirare gli elettroni di legame
 (D) Tutte le risposte precedenti
-(E) Quesito senza soluzione univoca o correttaSe un atomo neutro perde un elettrone diviene un: C
+(E) Quesito senza soluzione univoca o corretta
+Se un atomo neutro perde un elettrone diviene un: C
 (A) anione
 (B) zwitterione
 X(C) catione
@@ -6932,7 +7044,8 @@ La distribuzione degli elementi nella tavola periodica è determinata dal valore
 X(B) numero atomico
 (C) elettronegatività
 (D) raggio atomico
-(E) quesito senza soluzione univoca o correttaL'anione derivante dall'atomo di idrogeno viene detto: C
+(E) quesito senza soluzione univoca o corretta
+L'anione derivante dall'atomo di idrogeno viene detto: C
 (A) idrogenione
 (B) ione idrogeno
 X(C) ione idruro
@@ -6985,7 +7098,8 @@ X(A) il fluoro
 (B) il carbonio
 (C) l'ossigeno
 (D) l'idrogeno
-(E) quesito senza soluzione univoca o correttaIndicare il catione alcalino. A
+(E) quesito senza soluzione univoca o corretta
+Indicare il catione alcalino. A
 X(A) Li +
 (B) Ca 2+
 (C) Cl -
@@ -7038,7 +7152,8 @@ Indicare la sigla che corrisponde al ferro: C
 (B) Fr
 X(C) Fe
 (D) Au
-(E) quesito senza soluzione univoca o correttaIl simbolo Mn corrisponde A
+(E) quesito senza soluzione univoca o corretta
+Il simbolo Mn corrisponde A
 X(A) manganese
 (B) magnesio
 (C) mercurio
@@ -7092,7 +7207,8 @@ X(A) Xe
 (B) O 2
 (C) CO 2
 (D) F 2
-(E) quesito senza soluzione univoca o correttaQuale fra questi elementi è un metallo? C
+(E) quesito senza soluzione univoca o corretta
+Quale fra questi elementi è un metallo? C
 (A) Bronzo
 (B) Ottone
 X(C) Zinco
@@ -7145,7 +7261,8 @@ Indicare quale tra i seguenti atomi tende a formare molecole biatomiche: C
 (B) He
 X(C) H
 (D) Ne
-(E) quesito senza soluzione univoca o correttaTra il Sodio e il Cloro si forma: B
+(E) quesito senza soluzione univoca o corretta
+Tra il Sodio e il Cloro si forma: B
 (A) un legame covalente
 X(B) un legame ionico
 (C) un legame dativo
@@ -7198,7 +7315,8 @@ Indicare lo ione carbonato: C
 (B) CO 2-
 X(C) CO 32-
 (D) C +
-(E) quesito senza soluzione univoca o correttaIndicare lo ione bicarbonato: B
+(E) quesito senza soluzione univoca o corretta
+Indicare lo ione bicarbonato: B
 (A) (CO 32-
 X(B) HCO 3-
 (C) H 2 CO 3-
@@ -7251,7 +7369,8 @@ L'acido perclorico corrisponde alla formula: D
 (B) HClO 2
 (C) HClO 3
 X(D) HClO 4
-(E) quesito senza soluzione univoca o correttaLa struttura dell'ipoclorito di sodio è: D
+(E) quesito senza soluzione univoca o corretta
+La struttura dell'ipoclorito di sodio è: D
 (A) Na 2 ClO
 (B) NaClO 2
 (C) NaClO 4
@@ -7304,7 +7423,8 @@ Il composto Hg 2 O corrisponde a: C
 (B) idrossido mercuroso
 X(C) ossido mercuroso
 (D) la formula Hg 2 O non esiste
-(E) quesito senza soluzione univoca o correttaL'anidride arseniosa corrisponde alla formula: A
+(E) quesito senza soluzione univoca o corretta
+L'anidride arseniosa corrisponde alla formula: A
 X(A) As 2 O 3
 (B) AsO
 (C) As 2 O 5
@@ -7357,7 +7477,8 @@ Il solfato di calcio corrisponde alla formula: C
 (B) CaSO 3
 X(C) CaSO 4
 (D) non esiste
-(E) quesito senza soluzione univoca o correttaIl composto K 2 S è: A
+(E) quesito senza soluzione univoca o corretta
+Il composto K 2 S è: A
 X(A) solfuro di potassio
 (B) solfato di potassio
 (C) solfito di potassio
@@ -7410,7 +7531,8 @@ Il fluoruro di magnesio corrisponde alla formula: D
 (B) Mg(FO) 2
 (C) Mg 2 F
 X(D) MgF 2
-(E) quesito senza soluzione univoca o correttaIl solfuro di ammonio ha formula: A
+(E) quesito senza soluzione univoca o corretta
+Il solfuro di ammonio ha formula: A
 X(A) (NH 4 ) 2 S
 (B) NH 4 S
 (C) (NH 4 )HS
@@ -7463,7 +7585,8 @@ Come viene chiamato il passaggio liquido-aeriforme? D
 (B) Brinamento
 (C) Fusione
 X(D) Evaporazione
-(E) quesito senza soluzione univoca o correttaCome viene chiamato il passaggio dallo stato solido a quello aeriforme? A
+(E) quesito senza soluzione univoca o corretta
+Come viene chiamato il passaggio dallo stato solido a quello aeriforme? A
 X(A) Sublimazione
 (B) Brinamento
 (C) Evaporazione
@@ -7516,7 +7639,8 @@ In cosa agiscono i catalizzatori? C
 (B) Sulla concentrazione dei prodotti
 X(C) Sulla velocità di reazione
 (D) Sulla costante di equilibrio
-(E) quesito senza soluzione univoca o correttaPer reazione tra H2O e anidride, ottengo: C
+(E) quesito senza soluzione univoca o corretta
+Per reazione tra H2O e anidride, ottengo: C
 (A) idrossido
 (B) ossido
 X(C) acido
@@ -7569,7 +7693,8 @@ X(A) 0
 (B) -2
 (C) +2
 (D) -1
-(E) quesito senza soluzione univoca o correttaQual è il numero di ossidazione dell'ossigeno nell'acqua ossigenata? C
+(E) quesito senza soluzione univoca o corretta
+Qual è il numero di ossidazione dell'ossigeno nell'acqua ossigenata? C
 (A) -2
 (B) +1
 X(C) -1
@@ -7622,7 +7747,8 @@ X(A) il bromo si riduce, il ferro si ossida
 (B) il bromo si ossida, il ferro si riduce
 (C) il bromo è il riducente, il ferro è l'ossidante
 (D) il bromo perde 3 elettroni, il ferro li guadagna
-(E) quesito senza soluzione univoca o correttaNella semireazione Pb 2+ + 2e- → Pb, il piombo: B
+(E) quesito senza soluzione univoca o corretta
+Nella semireazione Pb 2+ + 2e- → Pb, il piombo: B
 (A) si ossida
 X(B) si riduce
 (C) non si riduce, ne si ossida
@@ -7729,7 +7855,8 @@ Cosa vuoi dire che due soluzioni sono isotoniche? B
 X(B) Hanno la stessa pressione osmotica
 (C) Hanno lo stesso volume
 (D) Hanno la stessa temperatura
-(E) quesito senza soluzione univoca o correttaCome viene espressa la solubilità di un gas in un liquido? E
+(E) quesito senza soluzione univoca o corretta
+Come viene espressa la solubilità di un gas in un liquido? E
 (A) Come coefficiente di assorbimento ad una data temperatura t
 (B) Come atomi/litro
 (C) Come litro/moli
@@ -7782,7 +7909,8 @@ Individuare il solvente polare. D
 (B) Etano
 (C) C6H6
 X(D) H2O
-(E) quesito senza soluzione univoca o correttaCosa si intende per solventi aprotici? B
+(E) quesito senza soluzione univoca o corretta
+Cosa si intende per solventi aprotici? B
 (A) Sono solventi privi di costante dielettrica
 X(B) Sono solventi privi di idrogeni acidi
 (C) Non ha alcun significato il termine aprotico
@@ -7892,7 +8020,8 @@ A che temperatura bolle l'acqua di mare alla pressione di un'atmosfera? C
 (B) Minore di 100°C
 X(C) Oltre i 100°C
 (D) Oltre i 1000°C
-(E) quesito senza soluzione univoca o correttaNaCl posto in acqua da: B
+(E) quesito senza soluzione univoca o corretta
+NaCl posto in acqua da: B
 (A) NaOH, HCl
 X(B) Na+ , Cl-
 (C) NaH, ClOH
@@ -7945,7 +8074,8 @@ Una soluzione ha [H+]= 10 -3 . Il pH è: D
 (B) 9
 (C) -3
 X(D) 3
-(E) quesito senza soluzione univoca o correttaUna soluzione ha pH=2. La concentrazione molare di H+ è: B
+(E) quesito senza soluzione univoca o corretta
+Una soluzione ha pH=2. La concentrazione molare di H+ è: B
 (A) 10 -12
 X(B) 10 -2
 (C) 10 2
@@ -7998,7 +8128,8 @@ Una soluzione ha pH=12. Essa è: B
 X(B) basica
 (C) neutra
 (D) con eccesso di protoni
-(E) quesito senza soluzione univoca o correttaUna soluzione ha [OH-] = 10 -12 . Essa: A
+(E) quesito senza soluzione univoca o corretta
+Una soluzione ha [OH-] = 10 -12 . Essa: A
 X(A) è acida
 (B) e basica
 (C) è neutra
@@ -8051,7 +8182,8 @@ Aggiungendo un acido ad acqua pura: B
 X(B) il pH si abbassa
 (C) il pH si innalza
 (D) la soluzione si mantiene neutra
-(E) quesito senza soluzione univoca o correttaNell'acqua pura la concentrazione molare degli ioni idrogeno è: B
+(E) quesito senza soluzione univoca o corretta
+Nell'acqua pura la concentrazione molare degli ioni idrogeno è: B
 (A) 10 -14
 X(B) 10 -7
 (C) 10 7
@@ -8104,7 +8236,8 @@ Indicare l'acido diprotico: B
 X(B) acido solforico
 (C) acido fosforico
 (D) acido cloridrico
-(E) quesito senza soluzione univoca o correttaIndicare l'acido triprotico: D
+(E) quesito senza soluzione univoca o corretta
+Indicare l'acido triprotico: D
 (A) acido solfidrico
 (B) acido cloridrico
 (C) acido acetico
@@ -8158,7 +8291,8 @@ La soluzione acquosa di NaCl sarà: D
 (B) basica
 (C) maleodorante
 X(D) neutra
-(E) quesito senza soluzione univoca o correttaUna soluzione acquosa di NaCl avrà un pH: C
+(E) quesito senza soluzione univoca o corretta
+Una soluzione acquosa di NaCl avrà un pH: C
 (A) maggiore di 7
 (B) minore di 7
 X(C) uguale a 7
@@ -8212,7 +8346,8 @@ X(A) è acida
 (B) è neutra
 (C) è basica
 (D) non può esistere
-(E) quesito senza soluzione univoca o correttaLa percentuale approssimata dell'idrogeno nella normale composizione dell'aria è: E
+(E) quesito senza soluzione univoca o corretta
+La percentuale approssimata dell'idrogeno nella normale composizione dell'aria è: E
 (A) maggiore del 95%
 (B) 78%
 (C) 48%
@@ -8320,7 +8455,8 @@ X(A) 0 °C
 (B) 100 °C
 (C) 200 °C
 (D) 500 °C
-(E) quesito senza soluzione univoca o correttaGli elettroliti sono sostanze: A
+(E) quesito senza soluzione univoca o corretta
+Gli elettroliti sono sostanze: A
 X(A) che in acqua si scompongono in ioni
 (B) insolubili in acqua
 (C) solubili nei grassi
@@ -8375,7 +8511,8 @@ Come viene rappresentata la molarità: E
 (B) n
 (C) Mo
 (D) m
-X(E) quesito senza soluzione univoca o correttaUn acido reagisce con una base per formare acqua e un sale. Questo processo è chiamato: A
+X(E) quesito senza soluzione univoca o corretta
+Un acido reagisce con una base per formare acqua e un sale. Questo processo è chiamato: A
 X(A) neutralizzazione
 (B) esterificazione
 (C) idrolisi
@@ -8429,7 +8566,8 @@ Le proprietà chimiche di un atomo sono determinate dal suo: C
 (B) peso atomico
 X(C) numero atomico
 (D) numero di neutroni
-(E) quesito senza soluzione univoca o correttaQuali di questi composti ha proprietà ossidanti? A
+(E) quesito senza soluzione univoca o corretta
+Quali di questi composti ha proprietà ossidanti? A
 X(A) H2O2
 (B) H2
 (C) NaCl
@@ -8482,7 +8620,8 @@ L'affinità elettronica è: E
 (B) l'energia spesa nella formazione del legame
 (C) la carica negativa dell'elettrone
 (D) una misura della tendenza di un atomo a trasformarsi in catione
-X(E) quesito senza soluzione univoca o correttaGli elementi con configurazione elettronica esterna s2p6 sono: D
+X(E) quesito senza soluzione univoca o corretta
+Gli elementi con configurazione elettronica esterna s2p6 sono: D
 (A) metalli alcalini
 (B) alogeni
 (C) metalli alcalino ferrosi
@@ -8535,7 +8674,8 @@ Rispetto all'acqua pura, una soluzione di NaCl: C
 (B) è meno acida
 X(C) ha la stessa acidità
 (D) è meno basica
-(E) quesito senza soluzione univoca o correttaA quale pH si ha una maggiore concentrazione di ioni H+? B
+(E) quesito senza soluzione univoca o corretta
+A quale pH si ha una maggiore concentrazione di ioni H+? B
 (A) 5
 X(B) 4
 (C) 8
@@ -8644,7 +8784,8 @@ Nella tavola periodica degli elementi il numero atomico lungo un periodo: B
 X(B) aumenta progressivamente
 (C) resta invariato
 (D) varia in modo casuale
-(E) quesito senza soluzione univoca o correttaLa reazione Fe 3+ + 1e- che dà Fe 2+ è una: B
+(E) quesito senza soluzione univoca o corretta
+La reazione Fe 3+ + 1e- che dà Fe 2+ è una: B
 (A) ossidazione
 X(B) riduzione
 (C) deidrogenazione
@@ -8698,7 +8839,8 @@ Nella molecola H2, i due atomi di idrogeno sono uniti da un legame: B
 X(B) covalente omopolare
 (C) a ponte di idrogeno
 (D) covalente con parziale carattere ionico
-(E) quesito senza soluzione univoca o correttaSi definisce ossidante una sostanza che: B
+(E) quesito senza soluzione univoca o corretta
+Si definisce ossidante una sostanza che: B
 (A) perde elettroni
 X(B) acquista elettroni
 (C) non acquista, né perde elettroni
@@ -8807,7 +8949,8 @@ In quali delle seguenti sostanze il legame tra gli atomi è di natura ionica? C
 (B) Ammoniaca
 X(C) Bromuro di potassio
 (D) Acido cloridrico
-(E) quesito senza soluzione univoca o correttaChe differenza c'è tra sublimazione ed evaporazione? C
+(E) quesito senza soluzione univoca o corretta
+Che differenza c'è tra sublimazione ed evaporazione? C
 (A) Sono uno l'inverso dell'altro
 (B) Non c'è nessuna differenza
 X(C) La sublimazione è il passaggio solido-vapore, l'evaporazione è il passaggio liquido-vapore
@@ -8863,7 +9006,8 @@ X(A) 7
 (B) 8
 (C) 14
 (D) 15
-(E) quesito senza soluzione univoca o correttaQuanti grammi pesano 2 moli di acqua? E
+(E) quesito senza soluzione univoca o corretta
+Quanti grammi pesano 2 moli di acqua? E
 (A) 2
 (B) 8
 (C) 18
@@ -8918,7 +9062,8 @@ Nelle reazioni di ossido-riduzione avvengono sempre trasferimenti di: B
 X(B) elettroni
 (C) protoni
 (D) neutrini
-(E) quesito senza soluzione univoca o correttaLa formula minima di un composto indica: C
+(E) quesito senza soluzione univoca o corretta
+La formula minima di un composto indica: C
 (A) la disposizione spaziale degli atomi nella molecola
 (B) l'appartenenza alla serie stereochimica L o D
 X(C) il rapporto tra gli atomi nella molecola
@@ -8971,7 +9116,8 @@ La costante di equilibrio di una reazione chimica è costante: B
 X(B) a temperatura costante
 (C) a pressione costante
 (D) al variare della pressione
-(E) quesito senza soluzione univoca o correttaQuale fra i seguenti è un solvente polare? D
+(E) quesito senza soluzione univoca o corretta
+Quale fra i seguenti è un solvente polare? D
 (A) Cloroformio
 (B) Benzene
 (C) Esano
@@ -9026,7 +9172,8 @@ condizioni di temperatura e pressione, contengono lo stesso numero di molecole"?
 (B) Charles
 (C) Gay-Lussac
 X(D) Avogadro
-(E) quesito senza soluzione univoca o correttaSecondo Bronsted-Lowry l'acido coniugato della base CO 3-2 è: B
+(E) quesito senza soluzione univoca o corretta
+Secondo Bronsted-Lowry l'acido coniugato della base CO 3-2 è: B
 (A) CO2
 X(B) HCO3-
 (C) H2CO3
@@ -9080,7 +9227,8 @@ X(A) 1, 2, 3
 (B) - 1, - 2, - 3
 (C) 0, 1, 2
 (D) 3, 5, 7
-(E) quesito senza soluzione univoca o correttaUna soluzione neutra è caratterizzata: D
+(E) quesito senza soluzione univoca o corretta
+Una soluzione neutra è caratterizzata: D
 (A) da una pressione osmotica uguale a quella atmosferica
 (B) dalla concentrazione dell'idrogeno uguale a quella dell'ossigeno
 (C) dalla concentrazione dello ione idrogeno uguale a quella dello ione ossigeno
@@ -9188,7 +9336,8 @@ X(A) una particella mono- o pluriatomica con una o più cariche positive
 (B) un atomo che ha acquistato protoni
 (C) un atomo che ha perso protoni
 (D) una sostanza contenente il gruppo funzionale del chetone
-(E) quesito senza soluzione univoca o correttaLa differenza tra il numero di massa e il numero atomico di un atomo fornisce: C
+(E) quesito senza soluzione univoca o corretta
+La differenza tra il numero di massa e il numero atomico di un atomo fornisce: C
 (A) il numero di elettroni
 (B) il numero di protoni
 X(C) il numero di neutroni
@@ -9242,7 +9391,8 @@ X(A) 8
 (B) 14
 (C) 15
 (D) 7
-(E) quesito senza soluzione univoca o correttaUna soluzione basica è caratterizzata: A
+(E) quesito senza soluzione univoca o corretta
+Una soluzione basica è caratterizzata: A
 X(A) dalla concentrazione degli ioni ossidrile superiore a quella degli ioni idrogeno
 (B) dalla concentrazione degli ioni ossidrile inferiore a quella degli ioni idrogeno
 (C) dall'ossigeno disciolto ad una pressione uguale a quella atmosferica
@@ -9349,7 +9499,8 @@ Un atomo neutro contiene 13 protoni, 13 elettroni e 14 neutroni; il peso atomico
 (B) 40
 (C) 13
 X(D) 27
-(E) quesito senza soluzione univoca o correttaNella reazione: Zn + FeCl2 --> ZnCl2 + Fe, lo ione che si riduce è: B
+(E) quesito senza soluzione univoca o corretta
+Nella reazione: Zn + FeCl2 --> ZnCl2 + Fe, lo ione che si riduce è: B
 (A) Zn ++
 X(B) Fe ++
 (C) Cl -
@@ -9402,7 +9553,8 @@ L'elemento più elettronegativo è: C
 (B) Na
 X(C) F
 (D) S
-(E) quesito senza soluzione univoca o correttaQual è il composto rappresentato dalla formula FeSO 3 ? A
+(E) quesito senza soluzione univoca o corretta
+Qual è il composto rappresentato dalla formula FeSO 3 ? A
 X(A) Solfito ferroso
 (B) Solfito ferrico
 (C) Solfato ferroso
@@ -9457,7 +9609,8 @@ Quali delle seguenti formule corrisponde a un acido debole? C
 (B) NaOH
 X(C) HCN
 (D) HNO3
-(E) quesito senza soluzione univoca o correttaLa formula del nitrato di ammonio è: B
+(E) quesito senza soluzione univoca o corretta
+La formula del nitrato di ammonio è: B
 (A) NH3NO3
 X(B) NH4NO3
 (C) NH2NO3
@@ -9510,7 +9663,8 @@ La formula del solfuro di sodio è: D
 (B) Na2SO3
 (C) NaSO4
 X(D) Na2S
-(E) quesito senza soluzione univoca o correttaIndicare tra i composti seguenti un tipico agente ossidante: A
+(E) quesito senza soluzione univoca o corretta
+Indicare tra i composti seguenti un tipico agente ossidante: A
 X(A) KMnO4
 (B) SO2
 (C) H2O
@@ -9618,7 +9772,8 @@ Quale elemento corrisponde alla configurazione elettronica 1s2 2s2 2p4? C
 (B) Boro
 X(C) Ossigeno
 (D) Alluminio
-(E) quesito senza soluzione univoca o correttaCO rappresenta la formula: C
+(E) quesito senza soluzione univoca o corretta
+CO rappresenta la formula: C
 (A) dell'anidride carbonica
 (B) del carburo di calcio
 X(C) dell'ossido di carbonio
@@ -9687,7 +9842,8 @@ Indicare quale delle seguenti molecole ha ibridazione sp 3 : D
 (B) CH=CH
 (C) CH 2 =CH 2
 X(D) CH4
-(E) quesito senza soluzione univoca o correttaIndicare quale delle seguenti molecole ha ibridazione sp: D
+(E) quesito senza soluzione univoca o corretta
+Indicare quale delle seguenti molecole ha ibridazione sp: D
 (A) CH 4
 (B) CH 2 =CH 2
 (C) H 2 O
@@ -9741,7 +9897,8 @@ Il sangue ha un pH: D
 (B) leggermente acido pH=6,5
 (C) basico
 X(D) leggermente basico pH=7,4
-(E) quesito senza soluzione univoca o correttaNella molecola dell'etilene i due atomi di carbonio sono uniti da: C
+(E) quesito senza soluzione univoca o corretta
+Nella molecola dell'etilene i due atomi di carbonio sono uniti da: C
 (A) 2 legami σ
 (B) 3 legami π
 X(C) 1 legame σ ed 1 legame π
@@ -9794,7 +9951,8 @@ X(A) Alcheni
 (B) Alcani
 (C) Butano
 (D) Etano
-(E) quesito senza soluzione univoca o correttaI composti organici contenenti solo atomi di C e H, vengono detti: D
+(E) quesito senza soluzione univoca o corretta
+I composti organici contenenti solo atomi di C e H, vengono detti: D
 (A) colloidi
 (B) idruri
 (C) grafiti
@@ -9847,7 +10005,8 @@ X(A) nessuna delle altre risposte
 (B) HCCl 4
 (C) CH 2 Cl 2
 (D) CH 3 Cl
-(E) quesito senza soluzione univoca o correttaL'etano corrisponde alla formula: C
+(E) quesito senza soluzione univoca o corretta
+L'etano corrisponde alla formula: C
 (A) C 2 H 4
 (B) CH 4
 X(C) C 2 H 6
@@ -9900,7 +10059,8 @@ Il propano appartiene agli: C
 (B) alchini
 X(C) alcani
 (D) composti aromatici
-(E) quesito senza soluzione univoca o correttaCosa si intende per serie omologa? D
+(E) quesito senza soluzione univoca o corretta
+Cosa si intende per serie omologa? D
 (A) Una famiglia di composti tutti uguali
 (B) Una famiglia di composti i cui componenti differiscono per la disposizione degli atomi di idrogeno
 (C) Una famiglia di composti i cui componenti differiscono per la disposizione degli atomi di carbonio
@@ -9953,7 +10113,8 @@ Indicare l'etano: D
 (B) CH 3 -CH 2 -CH 3
 (C) CH 3 -CHO
 X(D) CH 3 -CH 3
-(E) quesito senza soluzione univoca o correttaIn che stato fisico si trova il metano? D
+(E) quesito senza soluzione univoca o corretta
+In che stato fisico si trova il metano? D
 (A) Liquido
 (B) Solido
 (C) Dipende da dove viene estratto
@@ -10064,7 +10225,8 @@ I legami fra gli atomi di carbonio negli alcani di che tipo sono? C
 (B) A volte σ e a volte π
 X(C) Tutti σ
 (D) Dativi
-(E) quesito senza soluzione univoca o correttaI legami fra gli atomi di carbonio negli alcani di che tipo sono? D
+(E) quesito senza soluzione univoca o corretta
+I legami fra gli atomi di carbonio negli alcani di che tipo sono? D
 (A) Tutti π
 (B) Tutti doppi
 (C) Tutti tripli
@@ -10117,7 +10279,8 @@ Il composto CH 3 -CH 2 -N(CH 3 ) 2 rappresenta: C
 (B) un'ammina secondaria
 X(C) un'ammina terziaria
 (D) un'aldeide
-(E) quesito senza soluzione univoca o correttaIl nome del composto CH 3 CH 2 OH è: A
+(E) quesito senza soluzione univoca o corretta
+Il nome del composto CH 3 CH 2 OH è: A
 X(A) alcool etilico
 (B) aldeide etanoica
 (C) acido acetico
@@ -10171,7 +10334,8 @@ Qual è la formula generale degli alcheni? B
 X(B) C n H 2n
 (C) C n H 2n-2
 (D) C 2n H 2n
-(E) quesito senza soluzione univoca o correttaUn alchene contenente tre doppi legami, è chiamato: D
+(E) quesito senza soluzione univoca o corretta
+Un alchene contenente tre doppi legami, è chiamato: D
 (A) diene
 (B) poliene
 (C) tetraone
@@ -10224,7 +10388,8 @@ X(A) CH 3 -C≡CH
 (B) CH 2 =C=CH 2
 (C) CH 3 -C=CH 3
 (D) CH 3 -CH=CH
-(E) quesito senza soluzione univoca o correttaLa formula del benzene è: C
+(E) quesito senza soluzione univoca o corretta
+La formula del benzene è: C
 (A) C 6 H 14
 (B) C 6 H 12
 X(C) C 6 H 6
@@ -10277,7 +10442,8 @@ Dire quale tra questi composti è l'idrocarburo saturo: D
 (B) C 6 H 6
 (C) C 3 H 6
 X(D) C 5 H 12
-(E) quesito senza soluzione univoca o correttaLa desinenza -olo, in chimica organica, è tipica degli? C
+(E) quesito senza soluzione univoca o corretta
+La desinenza -olo, in chimica organica, è tipica degli? C
 (A) acidi carbossilici
 (B) esteri
 X(C) alcoli
@@ -10330,7 +10496,8 @@ Quale fra questi elementi è sempre presente nei composti organici? C
 (B) N
 X(C) C
 (D) Ni
-(E) quesito senza soluzione univoca o correttaChe cosa è l'acetone? D
+(E) quesito senza soluzione univoca o corretta
+Che cosa è l'acetone? D
 (A) Un'aldeide
 (B) Un acido carbossilico
 (C) Un'ammide
@@ -10383,7 +10550,8 @@ Il ribosio è: D
 (B) un nucleotide a 5 atomi di carbonio
 (C) un nucleoside
 X(D) un monosaccaride a 5 atomi di carbonio e una funzione aldeidica
-(E) quesito senza soluzione univoca o correttaIl glucosio è: A
+(E) quesito senza soluzione univoca o corretta
+Il glucosio è: A
 X(A) un aldoesoso
 (B) un aldopentoso
 (C) un chetoesoso
@@ -10436,7 +10604,8 @@ Il comune zucchero da cucina è: B
 X(B) il saccarosio (glucosio+fruttosio)
 (C) il fruttosio
 (D) il maltosio
-(E) quesito senza soluzione univoca o correttaIl glucosio in H2O è: A
+(E) quesito senza soluzione univoca o corretta
+Il glucosio in H2O è: A
 X(A) solubile perché presenta gruppi funzionali idrofili
 (B) insolubile
 (C) idrofobo
@@ -10489,7 +10658,8 @@ La cellulosa è formata da: E
 (B) fruttosio + mannosio
 (C) galattosio + mannosio
 (D) fruttosio + fruttosio
-X(E) quesito senza soluzione univoca o correttaIndicare il monosaccaride: C
+X(E) quesito senza soluzione univoca o corretta
+Indicare il monosaccaride: C
 (A) lattosio
 (B) saccarosio
 X(C) fruttosio
@@ -10543,7 +10713,8 @@ Per acidi grassi naturali insaturi si intende che: C
 (B) sono poco reattiv
 X(C) contengono doppi legami semplici
 (D) contengono solo legami semplici
-(E) quesito senza soluzione univoca o correttaIl glicerolo è: C
+(E) quesito senza soluzione univoca o corretta
+Il glicerolo è: C
 (A) alcool etilico
 (B) un acido
 X(C) 1,2,3 propantriolo
@@ -10596,7 +10767,8 @@ Le purine sono: D
 (B) nucleotidi
 (C) acidi nucleici
 X(D) basi azotate (Adenina-Guanina)
-(E) quesito senza soluzione univoca o correttaIl legame fra una base azotata e ribosio o desossiribosio da luogo a: C
+(E) quesito senza soluzione univoca o corretta
+Il legame fra una base azotata e ribosio o desossiribosio da luogo a: C
 (A) un nucleotide
 (B) DNA o RNA
 X(C) un nucleoside
@@ -10649,7 +10821,8 @@ Negli acidi nucleici gli zuccheri contenuti sono: B
 X(B) solo ribosio e deossiribosio a seconda se si tratta di RNA o DNA
 (C) glucosio e ribosio
 (D) legati a 2 gruppi fosforici
-(E) quesito senza soluzione univoca o correttaL'ATP è: C
+(E) quesito senza soluzione univoca o corretta
+L'ATP è: C
 (A) acido tripotassico
 (B) acido alcalintrifosforico
 X(C) acido adenosintrifosforico
@@ -10703,7 +10876,8 @@ Il legame di Van der Waals è: E
 (B) forte
 (C) ionico
 (D) covalente
-X(E) quesito senza soluzione univoca o correttaIn quale dei seguenti composti allo stato liquido sono presenti legami idrogeno: C
+X(E) quesito senza soluzione univoca o corretta
+In quale dei seguenti composti allo stato liquido sono presenti legami idrogeno: C
 (A) Esano C 6 H 14
 (B) Etilene CH 2 =CH 2
 X(C) Acido fluoridrico HF
@@ -10758,7 +10932,8 @@ Il gruppo ossidrile (__OH) è presente: C
 (B) nelle ammine
 X(C) negli alcoli
 (D) negli idrocarburi
-(E) quesito senza soluzione univoca o correttaLa formula generale di un'aldeide (R = radicale alchilico) è: A
+(E) quesito senza soluzione univoca o corretta
+La formula generale di un'aldeide (R = radicale alchilico) è: A
 X(A) R__CHO
 (B) R__CN
 (C) R__COOH
@@ -10811,7 +10986,8 @@ Il numero di atomi di H presenti in un alchene contenente n atomi di C è: D
 (B) 2n + 2
 (C) 2n - 2
 X(D) 2n
-(E) quesito senza soluzione univoca o correttaUn alcool si dice terziario quando: D
+(E) quesito senza soluzione univoca o corretta
+Un alcool si dice terziario quando: D
 (A) contiene tre atomi di carbonio
 (B) contiene tre ossidrili
 (C) per ossidazione fornisce tre molecole di acido
@@ -10864,7 +11040,8 @@ Quale dei seguenti composti è un alcool? B
 X(B) CH 3 __CH 2 __CH 2 OH
 (C) COOH__COOH
 (D) (CH 3 ) 2 __CH 2 __CH 3
-(E) quesito senza soluzione univoca o correttaQuale dei seguenti composti è un amminoacido? C
+(E) quesito senza soluzione univoca o corretta
+Quale dei seguenti composti è un amminoacido? C
 (A) Adrenalina
 (B) acido acetilsalicilico
 X(C) glicina
@@ -10917,7 +11094,8 @@ Il saccarosio è un: C
 (B) aldoesoso
 X(C) disaccaride
 (D) polisaccaride
-(E) quesito senza soluzione univoca o correttaLa formula dell'acetone è: A
+(E) quesito senza soluzione univoca o corretta
+La formula dell'acetone è: A
 X(A) CH 3 __CO__CH 3
 (B) CH 3 __CH 2 __OH
 (C) CH 3 __Cl
@@ -10971,7 +11149,8 @@ Qual è tra i seguenti composti quello aromatico? D
 (B) Acido formico
 (C) Acido acetico
 X(D) Acido benzoico
-(E) quesito senza soluzione univoca o correttaPer idrogenazione degli alcheni si ottengono: C
+(E) quesito senza soluzione univoca o corretta
+Per idrogenazione degli alcheni si ottengono: C
 (A) idruri
 (B) alcooli
 X(C) alcani
@@ -11025,7 +11204,8 @@ Qual è la natura del composto organico C 4 H 4 ? B
 X(B) Alchino
 (C) Alchene
 (D) Cicloalcano
-(E) quesito senza soluzione univoca o correttaGli alcoli sono: D
+(E) quesito senza soluzione univoca o corretta
+Gli alcoli sono: D
 (A) idrocarburi ciclici
 (B) composti organici contenenti il gruppo __NH 2
 (C) sali dell'acido pimelico
@@ -11132,7 +11312,8 @@ In un alchene il numero degli atomi di carbonio è sempre uguale: C
 (B) al doppio del numero degli atomi di idrogeno
 X(C) alla metà del numero degli atomi di idrogeno
 (D) alla terza parte del numero degli atomi di idrogeno
-(E) quesito senza soluzione univoca o correttaGli alcoli monovalenti sono composti organici contenenti: D
+(E) quesito senza soluzione univoca o corretta
+Gli alcoli monovalenti sono composti organici contenenti: D
 (A) un gruppo tiolico
 (B) un gruppo carbossilico
 (C) un gruppo amminico
@@ -11164,7 +11345,7 @@ X(B) estere
 (E) quesito senza soluzione univoca o corretta
 Il propano è un: C
 (A) alchene
-(A) alchino
+(B) alchino
 X(C) alcano
 (D) composto aromatico
 (E) quesito senza soluzione univoca o corretta
@@ -11185,7 +11366,8 @@ Quale composto è rappresentato dalla formula CH 3 __CO__CH 3 ? C
 (B) Un'aldeide
 X(C) Un chetone
 (D) Un estere
-(E) quesito senza soluzione univoca o correttaChe tipo di ibridazione degli orbitali presentano gli atomi di C nell'etere dimetilico? A
+(E) quesito senza soluzione univoca o corretta
+Che tipo di ibridazione degli orbitali presentano gli atomi di C nell'etere dimetilico? A
 X(A) sp 3
 (B) sp 2
 (C) sp
@@ -11251,7 +11433,8 @@ L'elettronvolt eV misura: D
 (B) la carica dell'elettrone
 (C) un'intensità di corrente
 X(D) un'energia
-(E) quesito senza soluzione univoca o correttaNel S.I. l'induzione magnetica si misura in: A
+(E) quesito senza soluzione univoca o corretta
+Nel S.I. l'induzione magnetica si misura in: A
 X(A) tesla
 (B) farad
 (C) volt
@@ -11304,7 +11487,8 @@ Un joule è equivalente a: B
 X(B) 1/4,186 calorie
 (C) 4.186 calorie
 (D) 1/4,186 kcalorie
-(E) quesito senza soluzione univoca o correttaLa pressione si può misurare in: E
+(E) quesito senza soluzione univoca o corretta
+La pressione si può misurare in: E
 (A) N
 (B) N/m
 (C) mm
@@ -11357,7 +11541,8 @@ Nel S.I. l'unità di misura del calore è: E
 (B) l'erg
 (C) il watt
 (D) il cavallo
-X(E) quesito senza soluzione univoca o correttaSi definisce quantità di calore necessaria per elevare di 1°C un kilogrammo di sostanza: B
+X(E) quesito senza soluzione univoca o corretta
+Si definisce quantità di calore necessaria per elevare di 1°C un kilogrammo di sostanza: B
 (A) il calore latente
 X(B) il calore specifico
 (C) la kilocaloria
@@ -11410,7 +11595,8 @@ Una caloria è equivalente a: E
 (B) 4,186 kjoule
 (C) 4186 joule
 (D) 1/4186 joule
-X(E) quesito senza soluzione univoca o correttaL'anno luce è l'unità di misura di: B
+X(E) quesito senza soluzione univoca o corretta
+L'anno luce è l'unità di misura di: B
 (A) una frequenza
 X(B) una distanza
 (C) una accelerazione
@@ -11515,7 +11701,8 @@ X(A) l'angolo piano
 (B) l'angolo solido
 (C) la radiazione elettromagnetica
 (D) Ìa radiazione emessa dal corpo nero
-(E) quesito senza soluzione univoca o correttaUn mA corrisponde: B
+(E) quesito senza soluzione univoca o corretta
+Un mA corrisponde: B
 (A) 1 mA = 10 -6 A
 X(B) 1 mA = 10 -3 A
 (C) 1 mA = 10 -2 A
@@ -11570,7 +11757,8 @@ Nel sistema internazionale S.I. la pressione si misura in: E
 (B) atm
 (C) N/m
 (D) torr
-X(E) quesito senza soluzione univoca o correttaIl livello sonoro: B
+X(E) quesito senza soluzione univoca o corretta
+Il livello sonoro: B
 (A) si misura in joule
 X(B) si misura in decibel
 (C) è un'energia
@@ -11621,7 +11809,8 @@ X(A) si approssima alla velocità della luce
 (B) si approssima alla velocità del suono
 (C) si mette in relazione con un'altra velocità
 (D) viene misurata in km/h
-(E) quesito senza soluzione univoca o correttaL'accelerazione del moto rettilineo uniforme è: B
+(E) quesito senza soluzione univoca o corretta
+L'accelerazione del moto rettilineo uniforme è: B
 (A) proporzionale alla velocità
 X(B) nulla
 (C) costante ma non nulla
@@ -11677,7 +11866,8 @@ Nel moto uniformemente accelerato lo spazio percorso: C
 (B) è inversamente proporzionale al tempo
 X(C) varia con il quadrato del tempo
 (D) varia con il cubo del tempo
-(E) quesito senza soluzione univoca o correttaNel moto rettilineo uniforme lo spazio percorso: A
+(E) quesito senza soluzione univoca o corretta
+Nel moto rettilineo uniforme lo spazio percorso: A
 X(A) è direttamente proporzionale al tempo
 (B) è inversamente proporzionale al tempo
 (C) varia con il quadrato del tempo
@@ -11733,7 +11923,8 @@ accelerazione
 (B) la somma dell'energia potenziale e dell'energia cinetica è costante
 (C) la forza peso è una forza conservativa
 (D) ad ogni azione corrisponde una reazione uguale e contraria
-(E) quesito senza soluzione univoca o correttaUn sistema di corpi si dice isolato se: A
+(E) quesito senza soluzione univoca o corretta
+Un sistema di corpi si dice isolato se: A
 X(A) è nulla la risultante delle forze che agiscono su di esso dall'esterno
 (B) ha energia cinetica nulla
 (C) ha energia potenziale nulla
@@ -11786,7 +11977,8 @@ La prima legge di Newton afferma che: D
 (B) il campo gravitazionale è un campo conservativo
 (C) un corpo soggetto ad una forza acquista una accelerazione proporzionale ad essa
 X(D) un corpo non soggetto a forze esterne permane nel suo stato di quiete o di moto rettilineo uniforme
-(E) quesito senza soluzione univoca o correttaSi definisce densità di energia: C
+(E) quesito senza soluzione univoca o corretta
+Si definisce densità di energia: C
 (A) l'energia per unità di tempo
 (B) l'energia per unità di massa
 X(C) l'energia per unità di volume
@@ -11898,7 +12090,8 @@ Quale effetto ha l'attrito su un corpo in moto? E
 (B) Aumento di energia potenziale gravitazionale
 (C) Aumento di velocità
 (D) Aumento di energia cinetica
-X(E) quesito senza soluzione univoca o correttaDurante la caduta libera di un corpo, in completa assenza di attrito, si verifica: C
+X(E) quesito senza soluzione univoca o corretta
+Durante la caduta libera di un corpo, in completa assenza di attrito, si verifica: C
 (A) aumento dell'accelerazione
 (B) diminuzione del peso
 X(C) aumento dell'energia cinetica
@@ -12114,7 +12307,8 @@ Che cosa significa che un moto è uniformemente accelerato? C
 (B) Che l'accelerazione è nulla
 X(C) Che la velocità è una funzione lineare del tempo
 (D) Che il corpo che si muove ha densità uniforme
-(E) quesito senza soluzione univoca o corretta10 kW equivalgono ad una potenza pari a: C
+(E) quesito senza soluzione univoca o corretta
+10 kW equivalgono ad una potenza pari a: C
 (A) 10 J/s
 X(B) 10.000 J/s
 (C) 10.000 J * s
@@ -12169,7 +12363,8 @@ La quantità di moto si misura in: C
 (B) newton * metri
 X(C) newton * secondi
 (D) chilogrammi * metri * secondi
-(E) quesito senza soluzione univoca o correttaIndicare quale delle seguenti relazioni tra le grandezze fisiche è CORRETTA: A
+(E) quesito senza soluzione univoca o corretta
+Indicare quale delle seguenti relazioni tra le grandezze fisiche è CORRETTA: A
 X(A) (lavoro)/(spostamento) = (forza)
 (B) (massa) * (velocità) = (forza)
 (C) (massa) * (spostamento) = (forza)
@@ -12222,7 +12417,8 @@ X(A) periodico
 (B) uniforme
 (C) uniformemente accelerato
 (D) uniformemente ritardato
-(E) quesito senza soluzione univoca o correttaUn kilowattora equivale a: B
+(E) quesito senza soluzione univoca o corretta
+Un kilowattora equivale a: B
 (A) 3600 MeV
 X(B) 3600 kJ
 (C) 3600 N
@@ -12328,7 +12524,8 @@ La pressione atmosferica è equivalente alla pressione di una colonna d'acqua al
 (B) 1000 m
 (C) 760 m
 X(D) 10.000 mm
-(E) quesito senza soluzione univoca o correttaA quale delle seguenti forze si può associare il concetto di campo conservativo? La forza: D
+(E) quesito senza soluzione univoca o corretta
+A quale delle seguenti forze si può associare il concetto di campo conservativo? La forza: D
 (A) di attrito
 (B) elettromotrice
 (C) di viscosità
@@ -12435,7 +12632,8 @@ X(A) sono tra loro uguali
 (B) è maggiore quella sul sughero
 (C) è maggiore quella sul ferro
 (D) è assente per il ferro perché va a fondo
-(E) quesito senza soluzione univoca o correttaQuali delle seguenti è una unità di misura del lavoro? B
+(E) quesito senza soluzione univoca o corretta
+Quali delle seguenti è una unità di misura del lavoro? B
 (A) N m -2
 X(B) atm * litri
 (C) kg * m
@@ -12488,7 +12686,8 @@ D
 (B) 10√2 N
 (C) 0 N
 X(D) I dati non sono sufficienti per consentire una risposta
-(E) quesito senza soluzione univoca o correttaSecondo il principio di Archimede un corpo immerso in un fluido riceve una spinta: E
+(E) quesito senza soluzione univoca o corretta
+Secondo il principio di Archimede un corpo immerso in un fluido riceve una spinta: E
 (A) dall'alto verso il basso uguale alla densità del fluido spostato
 (B) dall'alto verso il basso uguale al volume del fluido spostato
 (C) dal basso verso l'alto uguale alla densità del fluido spostato
@@ -12601,7 +12800,8 @@ X(A) Esse oscillano parallelamente alla direzione di propagazione
 (B) Esse oscillano perpendicolarmente alla superficie del liquido
 (C) Esse oscillano perpendicolarmente alla direzione di propagazione
 (D) Esse oscillano parallelamente alla superficie del liquido
-(E) quesito senza soluzione univoca o correttaIl momento di una forza rispetto ad un punto: A
+(E) quesito senza soluzione univoca o corretta
+Il momento di una forza rispetto ad un punto: A
 X(A) è una grandezza vettoriale
 (B) è l'istante in cui viene applicata
 (C) è una funzione del tempo
@@ -12705,7 +12905,8 @@ assume sulla Terra) in qualunque punto dello spazio e quindi anche sulla superfi
 (C) La spinta di Archimede è presente solo sulla superficie terrestre
 (D) La spinta di Archimede dipende dalla massa del fluido spostato e quindi assume lo stesso valore in
 qualunque regione dello spazio all'interno del sistema solare
-X(E) quesito senza soluzione univoca o correttaLascia cadere contemporaneamente dal tavolo una gomma e un libro: A
+X(E) quesito senza soluzione univoca o corretta
+Lascia cadere contemporaneamente dal tavolo una gomma e un libro: A
 X(A) essi arrivano a terra contemporaneamente o quasi
 (B) arriva prima il libro perché è più pesante
 (C) arriva prima la gomma perché c'è l'aria
@@ -12758,7 +12959,8 @@ D
 (B) inversamente proporzionale al prodotto delle masse
 (C) indipendente dai valori delle masse
 X(D) inversamente proporzionale al quadrato della distanza
-(E) quesito senza soluzione univoca o correttaLa spinta di Archimede su un corpo omogeneo totalmente immerso in un fluido dipende: A
+(E) quesito senza soluzione univoca o corretta
+La spinta di Archimede su un corpo omogeneo totalmente immerso in un fluido dipende: A
 X(A) dalla densità del fluido
 (B) dal livello del fluido
 (C) dalla densità del corpo immerso
@@ -12862,7 +13064,8 @@ Se un corpo si muove con un'accelerazione costante: D
 (B) la sua velocità si mantiene costante
 (C) mantiene costante la quantità di moto
 X(D) su di esso agisce una forza costante
-(E) quesito senza soluzione univoca o correttaL'erg è una unità di misura di: A
+(E) quesito senza soluzione univoca o corretta
+L'erg è una unità di misura di: A
 X(A) lavoro
 (B) pressione
 (C) frequenza
@@ -12916,7 +13119,8 @@ Un cubo di lato 0,3 metri e del peso di 30 kg ha densità: D
 (B) 11 kg/metro cubo
 (C) 110 kg/metro cubo
 X(D) 1,1 kg/litro
-(E) quesito senza soluzione univoca o correttaLe pulsazioni cardiache nell'uomo hanno una frequenza dell'ordine di: B
+(E) quesito senza soluzione univoca o corretta
+Le pulsazioni cardiache nell'uomo hanno una frequenza dell'ordine di: B
 (A) 0,01 Hz
 X(B) 1 Hz
 (C) 10 Hz
@@ -12969,7 +13173,8 @@ C
 (B) 0,6
 X(C) 10
 (D) 36
-(E) quesito senza soluzione univoca o correttaIl baricentro di un corpo è il punto dove: C
+(E) quesito senza soluzione univoca o corretta
+Il baricentro di un corpo è il punto dove: C
 (A) si trova tutta la massa del corpo
 (B) la densità del corpo si annulla
 X(C) si può ritenere applicato il peso del corpo
@@ -13022,7 +13227,8 @@ Con il dinamometro si misura: D
 (B) il potenziale ai capi di una dinamo
 (C) l'intensità del campo elettrico
 X(D) la forza applicata alla sua estremità libera
-(E) quesito senza soluzione univoca o correttaÈ possibile che un corpo scenda lungo un piano inclinato con velocità costante? D
+(E) quesito senza soluzione univoca o corretta
+È possibile che un corpo scenda lungo un piano inclinato con velocità costante? D
 (A) No, a causa dell'accelerazione di gravità
 (B) Sì, se è trascurabile la resistenza dell'aria
 (C) Sì, se è trascurabile qualsiasi forma di attrito
@@ -13074,7 +13280,8 @@ X(A) può equilibrare due forze diverse
 (B) consente di compiere maggior lavoro
 (C) consente di sviluppare maggior potenza
 (D) è in equilibrio solo se i "bracci" sono uguali
-(E) quesito senza soluzione univoca o correttaIl peso di un corpo sulla Luna è minore del peso dello stesso corpo sulla Terra perché: D
+(E) quesito senza soluzione univoca o corretta
+Il peso di un corpo sulla Luna è minore del peso dello stesso corpo sulla Terra perché: D
 (A) la Luna è priva di atmosfera
 (B) il raggio della Luna è minore della massa della Terra
 (C) la massa della Luna è minore della massa della Terra
@@ -13187,7 +13394,8 @@ X(A) è proporzionale alla temperatura assoluta
 (B) è indipendente dalla densità
 (C) raddoppia passando da 10 a 20 °C
 (D) è sempre costante
-(E) quesito senza soluzione univoca o correttaIl secondo principio della termodinamica esclude la possibilità di: D
+(E) quesito senza soluzione univoca o corretta
+Il secondo principio della termodinamica esclude la possibilità di: D
 (A) produrre lavoro mediante calore
 (B) trasformare calore in lavoro
 (C) trasformare integralmente il calore in lavoro in una trasformazione isoterma
@@ -13294,7 +13502,8 @@ La costante R dell'equazione di stato dei gas (PV = nRT) è: C
 (B) un numero variabile con T
 X(C) dipende dal tipo di unità di misura prescelto
 (D) un numero variabile con P, T e V
-(E) quesito senza soluzione univoca o correttaLa temperatura di un corpo è un "indice": B
+(E) quesito senza soluzione univoca o corretta
+La temperatura di un corpo è un "indice": B
 (A) del calore posseduto dal corpo
 X(B) dell'energia cinetica media delle particelle del corpo
 (C) del calore scambiato dal corpo
@@ -13350,7 +13559,8 @@ B
 X(B) al calore latente di fusione
 (C) alla capacità termica
 (D) alla temperatura
-(E) quesito senza soluzione univoca o correttaIl calore specifico di una sostanza è, per definizione: D
+(E) quesito senza soluzione univoca o corretta
+Il calore specifico di una sostanza è, per definizione: D
 (A) il calore contenuto nell'unità di volume di tale sostanza
 (B) il calore necessario a far passare l'unità di massa della sostanza dallo stato solido allo stato liquido
 (C) la temperatura della sostanza
@@ -13561,7 +13771,8 @@ Il rendimento di una macchina termica è: C
 (B) rapporto fra calore assorbito e lavoro fatto
 X(C) rapporto fra lavoro fatto e calore assorbito
 (D) differenza tra calore assorbito e calore ceduto
-(E) quesito senza soluzione univoca o correttaIndicare la risposta ERRATA. La quantità di calore si può misurare in: B
+(E) quesito senza soluzione univoca o corretta
+Indicare la risposta ERRATA. La quantità di calore si può misurare in: B
 (A) joule
 X(B) watt
 (C) watt * s
@@ -13669,7 +13880,8 @@ di NH4Cl (cloruro d'ammonio) lo stato finale del sistema, confrontato con lo sta
 X(B) ha energia cinetica totale minore e quantità di moto totale uguale
 (C) ha energia cinetica e quantità di moto totali minori
 (D) ha energia cinetica e quantità di moto totali maggiori
-(E) quesito senza soluzione univoca o correttaQuale delle seguenti grandezze si può misurare in kcal/kg? A
+(E) quesito senza soluzione univoca o corretta
+Quale delle seguenti grandezze si può misurare in kcal/kg? A
 X(A) Calore latente di fusione
 (B) Capacità termica
 (C) Calore specifico
@@ -13781,7 +13993,8 @@ E
 (B) aumenta di un fattore 4
 (C) non varia
 (D) diminuisce di un fattore 2
-X(E) quesito senza soluzione univoca o correttaLa resistenza di un conduttore ohmico di forma cilindrica è direttamente proporzionale: D
+X(E) quesito senza soluzione univoca o corretta
+La resistenza di un conduttore ohmico di forma cilindrica è direttamente proporzionale: D
 (A) alla sezione
 (B) al quadrato della sezione
 (C) al cubo della sezione
@@ -14059,7 +14272,8 @@ D
 (B) ioni positivi e negativi nel verso della corrente
 (C) ioni positivi nel verso della corrente ed elettroni nel verso opposto
 X(D) ioni positivi nel verso della corrente e ioni negativi nel verso opposto
-(E) quesito senza soluzione univoca o correttaL'intensità di corrente elettrica si può misurare in ampere. Un ampere è: B
+(E) quesito senza soluzione univoca o corretta
+L'intensità di corrente elettrica si può misurare in ampere. Un ampere è: B
 (A) 1 farad/1 V
 X(B) 1 coulomb/1 s
 (C) 1 V/1 s
@@ -14170,7 +14384,8 @@ Indica il tipo di radiazione che non viene deviato da un campo elettrico: D
 (B) Beta +
 (C) Beta -
 X(D) raggi X
-(E) quesito senza soluzione univoca o correttaLa differenza tra il numero di massa e il numero atomico rappresenta: A
+(E) quesito senza soluzione univoca o corretta
+La differenza tra il numero di massa e il numero atomico rappresenta: A
 X(A) il numero di neutroni
 (B) la valenza
 (C) il numero di elettroni
@@ -14221,7 +14436,8 @@ Gli isotopi di un elemento, hanno: B
 X(B) le stesse proprietà chimiche
 (C) entrambe le proprietà precedenti
 (D) nessuna delle altre risposte
-(E) quesito senza soluzione univoca o correttaDove sono localizzati gli elettroni in un atomo? C
+(E) quesito senza soluzione univoca o corretta
+Dove sono localizzati gli elettroni in un atomo? C
 (A) Nel nucleo
 (B) Nel nucleolo
 X(C) In orbitali attorno al nucleo
@@ -14655,7 +14871,8 @@ A) 1
 B) 2
 XC) 3
 D) 9
-E) 6Una carta geografica è in scala 1 : 250000. Un tratto autostradale lungo 15 km viene
+E) 6
+Una carta geografica è in scala 1 : 250000. Un tratto autostradale lungo 15 km viene
 rappresentato sulla carta da un tratto di lunghezza
 XA) 6 cm
 B) 3,75 cm
