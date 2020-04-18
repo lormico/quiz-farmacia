@@ -1,6 +1,7 @@
 package com.github.lormico.quizfarmacia.ui.quiz;
 
 import android.app.Application;
+import android.util.Log;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
@@ -44,6 +45,8 @@ public class QuizViewModel extends AndroidViewModel {
     }
 
     private List<Question> generateRandomizedQuestionsWithConditions(String subject, int n) {
+        Log.d(this.getClass().getSimpleName(), "Generating " + n + " random questions " +
+                "for subject " + subject);
         List<Question> questionList = mQuestionsBySubjectMap.get(subject);
         List<Integer> randomQuestionIds = Util.getUniqueRandomNumbers(questionList.size(), n);
         List<Question> randomizedQuestions = new ArrayList<>();

@@ -5,7 +5,6 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
@@ -56,7 +55,7 @@ public class QuestionFragment extends Fragment {
         questionTextView.setText(args.getString(QUESTION));
         ArrayList<String> answers = (ArrayList<String>) args.getSerializable(ANSWERS);
         for (int i = 0; i < answers.size(); i++) {
-            RadioButton answerRadioButton = view.findViewById(viewIds.get(i));
+            QuizRadioButton answerRadioButton = view.findViewById(viewIds.get(i));
             answerRadioButton.setText(answers.get(i));
         }
 
@@ -64,7 +63,7 @@ public class QuestionFragment extends Fragment {
         answersRadioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, int checkedId) {
-                Log.d(this.toString(), "checked changed!");
+                Log.d("answersRadioGroup.OnCheckedChangeListener", "Changing answer to question");
                 int answer = viewIds.contains(checkedId) ? viewIds.indexOf(checkedId) : -1;
                 viewModel.setAnswer(position, answer);
             }
