@@ -189,7 +189,7 @@ La più abbondante proteina fibrosa dell'organismo umano è localizzata: D
 (C) nel tessuto epiteliale
 X(D) nel tessuto connettivo
 (E) quesito senza soluzione univoca o corretta
-La più abbondante proteina fibrosa dell'organismo umano forma fibrillelunghe in media: A
+La più abbondante proteina fibrosa dell'organismo umano forma fibrille lunghe in media: A
 X(A) 3000 A
 (B) 300 A
 (C) 10 mm
@@ -594,10 +594,10 @@ Le proteine sono: E
 (D) composti inorganici
 X(E) quesito senza soluzione univoca o corretta
 II fabbisogno calorico giornaliero medio di una donna adulta è: B
-(A) 1000Kcal
-X(B) 2000 Kcal
-(C) 3000 Kcal
-(D) 800 Kcal
+(A) 1000 kcal
+X(B) 2000 kcal
+(C) 3000 kcal
+(D) 800 kcal
 (E) quesito senza soluzione univoca o corretta
 La membrana plasmatica è un foglietto continuo di molecole a struttura fosfolipidica spesso: E
 (A) circa 10-11 mm
@@ -607,7 +607,7 @@ La membrana plasmatica è un foglietto continuo di molecole a struttura fosfolip
 X(E) quesito senza soluzione univoca o corretta
 II nucleo delle cellule eucariote eucariotiche contiene: A
 X(A) cromosomi
-(B) reticolo endopilasmatico
+(B) reticolo endoplasmatico
 (C) mitocondri
 (D) cloroplasti
 (E) quesito senza soluzione univoca o corretta
@@ -615,7 +615,7 @@ I ribosomi sono: B
 (A) piccole particelle di RNA e proteine che costituiscono le sedi di produzione di DNA
 X(B) piccole particelle di RNA e proteine che sono coinvolte nella produzione delle proteine
 (C) piccole particelle di DNA che costituiscono le sedi di produzione delle proteine
-(D) piccole particeile di RNA e proteine che non costituiscono le sedi di produzione delle proteine
+(D) piccole particelle di RNA e proteine che non costituiscono le sedi di produzione delle proteine
 (E) quesito senza soluzione univoca o corretta
 Una cellula eucariotica anucleata non riesce a vivere a lungo perché: D
 (A) non riesce a respirare
@@ -642,10 +642,10 @@ La sostanza colloidale piuttosto densa contenuta nel nucleo della cellula si chi
 (D) nucleolema
 X(E) quesito senza soluzione univoca o corretta
 I ribosomi sono attaccati: D
-(A) al reticolo endopilasmatico liscio
+(A) al reticolo endoplasmatico liscio
 (B) ai lisosomi
 (C) all'apparato del Golgi
-X(D) al reticolo endopilasmatico rugoso
+X(D) al reticolo endoplasmatico rugoso
 (E) quesito senza soluzione univoca o corretta
 I mitocondri sono: A
 X(A) organuli citoplasmatici
@@ -1177,7 +1177,7 @@ II citoplasma è: B
 (A) un'impalcatura di filamenti di proteine che interseca tutta la cellula
 X(B) un materiale più o meno fluido contenuto all'interno delle cellule in cui sono sospesi gli organuli
 cellulari
-(C) un organalo cellulare con funzione di movimento
+(C) un organulo cellulare con funzione di movimento
 (D) un pigmento presente nei cloroplasti
 (E) quesito senza soluzione univoca o corretta
 La cromatina è: A
@@ -1231,7 +1231,7 @@ X(C) Plastidi
 I lisosomi sono: A
 X(A) organuli citoplasmatici contenenti enzimi idrolitici
 (B) organuli nucleari contenenti enzimi digestivi
-(C) organuti citoplasmatici deputati alla respirazione cellulare
+(C) organuli citoplasmatici deputati alla respirazione cellulare
 (D) organuli nucleari deputati alla secrezione cellulare
 (E) quesito senza soluzione univoca o corretta
 I mitocondri sono: A
@@ -1761,7 +1761,7 @@ X(A) crossing-over
 (E) quesito senza soluzione univoca o corretta
 La membrana nucleare durante la divisione cellulare: D
 (A) si ispessisce
-(B) presenta un gran numero dì pori
+(B) presenta un gran numero di pori
 (C) è colorabile in rosso
 X(D) si dissolve
 (E) quesito senza soluzione univoca o corretta
@@ -2835,7 +2835,7 @@ X(B) 23 cromosomi
 (C) 22 cromosomi
 (D) 48 cromosomi
 (E) quesito senza soluzione univoca o corretta
-I cromosomi sessuali sono presentì: B
+I cromosomi sessuali sono presenti: B
 (A) nel citoplasma
 X(B) nel nucleo di tutte le cellule
 (C) nel nucleo dell'uovo e dello spermatozoo
@@ -3014,7 +3014,7 @@ X(A) un organismo che possiede alleli identici per un determinato carattere
 Col termine di alleli si indicano generalmente in genetica: A
 X(A) due geni alternativi che occupano loci corrispondenti su cromosomi omologhi
 (B) due organismi con uguale corredo cromosomico
-(C) i mèmbri di una coppia di gemelli biovulari
+(C) i membri di una coppia di gemelli biovulari
 (D) ormone che regola il metabolismo degli zuccheri
 (E) quesito senza soluzione univoca o corretta
 La sede dei geni è rappresentata: E
@@ -3025,7 +3025,7 @@ La sede dei geni è rappresentata: E
 X(E) quesito senza soluzione univoca o corretta
 II genotipo è: A
 X(A) il patrimonio genetico di un organismo
-(B) l'aspetto estemo di un individuo
+(B) l'aspetto esterno di un individuo
 (C) il gene che controlla la crescita di un individuo
 (D) l'organo deputato alla formazione dei gameti
 (E) quesito senza soluzione univoca o corretta
@@ -3069,7 +3069,7 @@ I geni sono: A
 X(A) tratti di DNA che possono codificare per particolari polipeptidi
 (B) glicidi specifici degli organismi
 (C) un tipo particolare di virus
-(D) fìlamenti di RNA plasmatici
+(D) filamenti di RNA plasmatici
 (E) quesito senza soluzione univoca o corretta
 Le cellule germinali umane mature contengono: D
 (A) 48 cromosomi
@@ -3117,7 +3117,7 @@ Un maschio portatore di un carattere dominante legato al cromosoma X trasmette t
 carattere: A
 X(A) a nessun figlio maschio
 (B) a tutti i figli maschi
-(C) a metà delle fìglie
+(C) a metà delle figlie
 (D) solo al primogenito, purché sia maschio
 (E) quesito senza soluzione univoca o corretta
 II numero di cromosomi è: A
@@ -3178,7 +3178,7 @@ chiamano: E
 X(E) quesito senza soluzione univoca o corretta
 II processo attraverso il quale in un gene ha luogo un cambiamento ereditabile, è detto: C
 (A) delezione
-(B) nick traslation
+(B) nick translation
 X(C) mutazione
 (D) ovogenesi
 (E) quesito senza soluzione univoca o corretta
@@ -3201,7 +3201,7 @@ I cromosomi sessuali sono presenti: E
 (D) solo nello zigote
 X(E) quesito senza soluzione univoca o corretta
 Si parla di mutazione quando la sequenza o il numero dei nucleotidi nel materiale genetico
-viene alterata; affinchè la mutazione venga trasmessa alla prole essa deve avvenire nelle
+viene alterata; affinché la mutazione venga trasmessa alla prole essa deve avvenire nelle
 cellule germinali e non in quelle somatiche. Tale affermazione è: A
 X(A) vera
 (B) falsa
@@ -3274,7 +3274,7 @@ incrociandosi danno luogo a prole fertile, appartengono: E
 (A) alla stessa popolazione
 (B) alla stessa famiglia
 (C) allo stesso gruppo
-(D) allo stesso phylium
+(D) allo stesso phylum
 X(E) quesito senza soluzione univoca o corretta
 I vasi sono: E
 (A) strutture di scambio energetico
@@ -3947,7 +3947,7 @@ X(B) un organo a secrezione esterna
 (E) quesito senza soluzione univoca o corretta
 Una ghiandola endocrina è: A
 X(A) un organo a secrezione interna
-(B) un organo a secrezione estema
+(B) un organo a secrezione esterna
 (C) la ghiandola che produce solo adrenalina
 (D) inesistente nell'uomo
 (E) quesito senza soluzione univoca o corretta
@@ -4221,7 +4221,7 @@ E
 (C) micotica
 (D) protozoaria
 X(E) quesito senza soluzione univoca o corretta
-Il tifo è una malatia: B
+Il tifo è una malattia: B
 (A) virale
 X(B) batterica
 (C) micotica
@@ -4603,7 +4603,7 @@ detto: E
 X(E) quesito senza soluzione univoca o corretta
 L'embrione è: A
 X(A) uno stadio precoce nello sviluppo di un animale o di un vegetale
-(B) lo strato più estemo del citoplasma
+(B) lo strato più esterno del citoplasma
 (C) il vaso che connette l'arteria polmonare con l'aorta durante la vita fetale
 (D) la più esterna delle tré membrane meningee che rivestono l'encefalo e il midollo spinale
 (E) quesito senza soluzione univoca o corretta
@@ -4807,7 +4807,7 @@ X(C) etologia
 (D) emofilia
 (E) quesito senza soluzione univoca o corretta
 In un ecosistema, temperatura, umidità e clima, rappresentano: B
-(A) i fattori metereologici
+(A) i fattori meteorologici
 X(B) i fattori abiotici
 (C) i fattori biotici
 (D) i livelli trofici
@@ -4908,14 +4908,14 @@ Animali a sangue caldo sono detti: C
 (A) eterotermi
 (B) eterotrofi
 X(C) omeotermi
-(D) autotrofì
+(D) autotrofi
 (E) quesito senza soluzione univoca o corretta
 Animali la cui temperatura corporea è variabile in rapporto alla temperatura ambientale, sono
 detti: E
 (A) omeotermi
 (B) eterozigote
 (C) eterotrofi
-(D) autotrofì
+(D) autotrofi
 X(E) quesito senza soluzione univoca o corretta
 Per stabilire se gli organismi sono della stessa specie si deve tenere conto: B
 (A) della dimensione
@@ -4988,7 +4988,7 @@ Gli organismi eterotrofi: B
 (A) trasformano i nitriti in nitrati
 X(B) utilizzano composti organici
 (C) si nutrono di animali morti
-(D) hanno le stesse caratteristiche degli autotrofì
+(D) hanno le stesse caratteristiche degli autotrofi
 (E) quesito senza soluzione univoca o corretta
 I batteri sono: C
 (A) particelle ultramicroscopiche
@@ -5451,7 +5451,7 @@ X(B) di giorno e di notte
 (C) di giorno
 (D) solo in presenza di CO2
 (E) quesito senza soluzione univoca o corretta
-Perchè le ossa degli uccelli sono pneumatiche, cioè ripiene di aria? C
+Perché le ossa degli uccelli sono pneumatiche, cioè ripiene di aria? C
 (A) per consentire i movimenti angolari
 (B) per immagazzinare come riserva di ossigeno
 X(C) per essere più leggere onde facilitare il volo
@@ -5872,7 +5872,7 @@ I decompositori sono: D
 (C) enzimi che scindono le proteine
 X(D) organismi che si nutrono di resti di piante e di animali
 (E) quesito senza soluzione univoca o corretta
-Nella catena alimentare, gli organismi autotrofì: C
+Nella catena alimentare, gli organismi autotrofi: C
 (A) non esistono
 (B) si trovano all'ultima tappa
 X(C) si trovano alla prima tappa
@@ -6075,7 +6075,7 @@ La meiosi porta alla formazione di un corredo cromosomico: A
 X(A) aploide
 (B) diploide
 (C) triploide
-(D) aneuploIde
+(D) aneuploide
 (E) quesito senza soluzione univoca o corretta
 Perché la fotosintesi è essenziale per la vita? E
 (A) fornisce energia termica
@@ -6152,7 +6152,7 @@ X(B) un cambiamento della sequenza del DNA
 In che cosa consiste una vaccinazione? A
 X(A) stimolazione alla produzione di anticorpi
 (B) somministrazione di anticorpi
-(C) somministrazione di antIgeni
+(C) somministrazione di antigeni
 (D) induzione della sintesi proteica
 (E) quesito senza soluzione univoca o corretta
 Quale dei seguenti organi è di natura muscolare? D
@@ -6219,9 +6219,9 @@ X(A) retina
 (E) quesito senza soluzione univoca o corretta
 Il costituente fondamentale della membrana cellulare è: C
 (A) colesterolo
-(B) sfìngomielina
+(B) sfingomielina
 X(C) fosfolipidi
-(D) trìgliceridi
+(D) trigliceridi
 (E) quesito senza soluzione univoca o corretta
 Quale tra le seguenti cellule hanno lo stesso numero di cromosomi della cellula uovo? C
 (A) globuli rossi
@@ -6484,7 +6484,7 @@ Da cos'è costituito il muscolo striato? C
 (A) da cellule epiteliali
 (B) da cellule striatali
 X(C) da fibre muscolari
-(D) da fìbrocellule muscolari lisce
+(D) da fibrocellule muscolari lisce
 (E) quesito senza soluzione univoca o corretta
 Qual è il costituente fondamentale delle ossa? D
 (A) permanganato di potassio
@@ -6867,7 +6867,7 @@ X(A) il numero dei protoni
 (E) quesito senza soluzione univoca o corretta
 Dicesi orbitale: C
 (A) l'orbita descritta dall'elettrone attorno al nucleo
-(B) la distanza massima dell'orbita più estèrna
+(B) la distanza massima dell'orbita più esterna
 X(C) la regione di spazio in cui è massima la probabilità di trovare l'elettrone
 (D) la forma dell'orbita determinata dal valore di l
 (E) quesito senza soluzione univoca o corretta
@@ -7961,11 +7961,11 @@ moli totali (soluto+solvente)?D
 X(D) Frazione molare
 (E) quesito senza soluzione univoca o corretta
 Cosa rappresenta la molalità? A
-X(A) Esprime il numero di moli di soluto disciolte in 1Kg di solvente puro
-(B) Esprime il numero di moli di soluto disciolte in 1Kg di soluzione
-(C) Esprime il numero di moli di soluto disciolte in un litro di soluzione
-(D) Esprime il numero di moli di soluto disciolte in 1litro di solvente puro
-(E) quesito senza soluzione univoca o correttaQuali fra queste unità rappresenta il numero di moli di soluto disciolte in 1 Kg di solvente
+X(A) Esprime il numero di moli di soluto disciolte in 1 kg di solvente puro
+(B) Esprime il numero di moli di soluto disciolte in 1 kg di soluzione
+(C) Esprime il numero di moli di soluto disciolte in 1 litro di soluzione
+(D) Esprime il numero di moli di soluto disciolte in 1 litro di solvente puro
+(E) quesito senza soluzione univoca o correttaQuali fra queste unità rappresenta il numero di moli di soluto disciolte in 1 kg di solvente
 puro?B
 (A) Molarità
 X(B) Molalità
@@ -7980,7 +7980,7 @@ X(C) m
 (E) quesito senza soluzione univoca o corretta
 Cosa rappresenta la molarità? A
 X(A) Esprime il numero di moli di soluto contenute in 1 l di soluzione
-(B) Esprime il numero di moli di soluto contenute in 1 Kg di soluzione
+(B) Esprime il numero di moli di soluto contenute in 1 kg di soluzione
 (C) Esprime il peso in grammi di soluto contenute in 1 l di soluzione
 (D) Esprime il numero di moli di soluto contenute in 1 l di solvente puro
 (E) quesito senza soluzione univoca o corretta
@@ -8865,7 +8865,7 @@ X(B) Fe
 (D) non è una reazione di ossido-riduzione
 (E) quesito senza soluzione univoca o corretta
 Nella formazione di una mole di CO2 a partire da carbonio ed ossigeno: C + O2 = CO2 si
-produce una quantità di calore pari a 93,6 Kcal. La reazione può essere definita: E
+produce una quantità di calore pari a 93,6 kcal. La reazione può essere definita: E
 (A) spontanea
 (B) irreversibile
 (C) equilibrata
@@ -9717,7 +9717,7 @@ X(A) 0
 (B) - 3
 (C) +3
 (D) +2
-(E) quesito senza soluzione univoca o correttaLa percentuale approssimata (in volume) dell'azoto nella composizione dell'aria a livellodel
+(E) quesito senza soluzione univoca o correttaLa percentuale approssimata (in volume) dell'azoto nella composizione dell'aria a livello del
 mare è: A
 X(A) circa 78%
 (B) circa 42%
@@ -10055,7 +10055,7 @@ X(B) alcani
 (D) dieni
 (E) quesito senza soluzione univoca o corretta
 Il propano appartiene agli: C
-(A) alcneni
+(A) alcheni
 (B) alchini
 X(C) alcani
 (D) composti aromatici
@@ -10710,7 +10710,7 @@ X(C) sia sature che insature
 (E) quesito senza soluzione univoca o corretta
 Per acidi grassi naturali insaturi si intende che: C
 (A) sono tutti acidi bicarbossilici
-(B) sono poco reattiv
+(B) sono poco reattivi
 X(C) contengono doppi legami semplici
 (D) contengono solo legami semplici
 (E) quesito senza soluzione univoca o corretta
@@ -11410,7 +11410,7 @@ Il prefisso Mega equivale a:. E
 (C) 10 -3
 (D) 10 -9
 X(E) quesito senza soluzione univoca o corretta
-[A,20] L'energia elettrica si misura in: E
+L'energia elettrica si misura in: E
 (A) volt
 (B) ohm
 (C) coulomb
@@ -11458,7 +11458,7 @@ L'unità di misura del campo elettrico è: C
 X(C) V/m
 (D) N C
 (E) quesito senza soluzione univoca o corretta
-[A,35] L'ohm misura: E
+L'ohm misura: E
 (A) una capacità
 (B) una carica magnetica
 (C) un flusso magnetico
@@ -11700,7 +11700,7 @@ Nel sistema internazionale S.I. il radiante misura: A
 X(A) l'angolo piano
 (B) l'angolo solido
 (C) la radiazione elettromagnetica
-(D) Ìa radiazione emessa dal corpo nero
+(D) la radiazione emessa dal corpo nero
 (E) quesito senza soluzione univoca o corretta
 Un mA corrisponde: B
 (A) 1 mA = 10 -6 A
@@ -11817,7 +11817,7 @@ X(B) nulla
 (D) proporzionale allo spostamento
 (E) quesito senza soluzione univoca o corretta
 La definizione di accelerazione media è: D
-(A) il tempo necessario affinchè un corpo raggiunga velocità massima
+(A) il tempo necessario affinché un corpo raggiunga velocità massima
 (B) lo spazio percorso nel tempo di un secondo
 (C) il tempo necessario per raggiungere una velocità di 100 km/h
 X(D) il rapporto tra la variazione di velocità in un certo intervallo di tempo e l'intervallo di tempo stesso
@@ -11880,7 +11880,7 @@ Un moto uniformemente accelerato deve essere necessariamente: E
 (D) a velocità costante
 X(E) quesito senza soluzione univoca o corretta
 Per inerzia di un corpo s'intende: C
-(A) il tempo necessario affinchè esso acquisti una accelerazione uguale a g
+(A) il tempo necessario affinché esso acquisti una accelerazione uguale a g
 (B) l'accelerazione che acquista quando è soggetto ad una forza unitaria
 X(C) la sua naturale tendenza a conservare il proprio stato di quiete o di moto rettilineo uniforme
 (D) la sua naturale tendenza al moto uniformemente accelerato
@@ -11900,7 +11900,7 @@ X(A) ad ogni azione corrisponde una reazione uguale e contraria
 La massa e il peso di un corpo: B
 (A) coincidono
 X(B) sono proporzionali
-(C) sono inversamente proporzionali dì hanno la stessa unità di misura
+(C) sono inversamente proporzionali
 (D) hanno la stessa misura
 (E) quesito senza soluzione univoca o corretta
 Si consideri un uomo seduto immobile su una sedia. Individuare a quale (o quali), tra le
@@ -12067,10 +12067,10 @@ X(D) continua la sua traiettoria parabolica
 Per quali motivi le scarpe aventi i tacchi a spillo lasciano segni più evidenti, rispetto alle altre
 scarpe, sui pavimenti di linoleum?
 D
-(A) perchè vengono realizzate con materiali più duri
-(B) perchè non permettono che il pavimento esplichi la propria reazione
-(C) perchè sono più pesanti rispetto alle altre scarpe
-X(D) perchè essendo la superficie di appoggio dei tacchi a spillo minore, si esercitano pressioni più
+(A) perché vengono realizzate con materiali più duri
+(B) perché non permettono che il pavimento esplichi la propria reazione
+(C) perché sono più pesanti rispetto alle altre scarpe
+X(D) perché essendo la superficie di appoggio dei tacchi a spillo minore, si esercitano pressioni più
 elevate
 (E) quesito senza soluzione univoca o corretta
 La spinta di un motore a razzo viene prodotta: A
@@ -12209,7 +12209,7 @@ X(A) Energia - calore
 In un moto circolare uniforme il periodo T è il tempo impiegato per percorrere l'intera
 circonferenza. Il numero di giri compiuti nell'unità di tempo è:
 B
-(A) 2[pigreco]/T
+(A) 2π/T
 X(B) 1/T
 (C) T/2π
 (D) 2πT
@@ -12935,8 +12935,8 @@ X(B) F * cos 30°
 (D) F * tg 30°
 (E) quesito senza soluzione univoca o corretta
 La velocità angolare della lancetta dei minuti in un orologio da campanile è: A
-X(A) 2[pigreco] rad/h
-(B) 1/(2[pigreco]) h/rad
+X(A) 2π rad/h
+(B) 1/(2π) h/rad
 (C) crescente nel tempo
 (D) funzione della longitudine
 (E) quesito senza soluzione univoca o corretta
@@ -12999,10 +12999,10 @@ X(B) x è direttamente proporzionale a F
 Un'auto che viaggia alla velocità di 60 km/h possiede un'energia cinetica di 16000 J. Se la
 velocità viene portata a 120 km/h, l'energia cinetica posseduta dall'auto diventa:
 C
-(A) 8000 J
-(B) 32. 000 J
-X(C) 64. 000 J
-(D) 90. 000 J
+(A) 8.000 J
+(B) 32.000 J
+X(C) 64.000 J
+(D) 90.000 J
 (E) quesito senza soluzione univoca o corretta
 A parità di ogni altra condizione, la spinta di Archimede sulla Luna rispetto alla corrispondente
 spinta sulla Terra:
@@ -14049,12 +14049,12 @@ La capacità di un condensatore è inversamente proporzionale: C
 X(C) alla distanza delle armature
 (D) al potenziale applicato
 (E) quesito senza soluzione univoca o correttaDue cariche elettriche di segno opposto, distanti l'una dall'altra 1 m, si attirano con una forza
-di 2 [micro]N. Con quale forza si attirano se vengono poste a 50 cm l'una dall'altra?
+di 2 µN. Con quale forza si attirano se vengono poste a 50 cm l'una dall'altra?
 C
-(A) 32 [micro]N
-(B) 2 [micro]N
-X(C) 8 [micro]N
-(D) 4 [micro]N
+(A) 32 µN
+(B) 2 µN
+X(C) 8 µN
+(D) 4 µN
 (E) quesito senza soluzione univoca o corretta
 In un filo di rame percorso da corrente alternata: A
 X(A) si genera nello spazio un campo magnetico variabile, non parallelo al filo

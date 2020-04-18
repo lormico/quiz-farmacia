@@ -17,3 +17,5 @@ app/release/
 app/question_scraper/__init__.py
 app/question_scraper/question.sqlite
 app/src/main/assets/question.sqlite
+
+.idea/dictionaries/
