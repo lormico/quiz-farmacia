@@ -66,11 +66,10 @@ public class QuestionFragment extends Fragment {
             }
         });
 
-        TextView subjectText = view.findViewById(R.id.quiz_subject);
-        TextView questionIdText = view.findViewById(R.id.quiz_question_id);
-        String questionIdString = getContext().getString(R.string.question_id_placeholder, questionId);
-        subjectText.setText(subject);
-        questionIdText.setText(questionIdString);
+        TextView metadataText = view.findViewById(R.id.quiz_question_metadata);
+        String metadataString = getContext().getString(R.string.question_metadata_placeholder,
+                subject, questionId);
+        metadataText.setText(metadataString);
 
         return view;
     }

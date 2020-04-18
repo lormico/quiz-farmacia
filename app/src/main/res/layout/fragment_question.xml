@@ -18,6 +18,8 @@
         android:text="@string/placeholder_text_long"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textSize="@dimen/archive_question_text_size"
+        android:textIsSelectable="true"
+        android:selectAllOnFocus="true"
         app:layout_constraintTop_toTopOf="parent"
         tools:layout_editor_absoluteX="16dp" />
 
@@ -64,31 +66,16 @@
             android:text="@string/placeholder_text" />
     </RadioGroup>
 
-    <LinearLayout
+    <TextView
+        android:id="@+id/quiz_question_metadata"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:orientation="horizontal"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent">
-
-        <TextView
-            android:id="@+id/quiz_subject"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:textSize="@dimen/archive_id_text_size"
-            android:text="@string/placeholder_text" />
-
-        <TextView
-            android:id="@+id/quiz_question_id"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:paddingStart="16dp"
-            android:layout_weight="1"
-            android:textSize="@dimen/archive_id_text_size"
-            android:text="@string/placeholder_text"
-            android:textAlignment="textEnd" />
-    </LinearLayout>
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:textSize="@dimen/archive_id_text_size"
+        android:text="@string/placeholder_text"
+        android:textIsSelectable="true"
+        android:selectAllOnFocus="true" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
