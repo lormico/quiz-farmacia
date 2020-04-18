@@ -34,7 +34,6 @@ public class QuizViewModel extends AndroidViewModel {
     public List<Question> generateRandomizedQuestions(Map<String, String> subjectNumbersMap) {
         mAnsweredQuestions.clear();
 
-        // TODO non sono ordinate!
         List<Question> randomizedQuestions = new ArrayList<>();
         for (Map.Entry<String, String> entry: subjectNumbersMap.entrySet()) {
             randomizedQuestions.addAll(

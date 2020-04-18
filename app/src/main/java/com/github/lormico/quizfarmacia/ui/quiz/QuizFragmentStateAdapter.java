@@ -13,6 +13,7 @@ import androidx.viewpager2.adapter.FragmentStateAdapter;
 import com.github.lormico.quizfarmacia.persistence.Question;
 
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -28,7 +29,7 @@ public class QuizFragmentStateAdapter extends FragmentStateAdapter {
 
         SharedPreferences sharedPreferences =
                 PreferenceManager.getDefaultSharedPreferences(fragment.getContext());
-        Map<String, String> subjectNumbersMap = new HashMap<>(); // TODO rename variable
+        Map<String, String> subjectNumbersMap = new LinkedHashMap<>();
         subjectNumbersMap.put("Biologia",
                 sharedPreferences.getString("num_questions_biology", "0"));
         subjectNumbersMap.put("Chimica Generale ed Inorganica",
