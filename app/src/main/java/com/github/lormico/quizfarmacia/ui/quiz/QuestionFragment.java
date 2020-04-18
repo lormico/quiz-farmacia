@@ -5,7 +5,6 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
@@ -15,8 +14,8 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
 import com.github.lormico.quizfarmacia.R;
+import com.github.lormico.quizfarmacia.persistence.Question;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -25,11 +24,6 @@ public class QuestionFragment extends Fragment {
     public static final String POSITION = "position";
     public static final String SUBJECT = "subject";
     public static final String QUESTION_ID = "questionId";
-
-    @Deprecated
-    public static final String QUESTION = "question";
-    @Deprecated
-    public static final String ANSWERS = "answers";
 
     private QuizViewModel viewModel;
     private List<Integer> viewIds = Arrays.asList(
@@ -47,28 +41,35 @@ public class QuestionFragment extends Fragment {
         TextView questionTextView = view.findViewById(R.id.quiz_question_text);
         viewModel = new ViewModelProvider(requireActivity()).get(QuizViewModel.class);
 
-        // TODO prendere sta roba dal DB
         Bundle args = getArguments();
         int position = args.getInt(POSITION);
         String subject = args.getString(SUBJECT);
         int questionId = args.getInt(QUESTION_ID);
 
-        questionTextView.setText(args.getString(QUESTION));
-        ArrayList<String> answers = (ArrayList<String>) args.getSerializable(ANSWERS);
-        for (int i = 0; i < answers.size(); i++) {
-            RadioButton answerRadioButton = view.findViewById(viewIds.get(i));
-            answerRadioButton.setText(answers.get(i));
+        Log.d(QuestionFragment.class.getSimpleName(), "Querying the DB for question [" +
+                subject + ":" + questionId + "]");
+        Question question = viewModel.getQuestion(subject, questionId);
+        questionTextView.setText(question.getQuestion());
+        String[] answers = question.getAnswers();
+        for (int i = 0; i < answers.length; i++) {
+            QuizRadioButton answerRadioButton = view.findViewById(viewIds.get(i));
+            answerRadioButton.setText(answers[i]);
         }
 
         RadioGroup answersRadioGroup = view.findViewById(R.id.quiz_answer_group);
         answersRadioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, int checkedId) {
-                Log.d(this.toString(), "checked changed!");
+                Log.d("answersRadioGroup.OnCheckedChangeListener", "Changing answer to question");
                 int answer = viewIds.contains(checkedId) ? viewIds.indexOf(checkedId) : -1;
                 viewModel.setAnswer(position, answer);
             }
         });
+
+        TextView metadataText = view.findViewById(R.id.quiz_question_metadata);
+        String metadataString = getContext().getString(R.string.question_metadata_placeholder,
+                subject, questionId);
+        metadataText.setText(metadataString);
 
         return view;
     }

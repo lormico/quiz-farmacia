@@ -8,4 +8,5 @@
     <dimen name="archive_question_text_size">18sp</dimen>
     <dimen name="archive_answer_text_size">16sp</dimen>
     <dimen name="archive_id_text_size">12sp</dimen>
+    <dimen name="quiz_answer_margin">8dp</dimen>
 </resources>

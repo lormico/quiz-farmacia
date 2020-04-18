@@ -125,6 +125,10 @@ public class Question implements Parcelable {
         return answerE;
     }
 
+    public String[] getAnswers() {
+        return new String[]{answerA, answerB, answerC, answerD, answerE};
+    }
+
     public String getSolution() {
         return solution;
     }
