@@ -1,5 +1,7 @@
 package com.github.lormico.quizfarmacia.ui.quiz;
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -36,8 +38,25 @@ public class QuizContainerFragment extends Fragment {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // TODO chiedere conferma
-                Navigation.findNavController(view).navigate(R.id.nav_quiz_result);
+                AlertDialog alertDialog = new AlertDialog.Builder(getActivity()).create();
+                alertDialog.setTitle("Conferma la consegna");
+                alertDialog.setMessage("Sei sicuro di voler terminare il test?");
+                alertDialog.setButton(AlertDialog.BUTTON_POSITIVE, "Sì",
+                        new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialog, int which) {
+                                dialog.dismiss();
+                                Navigation.findNavController(view).navigate(R.id.nav_quiz_result);
+                            }
+                        });
+                alertDialog.setButton(AlertDialog.BUTTON_NEGATIVE, "No",
+                        new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialog, int which) {
+                                dialog.dismiss();
+                            }
+                        });
+                alertDialog.show();
             }
         });
         return view;
