@@ -49,3 +49,30 @@ dependencies {
 
     implementation "androidx.viewpager2:viewpager2:1.0.0"
 }
+
+task generateDatabase {
+    doFirst {
+        def script = "python3 ${projectDir}/$scraperDir/$scraperScript".execute()
+        script.in.eachLine { line -> println line }
+        script.err.eachLine { line -> println "ERROR: " + line }
+        script.waitFor()
+        if (script.exitValue() != 0) {
+            throw new GradleException('Error occurred during generation of SQLite DB')
+        }
+    }
+}
+
+task copyGeneratedDatabase (type: Copy) {
+    from "$scraperDir/$scraperOutput"
+    into assetsDir
+}
+
+task updateDatabase {
+    dependsOn generateDatabase
+    dependsOn copyGeneratedDatabase
+    copyGeneratedDatabase.mustRunAfter generateDatabase
+}
+
+gradle.projectsEvaluated {
+    preBuild.dependsOn(updateDatabase)
+}

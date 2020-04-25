@@ -14,7 +14,9 @@
     <string name="header_quiz_container">Quiz</string>
     <string name="header_quiz_results">Risultati Quiz</string>
     <string name="start_quiz">Avvia Quiz</string>
+    <string name="quiz_welcome">Benvenuto!\nPer avviare un nuovo quiz, premi il pulsante sotto.\nPuoi accedere all\'archivio dei quesiti con il menu a scomparsa a sinistra, e alle impostazioni con i tre puntini in alto a destra.</string>
 
+    <string name="question_metadata_placeholder">%1$s #%2$d"</string>
     <string name="quiz_results_score">Hai ottenuto un punteggio di %1$.2f punti!</string>
     <string name="quiz_results_num_ok">Domande risposte correttamente: %1$d</string>
     <string name="quiz_results_num_failed">Domande risposte erroneamente: %1$d</string>
@@ -29,6 +31,11 @@
     <string name="settings_num_questions_physics">Domande di Fisica</string>
     <string name="settings_num_questions_maths">Domande di Matematica</string>
 
+    <string name="quiz_hand_in_confirmation_title">Conferma la consegna</string>
+    <string name="quiz_hand_in_confirmation_msg">Sei sicuro di voler terminare il test?</string>
+
+    <string name="affirmative">Sì</string>
+    <string name="negative">No</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

@@ -7,15 +7,15 @@ import java.util.List;
 
 @Dao
 public interface QuestionDAO {
-    @Query("SELECT * FROM quesiti")
+    @Query("SELECT * FROM question")
     List<Question> getAll();
 
-    @Query("SELECT * FROM quesiti WHERE materia = :subject")
+    @Query("SELECT * FROM question WHERE subject = :subject")
     List<Question> loadAllBySubject(String subject);
 
-    @Query("SELECT DISTINCT materia FROM quesiti")
+    @Query("SELECT DISTINCT subject FROM question")
     List<String> getAllSubjects();
 
-    @Query("SELECT * FROM quesiti WHERE materia = :subject AND id_domanda = :questionId")
+    @Query("SELECT * FROM question WHERE subject = :subject AND question_id = :questionId")
     Question getFromPrimaryKeys(String subject, int questionId);
 }

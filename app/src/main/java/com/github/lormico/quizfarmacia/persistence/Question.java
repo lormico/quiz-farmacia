@@ -8,7 +8,7 @@ import androidx.room.ColumnInfo;
 import androidx.room.Entity;
 import androidx.room.Ignore;
 
-@Entity(tableName = "quesiti", primaryKeys = {"id_domanda", "materia"})
+@Entity(tableName = "question", primaryKeys = {"question_id", "subject"})
 public class Question implements Parcelable {
 
     public Question(@NonNull int questionId, @NonNull String subject, @NonNull String question,
@@ -25,39 +25,39 @@ public class Question implements Parcelable {
         this.solution = solution;
     }
 
-    @ColumnInfo(name = "id_domanda")
+    @ColumnInfo(name = "question_id")
     @NonNull
     private int questionId;
 
-    @ColumnInfo(name = "materia")
+    @ColumnInfo
     @NonNull
     private String subject;
 
-    @ColumnInfo(name = "domanda")
+    @ColumnInfo
     @NonNull
     private String question;
 
-    @ColumnInfo(name = "risposta_a")
+    @ColumnInfo(name = "answer_a")
     @NonNull
     private String answerA;
 
-    @ColumnInfo(name = "risposta_b")
+    @ColumnInfo(name = "answer_b")
     @NonNull
     private String answerB;
 
-    @ColumnInfo(name = "risposta_c")
+    @ColumnInfo(name = "answer_c")
     @NonNull
     private String answerC;
 
-    @ColumnInfo(name = "risposta_d")
+    @ColumnInfo(name = "answer_d")
     @NonNull
     private String answerD;
 
-    @ColumnInfo(name = "risposta_e")
+    @ColumnInfo(name = "answer_e")
     @NonNull
     private String answerE;
 
-    @ColumnInfo(name = "risposta_esatta")
+    @ColumnInfo
     @NonNull
     private String solution;
 
@@ -123,6 +123,10 @@ public class Question implements Parcelable {
 
     public String getAnswerE() {
         return answerE;
+    }
+
+    public String[] getAnswers() {
+        return new String[]{answerA, answerB, answerC, answerD, answerE};
     }
 
     public String getSolution() {

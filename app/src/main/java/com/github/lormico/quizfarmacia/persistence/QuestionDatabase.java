@@ -9,7 +9,7 @@ import androidx.room.RoomDatabase;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-@Database(entities = {Question.class}, version = 1, exportSchema = false)
+@Database(entities = {Question.class}, version = 2, exportSchema = false)
 public abstract class QuestionDatabase extends RoomDatabase {
     public abstract QuestionDAO questionDAO();
 
@@ -25,8 +25,9 @@ public abstract class QuestionDatabase extends RoomDatabase {
                 if (INSTANCE == null) {
                     INSTANCE = Room.databaseBuilder(context.getApplicationContext(),
                             QuestionDatabase.class, "Questions.db")
-                            .createFromAsset("databases/quesiti.sqlite")
+                            .createFromAsset("question.sqlite")
                             .allowMainThreadQueries()
+                            .fallbackToDestructiveMigration()
                             .build();
                 }
             }
