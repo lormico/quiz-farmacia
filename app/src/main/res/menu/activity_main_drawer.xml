@@ -5,12 +5,12 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_archive"
-            android:icon="@drawable/ic_library_books_black_24dp"
-            android:title="@string/menu_archive" />
-        <item
             android:id="@+id/nav_quiz_home"
             android:icon="@drawable/ic_assignment_black_24dp"
             android:title="@string/menu_quiz" />
+        <item
+            android:id="@+id/nav_archive"
+            android:icon="@drawable/ic_library_books_black_24dp"
+            android:title="@string/menu_archive" />
     </group>
 </menu>
