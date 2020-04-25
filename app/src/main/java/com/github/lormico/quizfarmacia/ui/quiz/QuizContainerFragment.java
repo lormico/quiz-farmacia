@@ -1,6 +1,9 @@
 package com.github.lormico.quizfarmacia.ui.quiz;
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -36,8 +39,27 @@ public class QuizContainerFragment extends Fragment {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // TODO chiedere conferma
-                Navigation.findNavController(view).navigate(R.id.nav_quiz_result);
+                AlertDialog alertDialog = new AlertDialog.Builder(getActivity()).create();
+                alertDialog.setTitle(getContext().getString(R.string.quiz_hand_in_confirmation_title));
+                alertDialog.setMessage(getContext().getString(R.string.quiz_hand_in_confirmation_msg));
+                alertDialog.setButton(AlertDialog.BUTTON_POSITIVE,
+                        getContext().getString(R.string.affirmative),
+                        new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialog, int which) {
+                                dialog.dismiss();
+                                Navigation.findNavController(view).navigate(R.id.nav_quiz_result);
+                            }
+                        });
+                alertDialog.setButton(AlertDialog.BUTTON_NEGATIVE,
+                        getContext().getString(R.string.negative),
+                        new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialog, int which) {
+                                dialog.dismiss();
+                            }
+                        });
+                alertDialog.show();
             }
         });
         return view;
@@ -51,5 +73,17 @@ public class QuizContainerFragment extends Fragment {
         new TabLayoutMediator(tabLayout, viewPager,
                 (tab, position) -> tab.setText(String.valueOf(position + 1))
         ).attach();
+    }
+
+    @Override
+    public void onDestroyView() {
+        super.onDestroyView();
+        Log.d(QuizContainerFragment.class.getSimpleName(), "onDestroyView...");
+    }
+
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+        Log.d(QuizContainerFragment.class.getSimpleName(), "onDestroy...");
     }
 }
