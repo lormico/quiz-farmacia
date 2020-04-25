@@ -3,6 +3,7 @@ package com.github.lormico.quizfarmacia.ui.quiz;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -72,5 +73,17 @@ public class QuizContainerFragment extends Fragment {
         new TabLayoutMediator(tabLayout, viewPager,
                 (tab, position) -> tab.setText(String.valueOf(position + 1))
         ).attach();
+    }
+
+    @Override
+    public void onDestroyView() {
+        super.onDestroyView();
+        Log.d(QuizContainerFragment.class.getSimpleName(), "onDestroyView...");
+    }
+
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+        Log.d(QuizContainerFragment.class.getSimpleName(), "onDestroy...");
     }
 }
