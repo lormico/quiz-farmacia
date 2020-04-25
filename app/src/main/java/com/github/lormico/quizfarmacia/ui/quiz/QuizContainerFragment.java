@@ -39,9 +39,10 @@ public class QuizContainerFragment extends Fragment {
             @Override
             public void onClick(View view) {
                 AlertDialog alertDialog = new AlertDialog.Builder(getActivity()).create();
-                alertDialog.setTitle("Conferma la consegna");
-                alertDialog.setMessage("Sei sicuro di voler terminare il test?");
-                alertDialog.setButton(AlertDialog.BUTTON_POSITIVE, "Sì",
+                alertDialog.setTitle(getContext().getString(R.string.quiz_hand_in_confirmation_title));
+                alertDialog.setMessage(getContext().getString(R.string.quiz_hand_in_confirmation_msg));
+                alertDialog.setButton(AlertDialog.BUTTON_POSITIVE,
+                        getContext().getString(R.string.affirmative),
                         new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
@@ -49,7 +50,8 @@ public class QuizContainerFragment extends Fragment {
                                 Navigation.findNavController(view).navigate(R.id.nav_quiz_result);
                             }
                         });
-                alertDialog.setButton(AlertDialog.BUTTON_NEGATIVE, "No",
+                alertDialog.setButton(AlertDialog.BUTTON_NEGATIVE,
+                        getContext().getString(R.string.negative),
                         new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
