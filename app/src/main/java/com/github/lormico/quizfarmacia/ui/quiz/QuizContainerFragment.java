@@ -3,6 +3,7 @@ package com.github.lormico.quizfarmacia.ui.quiz;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
+import android.os.CountDownTimer;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -11,13 +12,17 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
+import androidx.lifecycle.ViewModelProvider;
 import androidx.navigation.Navigation;
 import androidx.viewpager2.widget.ViewPager2;
 
 import com.github.lormico.quizfarmacia.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
+import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.tabs.TabLayout;
 import com.google.android.material.tabs.TabLayoutMediator;
+
+import java.util.concurrent.TimeUnit;
 
 public class QuizContainerFragment extends Fragment {
 
@@ -35,10 +40,22 @@ public class QuizContainerFragment extends Fragment {
         viewPager = view.findViewById(R.id.pager_quiz);
         viewPager.setAdapter(quizFragmentStateAdapter);
 
+        Snackbar snackbar = Snackbar.make(
+                view.findViewById(R.id.coordinator_layout_quiz),
+                "Tempo rimanente per il quiz: ",
+                Snackbar.LENGTH_INDEFINITE);
+
+        QuizViewModel viewModel = new ViewModelProvider(requireActivity()).get(QuizViewModel.class);
+
         FloatingActionButton fab = view.findViewById(R.id.fab_quiz);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                if (!viewModel.isQuizInProgress()) {
+                    // Il quiz è terminato, passa direttamente alla schermata dei risultati
+                    Navigation.findNavController(view).navigate(R.id.nav_quiz_result);
+                    return;
+                }
                 AlertDialog alertDialog = new AlertDialog.Builder(getActivity()).create();
                 alertDialog.setTitle(getContext().getString(R.string.quiz_hand_in_confirmation_title));
                 alertDialog.setMessage(getContext().getString(R.string.quiz_hand_in_confirmation_msg));
@@ -48,6 +65,9 @@ public class QuizContainerFragment extends Fragment {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
                                 dialog.dismiss();
+                                snackbar.dismiss();
+                                viewModel.setQuizInProgress(false);
+                                viewModel.cancelCountDownTimer();
                                 Navigation.findNavController(view).navigate(R.id.nav_quiz_result);
                             }
                         });
@@ -62,6 +82,40 @@ public class QuizContainerFragment extends Fragment {
                 alertDialog.show();
             }
         });
+
+        if (viewModel.isQuizInProgress()) {
+            snackbar.show();
+            viewModel.setCountDownTimer(
+                    new CountDownTimer(4000, 1000) {
+                        @Override
+                        public void onTick(long millisUntilFinished) {
+                            snackbar.setText(getContext().getString(
+                                    R.string.quiz_snackbar_countdown,
+                                    getFormattedTime(millisUntilFinished)));
+                            Log.d(QuizContainerFragment.class.getSimpleName(), "tick tock");
+                        }
+
+                        @Override
+                        public void onFinish() {
+                            AlertDialog alertDialog = new AlertDialog.Builder(getActivity()).create();
+                            alertDialog.setTitle(getContext().getString(R.string.quiz_timeout_alert_title));
+                            alertDialog.setMessage(getContext().getString(R.string.quiz_timeout_alert_msg));
+                            alertDialog.setButton(AlertDialog.BUTTON_NEUTRAL,
+                                    getContext().getString(R.string.tough_titty),
+                                    new DialogInterface.OnClickListener() {
+                                        @Override
+                                        public void onClick(DialogInterface dialog, int which) {
+                                            dialog.dismiss();
+                                        }
+                                    });
+                            alertDialog.show();
+                            viewModel.setQuizInProgress(false);
+                            snackbar.dismiss();
+                            Navigation.findNavController(view).navigate(R.id.nav_quiz_result);
+                        }
+                    }.start()
+            );
+        }
         return view;
     }
 
@@ -85,5 +139,11 @@ public class QuizContainerFragment extends Fragment {
     public void onDestroy() {
         super.onDestroy();
         Log.d(QuizContainerFragment.class.getSimpleName(), "onDestroy...");
+    }
+
+    private String getFormattedTime(long millis) {
+        return String.format("%02d:%02d:%02d", TimeUnit.MILLISECONDS.toHours(millis),
+                TimeUnit.MILLISECONDS.toMinutes(millis) % TimeUnit.HOURS.toMinutes(1),
+                TimeUnit.MILLISECONDS.toSeconds(millis) % TimeUnit.MINUTES.toSeconds(1));
     }
 }

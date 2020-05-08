@@ -2,6 +2,7 @@ package com.github.lormico.quizfarmacia.ui.quiz;
 
 import android.app.Application;
 import android.content.SharedPreferences;
+import android.os.CountDownTimer;
 import android.util.Log;
 
 import androidx.annotation.NonNull;
@@ -24,6 +25,8 @@ public class QuizViewModel extends AndroidViewModel {
     private List<AnsweredQuestion> mAnsweredQuestions;
     private List<Question> mRandomizedQuestions;
     private SharedPreferences mSharedPreferences;
+    private boolean mQuizInProgress;
+    private CountDownTimer mCountDownTimer;
 
     public QuizViewModel(@NonNull Application application) {
         super(application);
@@ -87,5 +90,23 @@ public class QuizViewModel extends AndroidViewModel {
 
     public List<Question> getRandomizedQuestions() {
         return mRandomizedQuestions;
+    }
+
+    public void setQuizInProgress(boolean quizInProgress) {
+        mQuizInProgress = quizInProgress;
+    }
+
+    public boolean isQuizInProgress() {
+        return mQuizInProgress;
+    }
+
+    public void setCountDownTimer(CountDownTimer countDownTimer) {
+        Log.d(QuizViewModel.class.getSimpleName(), "Avviato conto alla rovescia!");
+        mCountDownTimer = countDownTimer;
+    }
+
+    public void cancelCountDownTimer() {
+        Log.d(QuizViewModel.class.getSimpleName(), "Annullato conto alla rovescia!");
+        mCountDownTimer.cancel();
     }
 }

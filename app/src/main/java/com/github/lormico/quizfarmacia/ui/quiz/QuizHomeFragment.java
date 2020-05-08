@@ -32,6 +32,7 @@ public class QuizHomeFragment extends Fragment {
 
         button.setOnClickListener(v -> {
             viewModel.generateRandomizedQuestions();
+            viewModel.setQuizInProgress(true);
             Navigation.findNavController(view).navigate(R.id.nav_quiz_container);
         });
 

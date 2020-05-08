@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".ui.quiz.QuizHomeFragment" >
+    android:id="@+id/coordinator_layout_quiz"
+    tools:context=".ui.quiz.QuizHomeFragment">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -29,8 +30,10 @@
         android:id="@+id/fab_quiz"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="true"
-        android:layout_margin="@dimen/fab_margin"
+        android:layout_gravity="end|bottom"
+        android:layout_marginStart="@dimen/fab_margin"
+        android:layout_marginTop="@dimen/fab_margin"
+        android:layout_marginEnd="@dimen/fab_margin"
+        android:layout_marginBottom="@dimen/fab_margin"
         app:srcCompat="@android:drawable/ic_dialog_email" />
-</RelativeLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

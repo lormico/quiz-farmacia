@@ -34,9 +34,14 @@
 
     <string name="quiz_hand_in_confirmation_title">Conferma la consegna</string>
     <string name="quiz_hand_in_confirmation_msg">Sei sicuro di voler terminare il test?</string>
+    <string name="quiz_timeout_alert_title">Tempo scaduto</string>
+    <string name="quiz_timeout_alert_msg">È scaduto il tempo a disposizione per il quiz, ed è stato consegnato automaticamente!</string>
+
+    <string name="quiz_snackbar_countdown">Tempo rimanente: %1$s</string>
 
     <string name="affirmative">Sì</string>
     <string name="negative">No</string>
+    <string name="tough_titty">Stacce</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
